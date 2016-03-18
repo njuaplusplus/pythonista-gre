@@ -333,6 +333,3 @@ Err: 51, recited: 268, total: 268
 5 garrulous adj. 话多的
 5 imperative adj. 紧急的
 ==================
-20160317 15:55:53
-Err: 0, recited: 2, total: 268
-==================
