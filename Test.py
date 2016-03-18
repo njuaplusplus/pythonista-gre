@@ -20,7 +20,7 @@ class ReciteView (ui.View):
 		self[TEXTVIEW_MEANING_NAME].editable = False
 		self[LABEL_WORD_NAME].text = self.recite.pickone().word
 		self[LABEL_TOTAL_NUM_NAME].text = str(self.recite.length())
-		self[LABEL_RECITED_CNT_NAME].text = str(self.recite.current_index)
+		self[LABEL_RECITED_CNT_NAME].text = str(self.recite.current_index+1)
 		self[LABEL_ERR_CNT_NAME].text = '0'
 	def will_close(self):
 		self.recite.save('words.txt')
@@ -44,7 +44,7 @@ def button_tapped(sender):
 	else:
 		label_word.text = word.word
 		textview_meaning.text = ''
-		sender.superview[LABEL_RECITED_CNT_NAME].text = str(sender.superview.recite.current_index)
+		sender.superview[LABEL_RECITED_CNT_NAME].text = str(sender.superview.recite.current_index+1)
 		sender.superview[LABEL_ERR_CNT_NAME].text = str(sender.superview.recite.error_cnt())
 
 if __name__ == '__main__':

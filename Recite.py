@@ -67,7 +67,10 @@ class Recite (object):
 	def shuffle(self):
 		random.shuffle(self.words)
 		self.shuffled = True
-		
+	
+	def filter(self, err_times):
+		if err_times > 0:
+			self.words = [w for w in self.words if w.err_times > err_times]
 		
 if __name__ == '__main__':
 	recite = Recite('words.txt')

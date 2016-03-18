@@ -333,3 +333,86 @@ Err: 51, recited: 268, total: 268
 5 garrulous adj. 话多的
 5 imperative adj. 紧急的
 ==================
+20160318 17:33:30
+Err: 2, recited: 17, total: 330
+1 incommensurate adj. 不成比例的，不相称的
+7 graft v./n. 嫁接，结合；贪污
+==================
+20160318 19:15:07
+Err: 75, recited: 330, total: 330
+1 incipient adj. 初期的，起初的
+1 ingest v. 吞下，咽下
+6 igneous adj. 火的，似火的
+1 indenture n. 契约，合同 v. 以契约约束
+3 glutinous adj. 粘的，胶状的 glue n. 胶水
+7 flustered adj. 慌张的，激动不安的
+1 indulge v. 放纵，纵容
+2 humiliate v. 羞辱，使丢脸
+7 glaze v. 上釉于；使光滑 n. 釉
+1 indolent adj. 懒惰的
+1 indulgent adj. 放纵的，纵容的
+1 infrared adj. 红外线的
+6 fluffy adj. 有绒毛的；无聊的，琐碎的
+5 huddle v. 挤成一团 n. 一堆人（或物）
+1 indignation n. 愤慨
+5 grating adj. （声音）刺耳的；恼人的
+2 impervious adj. 不能渗透的
+6 hatch n. 船舱盖 v. 孵化；策划
+5 grumble v. 嘟囔，抱怨，发牢骚
+1 incessant adj. 不停的，不断的
+6 imperious adj. 傲慢的，专横的
+6 garrulous adj. 话多的
+1 incumbent n. 在职者，现任者 adj. 义不容辞的
+1 inane adj. 无意义的，空洞的；愚蠢的
+7 fussy adj. 爱挑剔的，难取悦的
+1 indefatigable adj. 不知疲倦的
+1 infirm adj. 虚弱的
+7 futile adj. 无效的，无用的；（人）没出息的；琐细的
+7 foible n. 小缺点，小毛病
+6 gorgeous adj. 华丽的；极好的
+5 grandiose adj. 宏伟的
+7 galvanize v. 刺激；电镀；通电
+1 inexorable adj. 不为所动的；无法改变的
+3 imposing adj. 给人印象深刻的；壮丽的，雄伟的
+3 impetuous adj. 冲动的，鲁莽的
+1 grain n. 谷物；小的硬粒
+7 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+7 fraternity n. 同行；友爱
+1 incidence n. 发生，出现；发生率
+6 grind v. 磨碎，碾碎 n. 苦差事
+6 grim adj. 冷酷的，可怕的
+5 gush v. 涌出，迸出；滔滔不绝地说 n. 涌出，迸发
+1 infertile adj. 贫瘠的，不结果实的
+8 florid adj. 华丽的；（脸）红润的
+7 gluttonous adj. 贪吃的
+1 infuse v. 注入，灌输；鼓励
+5 forfeit v. 丧失，被罚没收 n. 丧失的东西
+1 impugn v. 提出异议，对…表示怀疑
+1 inert adj. 惰性的；呆滞的，迟缓的
+5 hilarity n. 欢闹，狂欢
+1 infest v. 大批出没于，骚扰；寄生于
+6 graze v. （让动物）吃草；放牧
+1 indict v. 控诉，起诉
+6 impertinent adj. 不切题的；无礼的，莽撞的
+3 impart v. 传授，赋予；传递；告知，透露
+7 garble v. 曲解，篡改
+6 fortuitous adj. 偶然发生的，偶然的
+1 incendiary adj. 防火的，纵火的
+6 hunch n. 直觉，预感
+6 falter v. 蹒跚；支吾地说
+7 furtive adj. 偷偷的，秘密的
+7 giddy adj. 轻浮的
+6 hypnotic adj. 催眠的 n. 催眠药
+2 imposture n. 冒充
+1 ingrain adj. 根深蒂固的 n. 本质
+6 imbue v. 浸染，浸透；使充满，灌输，激发
+1 ingenuous adj. 纯真的，纯朴的；坦率的
+6 glandular adj. 腺状的，腺的
+7 gloat v. 幸灾乐祸地看，心满意足地看
+3 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
+5 fractious adj. （脾气）易怒的，好争吵的
+3 impiety n. 不虔诚，无信仰
+7 foliage n. 叶子
+1 impulsive adj. 冲动的，由冲动引起的；易冲动的
+1 incense n. 香味 v. 激怒
+==================
