@@ -9,22 +9,45 @@ TEXTVIEW_MEANING_NAME = 'textview_meaning'
 BUTTON_ERROR_NAME = 'button_error'
 BUTTON_RIGHT_NAME = 'button_right'
 BUTTON_SHOW_NAME = 'button_show'
+BUTTON_EXIT_NAME = 'button_exit'
+BUTTON_MENU_START_NAME = 'button_menu_start'
+BUTTON_MENU_EXIT_NAME = 'button_menu_exit'
+
+class ReciteMenuView(ui.View):
+	def __init__(self):
+		self.start2recite = False
+	
 
 class ReciteView (ui.View):
 	def __init__(self):
 		self.recite = Recite('words.txt')
-		self.recite.shuffle()
+		# self.recite.shuffle()
+		
 	def did_load(self):
 		self[BUTTON_RIGHT_NAME].enabled = False
 		self[BUTTON_ERROR_NAME].enabled = False
 		self[TEXTVIEW_MEANING_NAME].editable = False
-		self[LABEL_WORD_NAME].text = self.recite.pickone().word
-		self[LABEL_TOTAL_NUM_NAME].text = str(self.recite.length())
 		self[LABEL_RECITED_CNT_NAME].text = str(self.recite.current_index+1)
 		self[LABEL_ERR_CNT_NAME].text = '0'
+		
 	def will_close(self):
 		self.recite.save('words.txt')
-
+		
+	def shuffle(self):
+		self.recite.shuffle()
+	
+	def filter(self, err_times_threshold):
+		self.recite.filter(err_times_threshold)
+	
+	def before_present(self):
+		word = self.recite.pickone()
+		if word is None:
+			self.close()
+		else:
+			self[LABEL_WORD_NAME].text = word.word
+			self[LABEL_TOTAL_NUM_NAME].text = str(self.recite.reciting_length())
+		
+		
 def button_tapped(sender):
 	button_name = sender.name
 	label_word = sender.superview[LABEL_WORD_NAME]
@@ -35,6 +58,17 @@ def button_tapped(sender):
 		sender.superview[BUTTON_RIGHT_NAME].enabled = True
 		sender.superview[BUTTON_ERROR_NAME].enabled = True
 		textview_meaning.text = sender.superview.recite.current_word().meaning
+		return
+	elif button_name == BUTTON_EXIT_NAME:
+		sender.superview.close()
+		return
+	elif button_name == BUTTON_MENU_START_NAME:
+		sender.superview.start2recite	= True
+		sender.superview.close()
+		return
+	elif button_name == BUTTON_MENU_EXIT_NAME:
+		sender.superview.start2recite = False
+		sender.superview.close()
 		return
 	sender.superview[BUTTON_RIGHT_NAME].enabled = False
 	sender.superview[BUTTON_ERROR_NAME].enabled = False
@@ -48,10 +82,18 @@ def button_tapped(sender):
 		sender.superview[LABEL_ERR_CNT_NAME].text = str(sender.superview.recite.error_cnt())
 
 if __name__ == '__main__':
-	v = ui.load_view('Test')
-	if ui.get_screen_size()[1] >= 768:
-		# ipad
-		v.present('sheet')
-	else:
-		# iphone
-		v.present(orientations=['portrait'])
+	menu = ui.load_view('Menu')
+	menu.present(orientations=['portrait'], hide_title_bar=True)
+	menu.wait_modal()
+	if menu.start2recite:
+		v = ui.load_view('Test')
+		err_times_threshold = 0
+		try:
+			err_times_threshold = int(menu['textfield_err_times_threshold'].text)
+		except ValueError as err:
+			print('Can not convert to int' + str(err))
+		v.filter(err_times_threshold)
+		if menu['switch_shuffle'].value == True:
+			v.shuffle()
+		v.before_present()
+		v.present(orientations=['portrait'], hide_title_bar=True)

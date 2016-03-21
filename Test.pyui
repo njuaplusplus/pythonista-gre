@@ -13,15 +13,15 @@
         ],
         "attributes" : {
           "flex" : "WB",
-          "name" : "label_word",
+          "font_name" : "<System>",
           "frame" : "{{85, 144}, {150, 32}}",
           "uuid" : "FF174342-4887-4F97-BC60-EA735C638F03",
           "text" : "Word",
           "alignment" : "left",
           "class" : "Label",
           "number_of_lines" : 0,
-          "font_size" : 24,
-          "font_name" : "<System>"
+          "name" : "label_word",
+          "font_size" : 24
         }
       },
       {
@@ -33,7 +33,7 @@
         ],
         "attributes" : {
           "uuid" : "0C07D6F2-D196-4E97-B55C-4C5744FB201C",
-          "flex" : "HLT",
+          "font_size" : 15,
           "corner_radius" : 0,
           "frame" : "{{120, 144}, {80, 32}}",
           "tint_color" : "RGBA(0.778302,0.000000,0.000000,1.000000)",
@@ -43,7 +43,7 @@
           "action" : "button_tapped",
           "class" : "Button",
           "name" : "button_error",
-          "font_size" : 15
+          "flex" : "HLT"
         }
       },
       {
@@ -76,7 +76,7 @@
         ],
         "attributes" : {
           "uuid" : "3960511A-9902-4AEE-8EE1-02104A2ECC0D",
-          "flex" : "WH",
+          "font_size" : 24,
           "frame" : "{{60, 60}, {200, 200}}",
           "editable" : false,
           "alignment" : "left",
@@ -86,7 +86,7 @@
           "spellchecking_type" : "default",
           "class" : "TextView",
           "name" : "textview_meaning",
-          "font_size" : 24
+          "flex" : "WH"
         }
       },
       {
@@ -98,7 +98,7 @@
         ],
         "attributes" : {
           "uuid" : "CC8CBE77-6170-4E1B-8C8C-062C2A595078",
-          "flex" : "HLT",
+          "font_size" : 15,
           "corner_radius" : 0,
           "frame" : "{{120, 144}, {80, 32}}",
           "tint_color" : "RGBA(0.317610,0.714623,0.119104,1.000000)",
@@ -108,7 +108,7 @@
           "action" : "button_tapped",
           "class" : "Button",
           "name" : "button_right",
-          "font_size" : 15
+          "flex" : "HLT"
         }
       },
       {
@@ -120,15 +120,15 @@
         ],
         "attributes" : {
           "flex" : "LB",
-          "name" : "label_err_cnt",
-          "text_color" : "RGBA(0.715356,0.000000,0.000000,1.000000)",
+          "font_size" : 18,
+          "font_name" : "<System>",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "8A58300A-A42B-40F3-9898-C251347AFD8B",
           "text" : "Error",
           "alignment" : "right",
           "class" : "Label",
-          "font_size" : 18,
-          "font_name" : "<System>"
+          "name" : "label_err_cnt",
+          "text_color" : "RGBA(0.715356,0.000000,0.000000,1.000000)"
         }
       },
       {
@@ -140,14 +140,14 @@
         ],
         "attributes" : {
           "flex" : "LB",
-          "font_name" : "<System>",
+          "name" : "label_recited_cnt",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "5D1E0007-99D9-4750-BCB5-D7C1025E17CC",
           "text" : "Recited",
           "alignment" : "right",
           "class" : "Label",
           "font_size" : 18,
-          "name" : "label_recited_cnt"
+          "font_name" : "<System>"
         }
       },
       {
@@ -159,14 +159,14 @@
         ],
         "attributes" : {
           "flex" : "LB",
-          "font_name" : "<System>",
+          "name" : "label_total_num",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "71711104-D9DD-4FAE-9D69-926C21B9A6A8",
           "text" : "Total",
           "alignment" : "left",
           "class" : "Label",
           "font_size" : 18,
-          "name" : "label_total_num"
+          "font_name" : "<System>"
         }
       },
       {
@@ -178,14 +178,32 @@
         ],
         "attributes" : {
           "flex" : "LB",
-          "font_size" : 18,
+          "font_name" : "<System>",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "5B953487-D5E6-40EE-8B66-C668DE868D98",
           "text" : "\/",
           "alignment" : "right",
           "class" : "Label",
-          "name" : "label1",
-          "font_name" : "<System>"
+          "font_size" : 18,
+          "name" : "label1"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{6, 15}, {48, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "RB",
+          "action" : "button_tapped",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "退出",
+          "class" : "Button",
+          "uuid" : "35B7E01A-E11C-4972-B254-B54CD2A62366",
+          "font_size" : 15,
+          "name" : "button_exit"
         }
       }
     ],

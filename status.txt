@@ -416,3 +416,56 @@ Err: 75, recited: 330, total: 330
 1 impulsive adj. 冲动的，由冲动引起的；易冲动的
 1 incense n. 香味 v. 激怒
 ==================
+20160321 12:41:49
+Err: 3, recited: 6, total: 330
+8 gluttonous adj. 贪吃的
+1 incarnate adj. 具有人体的；化身的，拟人化的
+1 improvise v. 即席创作
+==================
+20160321 12:45:36
+Err: 23, recited: 35, total: 330
+8 glaze v. 上釉于；使光滑 n. 釉
+7 graze v. （让动物）吃草；放牧
+7 grind v. 磨碎，碾碎 n. 苦差事
+8 garble v. 曲解，篡改
+7 fluffy adj. 有绒毛的；无聊的，琐碎的
+8 foliage n. 叶子
+7 igneous adj. 火的，似火的
+7 hunch n. 直觉，预感
+7 garrulous adj. 话多的
+8 graft v./n. 嫁接，结合；贪污
+8 giddy adj. 轻浮的
+8 fraternity n. 同行；友爱
+8 furtive adj. 偷偷的，秘密的
+7 impertinent adj. 不切题的；无礼的，莽撞的
+7 imperious adj. 傲慢的，专横的
+8 galvanize v. 刺激；电镀；通电
+8 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+7 grim adj. 冷酷的，可怕的
+8 fussy adj. 爱挑剔的，难取悦的
+7 hypnotic adj. 催眠的 n. 催眠药
+7 fortuitous adj. 偶然发生的，偶然的
+8 flustered adj. 慌张的，激动不安的
+8 foible n. 小缺点，小毛病
+==================
+20160321 13:09:47
+Err: 17, recited: 27, total: 330
+Shuffled: False, err_times_threshold: 7,  reciting_length: 27
+9 foliage n. 叶子
+8 graze v. （让动物）吃草；放牧
+8 impertinent adj. 不切题的；无礼的，莽撞的
+9 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+8 imperious adj. 傲慢的，专横的
+8 hypnotic adj. 催眠的 n. 催眠药
+9 furtive adj. 偷偷的，秘密的
+9 flustered adj. 慌张的，激动不安的
+9 galvanize v. 刺激；电镀；通电
+9 giddy adj. 轻浮的
+8 fluffy adj. 有绒毛的；无聊的，琐碎的
+8 garrulous adj. 话多的
+9 foible n. 小缺点，小毛病
+9 fraternity n. 同行；友爱
+8 grind v. 磨碎，碾碎 n. 苦差事
+8 hunch n. 直觉，预感
+8 fortuitous adj. 偶然发生的，偶然的
+==================
