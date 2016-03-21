@@ -4,7 +4,9 @@ Recite GRE vocabulary in [Pythonista](http://omz-software.com/pythonista/).
 
 ## Preview
 
-![Preview](snapshots/reciting_preview.png)
+![Menu Preview](snapshots/menu_preview.png)
+
+![Reciting Preview](snapshots/reciting_preview.png)
 
 ## Menu
 
