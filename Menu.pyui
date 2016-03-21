@@ -1,0 +1,135 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{33, 139}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRTB",
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "F3A62FE8-04AF-4B7F-B786-00266D1114A8",
+          "text" : "随机顺序背诵",
+          "alignment" : "right",
+          "class" : "Label",
+          "font_size" : 18,
+          "name" : "label_shuffle"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{203, 140}, {51, 31}}",
+        "class" : "Switch",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRTB",
+          "frame" : "{{135, 225}, {51, 31}}",
+          "value" : true,
+          "class" : "Switch",
+          "name" : "switch_shuffle",
+          "uuid" : "F12E5D8B-37AF-4D1A-9AD0-2BD969168300"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{6, 180}, {177, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRTB",
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "DA5609E6-6D0D-423C-B616-B6D7036E4066",
+          "text" : "背诵错误数大于等于",
+          "alignment" : "right",
+          "class" : "Label",
+          "font_size" : 18,
+          "name" : "label_err_times_threshold"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{203, 180}, {51, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRTB",
+          "font_name" : "<System>",
+          "frame" : "{{60, 224}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "56D2FF30-FBE1-412D-B371-EFD82CBAD179",
+          "alignment" : "center",
+          "text" : "0",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "textfield_err_times_threshold"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{74, 227}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "button_tapped",
+          "flex" : "LRTB",
+          "border_width" : 1,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "退出",
+          "class" : "Button",
+          "uuid" : "4C737049-A956-4DEF-BAAF-DC5C03E30FE4",
+          "corner_radius" : 12,
+          "border_color" : "RGBA(0.000000,0.571429,1.000000,1.000000)",
+          "font_size" : 15,
+          "name" : "button_menu_exit"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{174, 227}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "button_tapped",
+          "flex" : "LRTB",
+          "border_width" : 1,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "开始",
+          "class" : "Button",
+          "uuid" : "491B1AC2-DA6F-4867-9DB2-CB7AD0705A66",
+          "corner_radius" : 12,
+          "border_color" : "RGBA(0.041667,0.589286,1.000000,1.000000)",
+          "font_size" : 15,
+          "name" : "button_menu_start"
+        }
+      }
+    ],
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "custom_class" : "ReciteMenuView",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "菜单"
+    }
+  }
+]
