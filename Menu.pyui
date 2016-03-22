@@ -19,8 +19,8 @@
           "text" : "随机顺序背诵",
           "alignment" : "right",
           "class" : "Label",
-          "name" : "label_shuffle",
-          "font_size" : 18
+          "font_size" : 18,
+          "name" : "label_shuffle"
         }
       },
       {
@@ -54,8 +54,8 @@
           "text" : "背诵错误数大于等于",
           "alignment" : "right",
           "class" : "Label",
-          "name" : "label_err_times_threshold",
-          "font_size" : 18
+          "font_size" : 18,
+          "name" : "label_err_times_threshold"
         }
       },
       {
@@ -75,8 +75,8 @@
           "alignment" : "center",
           "text" : "0",
           "autocorrection_type" : "default",
-          "name" : "textfield_err_times_threshold",
-          "font_size" : 17
+          "font_size" : 17,
+          "name" : "textfield_err_times_threshold"
         }
       },
       {
@@ -133,11 +133,11 @@
           "font_name" : "<System>",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "2422D2E5-F430-4095-AF07-F259A599BCEC",
-          "text" : "单词发音",
+          "text" : "自动发音",
           "alignment" : "right",
           "class" : "Label",
-          "font_size" : 18,
-          "name" : "label_speech"
+          "name" : "label_speech",
+          "font_size" : 18
         }
       },
       {
@@ -154,7 +154,7 @@
           "class" : "Switch",
           "uuid" : "2724ED2D-1666-41BF-B338-C6BE2A6B8171",
           "value" : true,
-          "name" : "switch_speech"
+          "name" : "switch_auto_speech"
         }
       }
     ],

@@ -17,7 +17,7 @@ BUTTON_MENU_EXIT_NAME = 'button_menu_exit'
 BUTTON_SPEAK_NANE = 'button_speak'
 TEXTFIELD_ERR_TIMES_THRESHOLD = 'textfield_err_times_threshold'
 SWITCH_SHUFFLE = 'switch_shuffle'
-SWITCH_SPEECH = 'switch_speech'
+SWITCH_SPEECH = 'switch_auto_speech'
 
 class ReciteMenuView(ui.View):
 	def __init__(self):
@@ -27,7 +27,7 @@ class ReciteMenuView(ui.View):
 class ReciteView (ui.View):
 	def __init__(self):
 		self.recite = Recite('words.txt')
-		self.speech = False
+		self.auto_speech = False
 		
 	def did_load(self):
 		self[BUTTON_RIGHT_NAME].enabled = False
@@ -52,7 +52,7 @@ class ReciteView (ui.View):
 		else:
 			self[LABEL_WORD_NAME].text = word.word
 			self[LABEL_TOTAL_NUM_NAME].text = str(self.recite.reciting_length())
-			if self.speech:
+			if self.auto_speech:
 				speech.say(word.word, 'en-US')
 		
 		
@@ -91,7 +91,7 @@ def button_tapped(sender):
 		textview_meaning.text = ''
 		sender.superview[LABEL_RECITED_CNT_NAME].text = str(sender.superview.recite.current_index+1)
 		sender.superview[LABEL_ERR_CNT_NAME].text = str(sender.superview.recite.error_cnt())
-		if sender.superview.speech:
+		if sender.superview.auto_speech:
 			speech.say(word.word, 'en-US')
 
 if __name__ == '__main__':
@@ -108,6 +108,6 @@ if __name__ == '__main__':
 		v.filter(err_times_threshold)
 		if menu[SWITCH_SHUFFLE].value == True:
 			v.shuffle()
-		v.speech = menu[SWITCH_SPEECH].value
+		v.auto_speech = menu[SWITCH_SPEECH].value
 		v.before_present()
 		v.present(orientations=['portrait'], hide_title_bar=True)
