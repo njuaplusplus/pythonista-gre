@@ -11,3 +11,10 @@ Recite GRE vocabulary in [Pythonista](http://omz-software.com/pythonista/).
 ## Menu
 
 Choose to recite only those words whose error times exceed the threshold and randomly.
+
+You can also choose whether the word is auto pronounced.
+
+## Pronounce
+
+Use the `speech` module to pronounce the word.
+
