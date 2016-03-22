@@ -480,3 +480,68 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 330
 9 garrulous adj. 话多的
 9 garble v. 曲解，篡改
 ==================
+20160322 14:11:50
+Err: 61, recited: 330, total: 330
+Shuffled: False, err_times_threshold: 0,  reciting_length: 330
+8 grim adj. 冷酷的，可怕的
+9 impertinent adj. 不切题的；无礼的，莽撞的
+2 incessant adj. 不停的，不断的
+7 gorgeous adj. 华丽的；极好的
+10 garrulous adj. 话多的
+1 inducible adj. 可诱导的
+2 hereditary adj. 祖传的；遗传的
+2 infest v. 大批出没于，骚扰；寄生于
+6 huddle v. 挤成一团 n. 一堆人（或物）
+1 indented adj. 锯齿状的；高低不平的
+2 infuse v. 注入，灌输；鼓励
+2 impugn v. 提出异议，对…表示怀疑
+10 furtive adj. 偷偷的，秘密的
+3 grudge v. 吝惜，勉强给或承认；不满，怨恨
+1 inadvertent adj. 疏忽的；不经意的，无心的
+1 impunity n. 免受惩罚
+6 flimsy adj. 轻而薄的；易损坏的
+10 flustered adj. 慌张的，激动不安的
+2 ingenuous adj. 纯真的，纯朴的；坦率的
+2 infirm adj. 虚弱的
+2 incense n. 香味 v. 激怒
+2 indenture n. 契约，合同 v. 以契约约束
+2 incipient adj. 初期的，起初的
+1 inflamed adj. 发炎的，红肿的
+2 indulgent adj. 放纵的，纵容的
+2 indict v. 控诉，起诉
+10 galvanize v. 刺激；电镀；通电
+1 indigenous adj. 土产的，本地的；生来的，固有的
+5 impetuous adj. 冲动的，鲁莽的
+6 fret v. （使）烦躁，焦虑 n. 烦躁焦虑
+2 indulge v. 放纵，纵容
+7 hatch n. 船舱盖 v. 孵化；策划
+2 impulsive adj. 冲动的，由冲动引起的；易冲动的
+10 fraternity n. 同行；友爱
+9 hypnotic adj. 催眠的 n. 催眠药
+2 inane adj. 无意义的，空洞的；愚蠢的
+6 grumble v. 嘟囔，抱怨，发牢骚
+6 grating adj. （声音）刺耳的；恼人的
+7 glandular adj. 腺状的，腺的
+10 foliage n. 叶子
+4 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
+1 incentive n. 刺激，诱因，动机；刺激因素
+2 incidence n. 发生，出现；发生率
+2 indignation n. 愤慨
+9 glaze v. 上釉于；使光滑 n. 釉
+10 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+2 infertile adj. 贫瘠的，不结果实的
+2 incumbent n. 在职者，现任者 adj. 义不容辞的
+1 impulse n. 动力，刺激
+2 impassive adj. 无动于衷的，冷漠的
+6 gush v. 涌出，迸出；滔滔不绝地说 n. 涌出，迸发
+9 hunch n. 直觉，预感
+2 inert adj. 惰性的；呆滞的，迟缓的
+10 foible n. 小缺点，小毛病
+2 ingest v. 吞下，咽下
+3 impervious adj. 不能渗透的
+9 fluffy adj. 有绒毛的；无聊的，琐碎的
+2 indolent adj. 懒惰的
+2 incendiary adj. 放火的，纵火的
+5 fray n. 吵架，打斗 v. 磨破
+9 graze v. （让动物）吃草；放牧
+==================
