@@ -469,3 +469,14 @@ Shuffled: False, err_times_threshold: 7,  reciting_length: 27
 8 hunch n. 直觉，预感
 8 fortuitous adj. 偶然发生的，偶然的
 ==================
+20160322 12:58:53
+Err: 1, recited: 1, total: 330
+Shuffled: False, err_times_threshold: 1,  reciting_length: 201
+4 impetuous adj. 冲动的，鲁莽的
+==================
+20160322 13:00:41
+Err: 2, recited: 13, total: 330
+Shuffled: False, err_times_threshold: 0,  reciting_length: 330
+9 garrulous adj. 话多的
+9 garble v. 曲解，篡改
+==================

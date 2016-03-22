@@ -19,8 +19,8 @@
           "text" : "随机顺序背诵",
           "alignment" : "right",
           "class" : "Label",
-          "font_size" : 18,
-          "name" : "label_shuffle"
+          "name" : "label_shuffle",
+          "font_size" : 18
         }
       },
       {
@@ -54,8 +54,8 @@
           "text" : "背诵错误数大于等于",
           "alignment" : "right",
           "class" : "Label",
-          "font_size" : 18,
-          "name" : "label_err_times_threshold"
+          "name" : "label_err_times_threshold",
+          "font_size" : 18
         }
       },
       {
@@ -75,8 +75,8 @@
           "alignment" : "center",
           "text" : "0",
           "autocorrection_type" : "default",
-          "font_size" : 17,
-          "name" : "textfield_err_times_threshold"
+          "name" : "textfield_err_times_threshold",
+          "font_size" : 17
         }
       },
       {
@@ -119,6 +119,42 @@
           "border_color" : "RGBA(0.041667,0.589286,1.000000,1.000000)",
           "font_size" : 15,
           "name" : "button_menu_start"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{33, 99}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRTB",
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "2422D2E5-F430-4095-AF07-F259A599BCEC",
+          "text" : "单词发音",
+          "alignment" : "right",
+          "class" : "Label",
+          "font_size" : 18,
+          "name" : "label_speech"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{203, 99}, {51, 31}}",
+        "class" : "Switch",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "",
+          "flex" : "LRTB",
+          "frame" : "{{135, 225}, {51, 31}}",
+          "class" : "Switch",
+          "uuid" : "2724ED2D-1666-41BF-B338-C6BE2A6B8171",
+          "value" : true,
+          "name" : "switch_speech"
         }
       }
     ],

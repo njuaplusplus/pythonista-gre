@@ -1,6 +1,8 @@
 # coding: utf-8
 from Recite import Recite
 import ui
+import speech
+
 LABEL_WORD_NAME = 'label_word'
 LABEL_ERR_CNT_NAME = 'label_err_cnt'
 LABEL_RECITED_CNT_NAME = 'label_recited_cnt'
@@ -12,6 +14,10 @@ BUTTON_SHOW_NAME = 'button_show'
 BUTTON_EXIT_NAME = 'button_exit'
 BUTTON_MENU_START_NAME = 'button_menu_start'
 BUTTON_MENU_EXIT_NAME = 'button_menu_exit'
+BUTTON_SPEAK_NANE = 'button_speak'
+TEXTFIELD_ERR_TIMES_THRESHOLD = 'textfield_err_times_threshold'
+SWITCH_SHUFFLE = 'switch_shuffle'
+SWITCH_SPEECH = 'switch_speech'
 
 class ReciteMenuView(ui.View):
 	def __init__(self):
@@ -21,7 +27,7 @@ class ReciteMenuView(ui.View):
 class ReciteView (ui.View):
 	def __init__(self):
 		self.recite = Recite('words.txt')
-		# self.recite.shuffle()
+		self.speech = False
 		
 	def did_load(self):
 		self[BUTTON_RIGHT_NAME].enabled = False
@@ -46,6 +52,8 @@ class ReciteView (ui.View):
 		else:
 			self[LABEL_WORD_NAME].text = word.word
 			self[LABEL_TOTAL_NUM_NAME].text = str(self.recite.reciting_length())
+			if self.speech:
+				speech.say(word.word, 'en-US')
 		
 		
 def button_tapped(sender):
@@ -70,6 +78,9 @@ def button_tapped(sender):
 		sender.superview.start2recite = False
 		sender.superview.close()
 		return
+	elif button_name == BUTTON_SPEAK_NANE:
+		speech.say(label_word.text, 'en-US')
+		return
 	sender.superview[BUTTON_RIGHT_NAME].enabled = False
 	sender.superview[BUTTON_ERROR_NAME].enabled = False
 	word = sender.superview.recite.pickone()
@@ -80,6 +91,8 @@ def button_tapped(sender):
 		textview_meaning.text = ''
 		sender.superview[LABEL_RECITED_CNT_NAME].text = str(sender.superview.recite.current_index+1)
 		sender.superview[LABEL_ERR_CNT_NAME].text = str(sender.superview.recite.error_cnt())
+		if sender.superview.speech:
+			speech.say(word.word, 'en-US')
 
 if __name__ == '__main__':
 	menu = ui.load_view('Menu')
@@ -89,11 +102,12 @@ if __name__ == '__main__':
 		v = ui.load_view('Test')
 		err_times_threshold = 0
 		try:
-			err_times_threshold = int(menu['textfield_err_times_threshold'].text)
+			err_times_threshold = int(menu[TEXTFIELD_ERR_TIMES_THRESHOLD].text)
 		except ValueError as err:
 			print('Can not convert to int' + str(err))
 		v.filter(err_times_threshold)
-		if menu['switch_shuffle'].value == True:
+		if menu[SWITCH_SHUFFLE].value == True:
 			v.shuffle()
+		v.speech = menu[SWITCH_SPEECH].value
 		v.before_present()
 		v.present(orientations=['portrait'], hide_title_bar=True)
