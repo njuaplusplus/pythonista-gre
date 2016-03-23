@@ -328,48 +328,47 @@
 2 ingest v. 吞下，咽下
 1 ingrain adj. 根深蒂固的 n. 本质
 0 ingrained adj. 根深蒂固的
-
-inimical adj. 敌意的，不友善的
-iniquitous adj. 邪恶的，不公正的
-inquisitive adj. 好奇的，好问的；爱打听的
-insinuate v. 暗指，暗示
-insipid adj. 乏味的，枯燥的
-insolent adj. 粗野的，无礼的
-instigate v. 怂恿，鼓动，煽动
-institute v. 设立，创立（社团等）；制定（制度等） n. 学院，学会，协会
-instructive adj. 传授知识的，教育的；有益的
-insular adj. 岛屿的；心胸狭窄的
-intact adj. 完整的，完好无缺的
-intelligible adj. 可理解的，易于理解的
-intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
-interplay v./n. 相互影响
-interpolate v. 插入；（通过插入新语句）篡改
-interrogation n. 审问，质问；疑问句
-intimate adj. 亲密的 n. 密友 v. 暗示
-intransigent adj. 不妥协的
-intrepid adj. 勇敢的，刚毅的
-intricacy n. 错综复杂
-intricate adj. 错综复杂的；难懂的
-intrigue v. 密谋；引起…的兴趣
-introspective adj. 内省的，自省的 inrospect （v. 内省，反省）
-introvert n. 性格内向的人
-intruding adj. 入侵的，入侵性的 intrude （v. 侵入，侵扰）
-inure v. 使习惯于
-invention n. 发明，创造；发明才能，创造力；发现，找到
-invigorate  v. 鼓舞，使精力充沛
-inviolate adj. 不受侵犯的，未受损害的
-invulnerable adj. 不会受伤害的，刀枪不入的
-irreproachable  adj. 无可指责的，无瑕疵的
-irresolute adj. 未决定的；犹豫不决的
-irreverent adj. 不尊敬的
-irreversible adj. 不能撤回的，不能取消的
-irrigate v. 灌溉；冲洗（伤口）
-irritable adj. 易怒的，急躁的；易受刺激的
-jest n. 笑话 v. 开玩笑
-jocular adj. 滑稽的，幽默的；爱开玩笑的
-jolting adj. 令人震惊的
-judicious adj. 有判断力的；审慎的
-jumble v. 使混乱，杂乱 n. 混杂，杂乱
-justifiable adj. 有理由的，无可非议的 justify （v. 证明…是正当或合理的）
-juvenile adj. 青少年的；孩子气的，幼稚的
-keen adj. 锋利的，锐利的；明锐的，灵敏的；热心的
+1 inimical adj. 敌意的，不友善的
+1 iniquitous adj. 邪恶的，不公正的
+1 inquisitive adj. 好奇的，好问的；爱打听的
+1 insinuate v. 暗指，暗示
+1 insipid adj. 乏味的，枯燥的
+1 insolent adj. 粗野的，无礼的
+1 instigate v. 怂恿，鼓动，煽动
+1 institute v. 设立，创立（社团等）；制定（制度等） n. 学院，学会，协会
+1 instructive adj. 传授知识的，教育的；有益的
+1 insular adj. 岛屿的；心胸狭窄的
+1 intact adj. 完整的，完好无缺的
+1 intelligible adj. 可理解的，易于理解的
+1 intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
+1 interplay v./n. 相互影响
+1 interpolate v. 插入；（通过插入新语句）篡改
+1 interrogation n. 审问，质问；疑问句
+1 intimate adj. 亲密的 n. 密友 v. 暗示
+1 intransigent adj. 不妥协的
+1 intrepid adj. 勇敢的，刚毅的
+1 intricacy n. 错综复杂
+1 intricate adj. 错综复杂的；难懂的
+1 intrigue v. 密谋；引起…的兴趣
+1 introspective adj. 内省的，自省的 inrospect （v. 内省，反省）
+1 introvert n. 性格内向的人
+1 intruding adj. 入侵的，入侵性的 intrude （v. 侵入，侵扰）
+1 inure v. 使习惯于
+1 invention n. 发明，创造；发明才能，创造力；发现，找到
+1 invigorate  v. 鼓舞，使精力充沛
+1 inviolate adj. 不受侵犯的，未受损害的
+1 invulnerable adj. 不会受伤害的，刀枪不入的
+1 irreproachable  adj. 无可指责的，无瑕疵的
+1 irresolute adj. 未决定的；犹豫不决的
+1 irreverent adj. 不尊敬的
+1 irreversible adj. 不能撤回的，不能取消的
+1 irrigate v. 灌溉；冲洗（伤口）
+1 irritable adj. 易怒的，急躁的；易受刺激的
+1 jest n. 笑话 v. 开玩笑
+1 jocular adj. 滑稽的，幽默的；爱开玩笑的
+1 jolting adj. 令人震惊的
+1 judicious adj. 有判断力的；审慎的
+1 jumble v. 使混乱，杂乱 n. 混杂，杂乱
+1 justifiable adj. 有理由的，无可非议的 justify （v. 证明…是正当或合理的）
+1 juvenile adj. 青少年的；孩子气的，幼稚的
+1 keen adj. 锋利的，锐利的；明锐的，灵敏的；热心的
