@@ -12,7 +12,7 @@
 0 exhaust v. 耗尽；使精疲力竭 n.（机器排出的）废气
 0 exhilarate v. 使兴奋；使振作
 0 exhilaration n. 高兴，兴奋
-4 exonerate v. 免除责任；确定无罪
+5 exonerate v. 免除责任；确定无罪
 1 exoneration n. 免除（责任、义务、苦难等）
 1 exorbitant adj. 过分的，过度的
 2 exorcise v. 驱除妖魔；除去（坏念头等）
@@ -27,7 +27,7 @@
 0 extricable  adj. 可解救的，能脱险的
 1 exuberant adj.（人）充满活力的；（植物）茂盛的
 1 fabricate v. 捏造；制造 （fabric n. 构造）
-5 facetious adj. 滑稽的，好开玩笑的
+6 facetious adj. 滑稽的，好开玩笑的
 1 facile adj. 易做到的；肤浅的
 6 falter v. 蹒跚；支吾地说
 0 farce n. 闹剧，滑稽剧；可笑的行为，荒唐的事情
@@ -38,15 +38,15 @@
 1 fickle adj. 易变的，变化无常的，不坚定的
 3 flabby adj. (肌肉等)不结实的，松弛的；意志力薄弱的 flaggy (adj.枯萎的) floppy (adj. 松软的)
 0 flag v. 减弱，衰退；枯萎；国旗
-2 flagging adj. 下垂的；衰弱的
-0 flaggy adj. 枯萎的；松软无力的
+3 flagging adj. 下垂的；衰弱的
+1 flaggy adj. 枯萎的；松软无力的
 4 flagrant adj. 罪恶昭彰的；公然的
 3 flake v. 使成薄片
 0 flamboyant adj. 艳丽的，显眼的，炫耀的
 2 flaunt v. 炫耀，夸耀
 2 flaw n. 瑕疵 v. 生裂缝；变得有缺陷
 1 flickering adj. 闪烁的，摇曳的，忽隐忽现的
-7 flimsy adj. 轻而薄的；易损坏的
+8 flimsy adj. 轻而薄的；易损坏的
 4 flip v. 用指轻弹；蹦蹦跳跳 adj. 无理的；冒失的；轻率的
 2 flippant adj. 无理的；轻率的
 1 floral adj. 花的，植物的
@@ -56,11 +56,11 @@
 3 flout v. 蔑视；违抗
 1 fluctuate v. 波动；变动
 1 fluctuation n. 波动，起伏，张罗
-10 fluffy adj. 有绒毛的；无聊的，琐碎的
+11 fluffy adj. 有绒毛的；无聊的，琐碎的
 2 fluorescent adj. 荧光的，发亮的
-11 flustered adj. 慌张的，激动不安的
+12 flustered adj. 慌张的，激动不安的
 10 foible n. 小缺点，小毛病
-11 foliage n. 叶子
+12 foliage n. 叶子
 0 folklore n. 民间传说；民俗学
 2 folly n. 愚蠢；愚蠢的想法或做法
 0 foodstuff n. 食品
@@ -78,12 +78,12 @@
 0 fortitude n. 坚毅，坚韧不拔
 8 fortuitous adj. 偶然发生的，偶然的
 3 foster v. 鼓励，促进；养育，抚养
-11 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+12 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
 2 founder v. （船）沉没；（计划）失败 n. 创建者
 6 fractious adj. （脾气）易怒的，好争吵的
 0 frail adj. 脆弱的；不坚实的
 0 frantic adj. 疯狂的，狂乱的
-11 fraternity n. 同行；友爱
+12 fraternity n. 同行；友爱
 1 fraught adj. 充满的
 5 fray n. 吵架，打斗 v. 磨破
 0 frenetic adj. 狂乱的，发狂的
@@ -97,7 +97,7 @@
 1 frugality n. 朴素；节俭
 4 fulsome adj. 虚情假意的；充足的
 2 fumigate v. 用烟熏消毒
-11 furtive adj. 偷偷的，秘密的
+12 furtive adj. 偷偷的，秘密的
 0 fuse v. 熔化；融合
 1 fusion n. 融合；核聚变
 8 fussy adj. 爱挑剔的，难取悦的
@@ -106,14 +106,14 @@
 0 galaxy n. 星系；一群（杰出人物）
 5 gall n. 胆汁；怨恨
 1 gallant adj. 勇敢的，英勇的；（对女人）献殷情的
-11 galvanize v. 刺激；电镀；通电
-9 garble v. 曲解，篡改
+12 galvanize v. 刺激；电镀；通电
+10 garble v. 曲解，篡改
 3 garish adj. 俗丽的，过于艳丽的
 10 garrulous adj. 话多的
 0 gaudy adj. 俗丽的
 0 generic adj. 种类的，类属的
 0 genial adj. 友好的，和蔼的
-1 genre n. （文学、艺术等的）类型，题材
+2 genre n. （文学、艺术等的）类型，题材
 1 genus n. （动植物的）属，类
 3 germinate v. 发芽；发展
 6 gibe v. 嘲笑 n. 嘲笑
@@ -125,7 +125,7 @@
 7 gloat v. 幸灾乐祸地看，心满意足地看
 0 gloom n. 昏暗；忧郁
 0 glossary n. 词汇表；难词表
-3 glossy adj. 有光泽的，光滑的
+4 glossy adj. 有光泽的，光滑的
 2 glucose n. 葡萄糖
 3 glutinous adj. 粘的，胶状的 glue n. 胶水
 8 gluttonous adj. 贪吃的
@@ -140,7 +140,7 @@
 1 gratify v. 使高兴，使满足
 6 grating adj. （声音）刺耳的；恼人的
 6 gratuitous adj. 无缘无故的；免费的 gratuity n. 小费
-10 graze v. （让动物）吃草；放牧
+11 graze v. （让动物）吃草；放牧
 1 gregarious adj. 群居的；爱社交的
 0 grief n. 忧伤，悲伤
 0 grieve v. 使某人极为悲伤
@@ -176,7 +176,7 @@
 0 heinous adj. 十恶不赦的
 1 herald v. 宣布···的消息；预示···的来临 n. 传令官；信使；先驱
 2 hereditary adj. 祖传的；遗传的
-1 heretical adj. 异端的
+2 heretical adj. 异端的
 0 heterodox adj. 异端的
 1 heterogeneous adj. 异类的，多样化的
 1 hiatus n. 空隙
@@ -198,7 +198,7 @@
 3 humidity n. 湿度，湿气 humid adj. 潮湿
 2 humiliate v. 羞辱，使丢脸
 4 humility n. 谦逊
-10 hunch n. 直觉，预感
+11 hunch n. 直觉，预感
 2 hurl v. 用力投掷；大声叫骂
 0 hydrate n. 水合物 v. (使)水合
 0 hyperbole n. 夸张法
@@ -236,7 +236,7 @@
 0 impartial adj. 公正的，无私的
 0 impassable adj. 不能通行的
 0 impassioned adj. 充满激情的，慷慨激昂的
-2 impassive adj. 无动于衷的，冷漠的
+3 impassive adj. 无动于衷的，冷漠的
 5 impeccable adj. 无瑕疵的
 5 impecunious adj. 不名一文的，没钱的
 2 impede v. 妨碍
@@ -244,13 +244,13 @@
 1 impenetrable adj. 不能穿透的；不可理解的
 5 imperative adj. 紧急的
 0 imperial adj. 帝王的，至尊的
-8 imperious adj. 傲慢的，专横的
+9 imperious adj. 傲慢的，专横的
 1 impersonal adj. 不受个人感情影响的
 0 impersonate v. 模仿；扮演
-10 impertinent adj. 不切题的；无礼的，莽撞的
+11 impertinent adj. 不切题的；无礼的，莽撞的
 0 imperturbable adj. 冷静的，沉着的
 3 impervious adj. 不能渗透的
-6 impetuous adj. 冲动的，鲁莽的
+7 impetuous adj. 冲动的，鲁莽的
 3 impiety n. 不虔诚，无信仰
 0 implausible adj. 难以置信的
 0 impolitic adj. 不明智的，失策的
@@ -260,198 +260,198 @@
 2 imposture n. 冒充
 0 impound v. 限制；依法没收，扣押
 0 impressed adj. 被打动的，有深刻印象的
-5 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
+6 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
 0 impromptu /ɪm’prɑmptu/ adj. 即兴的
 0 improvident adj. 无远见的，不节俭的
-1 improvise v. 即席创作
+2 improvise v. 即席创作
 1 imprudent adj. 轻率的；不理智的
 0 impudent adj. 鲁莽的，无礼的
-2 impugn v. 提出异议，对…表示怀疑
+3 impugn v. 提出异议，对…表示怀疑
 1 impulse n. 动力，刺激
-2 impulsive adj. 冲动的，由冲动引起的；易冲动的
-1 impunity n. 免受惩罚
+3 impulsive adj. 冲动的，由冲动引起的；易冲动的
+2 impunity n. 免受惩罚
 0 impute v. 归咎于；归于
-1 inadvertent adj. 疏忽的；不经意的，无心的
+2 inadvertent adj. 疏忽的；不经意的，无心的
 0 inadvisable adj. 不明智的，不妥当的
-2 inane adj. 无意义的，空洞的；愚蠢的
+3 inane adj. 无意义的，空洞的；愚蠢的
 0 inaugurate v. 举行就职典礼；创始，开创
 1 incarnate adj. 具有人体的；化身的，拟人化的
-2 incendiary adj. 放火的，纵火的
-2 incense n. 香味 v. 激怒
-1 incentive n. 刺激，诱因，动机；刺激因素
+3 incendiary adj. 放火的，纵火的
+3 incense n. 香味 v. 激怒
+2 incentive n. 刺激，诱因，动机；刺激因素
 2 incessant adj. 不停的，不断的
-2 incidence n. 发生，出现；发生率
+3 incidence n. 发生，出现；发生率
 0 incidental adj. 作为自然结果的，伴随而来的；偶然发生的
-2 incipient adj. 初期的，起初的
+3 incipient adj. 初期的，起初的
 1 incommensurate adj. 不成比例的，不相称的
 0 incongruity n. 不协调，不相称
 0 incongruous adj. 不协调的，不一致的
 0 incorrigible adj. 积习难改的，不可救药的
-2 incumbent n. 在职者，现任者 adj. 义不容辞的
+3 incumbent n. 在职者，现任者 adj. 义不容辞的
 0 indebted adj. 感激的，蒙恩的
 1 indefatigable adj. 不知疲倦的
 0 indent v. 切割成锯齿状
-1 indented adj. 锯齿状的；高低不平的
-2 indenture n. 契约，合同 v. 以契约约束
+2 indented adj. 锯齿状的；高低不平的
+3 indenture n. 契约，合同 v. 以契约约束
 2 indict v. 控诉，起诉
 0 indigence n. 贫穷，贫困
 1 indigenous adj. 土产的，本地的；生来的，固有的
 0 indigent adj. 贫穷的
-2 indignation n. 愤慨
-0 indiscriminate adj. 不加选择的；随意的，任意的
+3 indignation n. 愤慨
+1 indiscriminate adj. 不加选择的；随意的，任意的
 0 indiscriminately adj. 随意地，任意地
 2 indolent adj. 懒惰的
-0 inducement n. 引诱；引诱物，诱因，动机 induce（v. 引诱）
+1 inducement n. 引诱；引诱物，诱因，动机 induce（v. 引诱）
 1 inducible adj. 可诱导的
-2 indulge v. 放纵，纵容
-2 indulgent adj. 放纵的，纵容的
+3 indulge v. 放纵，纵容
+3 indulgent adj. 放纵的，纵容的
 0 inedible adj. 不能吃的
 0 inelastic adj. 无弹性的
-2 inert adj. 惰性的；呆滞的，迟缓的
+3 inert adj. 惰性的；呆滞的，迟缓的
 0 inexcusable adj. 不可原谅的
 1 inexorable adj. 不为所动的；无法改变的
 0 infect v. 传染；使感染；污染
-2 infertile adj. 贫瘠的，不结果实的
-2 infest v. 大批出没于，骚扰；寄生于
+3 infertile adj. 贫瘠的，不结果实的
+3 infest v. 大批出没于，骚扰；寄生于
 0 infiltrate v. 渗透，渗入
-2 infirm adj. 虚弱的
+3 infirm adj. 虚弱的
 1 inflamed adj. 发炎的，红肿的
 0 inflexible adj. 坚定的，不屈不挠的；不可弯曲的
 0 inflict v. 使遭受（痛苦，损伤等）
 0 inform v. 对…有影响；使活跃，使有生气；告诉，通知
 1 infrared adj. 红外线的
 0 infuriate v. 使恼怒，激怒
-2 infuse v. 注入，灌输；鼓励
+3 infuse v. 注入，灌输；鼓励
 0 ingenious adj. 聪明的；善于创造发明的，心灵手巧的
 0 ingeniousness v. 独创性
-2 ingenuous adj. 纯真的，纯朴的；坦率的
+3 ingenuous adj. 纯真的，纯朴的；坦率的
 2 ingest v. 吞下，咽下
 1 ingrain adj. 根深蒂固的 n. 本质
 0 ingrained adj. 根深蒂固的
-1 inimical adj. 敌意的，不友善的
+2 inimical adj. 敌意的，不友善的
 1 iniquitous adj. 邪恶的，不公正的
-1 inquisitive adj. 好奇的，好问的；爱打听的
+2 inquisitive adj. 好奇的，好问的；爱打听的
 1 insinuate v. 暗指，暗示
-1 insipid adj. 乏味的，枯燥的
+2 insipid adj. 乏味的，枯燥的
 1 insolent adj. 粗野的，无礼的
 1 instigate v. 怂恿，鼓动，煽动
 1 institute v. 设立，创立（社团等）；制定（制度等） n. 学院，学会，协会
 1 instructive adj. 传授知识的，教育的；有益的
-1 insular adj. 岛屿的；心胸狭窄的
-1 intact adj. 完整的，完好无缺的
-1 intelligible adj. 可理解的，易于理解的
-1 intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
+2 insular adj. 岛屿的；心胸狭窄的
+2 intact adj. 完整的，完好无缺的
+2 intelligible adj. 可理解的，易于理解的
+2 intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
 1 interplay v./n. 相互影响
 1 interpolate v. 插入；（通过插入新语句）篡改
-1 interrogation n. 审问，质问；疑问句
-1 intimate adj. 亲密的 n. 密友 v. 暗示
-1 intransigent adj. 不妥协的
+2 interrogation n. 审问，质问；疑问句
+2 intimate adj. 亲密的 n. 密友 v. 暗示
+2 intransigent adj. 不妥协的
 1 intrepid adj. 勇敢的，刚毅的
 1 intricacy n. 错综复杂
-1 intricate adj. 错综复杂的；难懂的
+2 intricate adj. 错综复杂的；难懂的
 1 intrigue v. 密谋；引起…的兴趣
 1 introspective adj. 内省的，自省的 inrospect （v. 内省，反省）
-1 introvert n. 性格内向的人
+2 introvert n. 性格内向的人
 1 intruding adj. 入侵的，入侵性的 intrude （v. 侵入，侵扰）
-1 inure v. 使习惯于
+2 inure v. 使习惯于
 1 invention n. 发明，创造；发明才能，创造力；发现，找到
 1 invigorate  v. 鼓舞，使精力充沛
 1 inviolate adj. 不受侵犯的，未受损害的
-1 invulnerable adj. 不会受伤害的，刀枪不入的
-1 irreproachable  adj. 无可指责的，无瑕疵的
-1 irresolute adj. 未决定的；犹豫不决的
-1 irreverent adj. 不尊敬的
+2 invulnerable adj. 不会受伤害的，刀枪不入的
+2 irreproachable  adj. 无可指责的，无瑕疵的
+2 irresolute adj. 未决定的；犹豫不决的
+2 irreverent adj. 不尊敬的
 1 irreversible adj. 不能撤回的，不能取消的
-1 irrigate v. 灌溉；冲洗（伤口）
+2 irrigate v. 灌溉；冲洗（伤口）
 1 irritable adj. 易怒的，急躁的；易受刺激的
-1 jest n. 笑话 v. 开玩笑
+2 jest n. 笑话 v. 开玩笑
 1 jocular adj. 滑稽的，幽默的；爱开玩笑的
-1 jolting adj. 令人震惊的
-1 judicious adj. 有判断力的；审慎的
-1 jumble v. 使混乱，杂乱 n. 混杂，杂乱
+2 jolting adj. 令人震惊的
+2 judicious adj. 有判断力的；审慎的
+2 jumble v. 使混乱，杂乱 n. 混杂，杂乱
 1 justifiable adj. 有理由的，无可非议的 justify （v. 证明…是正当或合理的）
 1 juvenile adj. 青少年的；孩子气的，幼稚的
-1 keen adj. 锋利的，锐利的；明锐的，灵敏的；热心的
+2 keen adj. 锋利的，锐利的；明锐的，灵敏的；热心的
 1 mischievous adj. 淘气的；有害的
 1 miserable adj. 痛苦的，悲惨的；少得可怜的 misery （n. 痛苦；悲惨的境遇）
 1 misogyny n. 厌恶女人
 1 modulate v. 调整；调音
 1 moisten v. 弄湿，使湿润
-1 mollify v. 抚慰；缓和
-1 molten adj. 熔融的，熔化的 melt（v. 融化，熔化）
+2 mollify v. 抚慰；缓和
+2 molten adj. 熔融的，熔化的 melt（v. 融化，熔化）
 1 momentarily adv. 暂时的；片刻，立刻 momentary （adj. 短暂的，瞬间的）
 1 momentous adj. 极为重要的
 1 monopolize v. 垄断，独占
-1 moratorium n. 延缓偿付；活动中止
-1 mordant adj. 讥讽的，尖酸的
-1 mortify v. 使丢脸，侮辱
+2 moratorium n. 延缓偿付；活动中止
+2 mordant adj. 讥讽的，尖酸的
+2 mortify v. 使丢脸，侮辱
 1 motif n. （文艺作品等的）主题，主旨
-1 motley adj. 混杂的；多色的，杂色的
+2 motley adj. 混杂的；多色的，杂色的
 1 movement n. 乐章
-1 muddle n. 迷惑，困惑；混乱
-1 mundane adj. 献世的，世俗的；平凡的，普通的
+2 muddle n. 迷惑，困惑；混乱
+2 mundane adj. 献世的，世俗的；平凡的，普通的
 1 munificence n. 慷慨给予，宽宏大量
 1 munificent adj. 慷慨的
 1 mural adj. 墙壁的 n. 壁画
-1 murderous adj. 蓄意谋杀的，凶残的；极厉害的，要命的
-1 murky adj. 黑暗的，昏暗的；朦胧的 murk （n. 黑暗，昏暗）
+2 murderous adj. 蓄意谋杀的，凶残的；极厉害的，要命的
+2 murky adj. 黑暗的，昏暗的；朦胧的 murk （n. 黑暗，昏暗）
 1 myriad adj. 许多的，无数的
-1 mystic adj. 神秘的，谜样的，难解的 n. 神秘主义者
+2 mystic adj. 神秘的，谜样的，难解的 n. 神秘主义者
 1 mythic adj. 神话的；虚构的
-1 narcotic n. 麻醉剂 adj. 麻醉的，催眠的
+2 narcotic n. 麻醉剂 adj. 麻醉的，催眠的
 1 narrative adj. 叙述性的 narrate （v. 叙述）
 1 natty adj. 整洁的；敏捷的，灵巧的
 1 navigate v. 驾驶；航行；使通过
-1 nebulous adj. 模糊的；云状的
-1 negligent adj. 疏忽的，粗心大意的
+2 nebulous adj. 模糊的；云状的
+2 negligent adj. 疏忽的，粗心大意的
 1 nibble v. 一点点地咬，慢慢啃
-1 nocturnal adj. 夜晚的，夜间发生的
-1 noisome adj. 有恶臭的；令人作呕的，令人讨厌的
-1 nomadic adj. 游牧的；流浪的
+2 nocturnal adj. 夜晚的，夜间发生的
+2 noisome adj. 有恶臭的；令人作呕的，令人讨厌的
+2 nomadic adj. 游牧的；流浪的
 1 nominally adv. 名义上地；有名无实地
-1 nonchalance n. 冷漠，冷淡
+2 nonchalance n. 冷漠，冷淡
 1 nonchalant adj. 冷漠的，冷淡的
 1 noncommittal adj. 态度暧昧的；不承担义务的
 1 nonconformist adj. 不墨守成规的 n. 不墨守成规的人
 1 nonentity n. 无足轻重的人或事
-1 nonplussed adj. 不知所措的，陷于困境的 nonplus （v. 使迷惑）
-1 nonporous adj. 无孔的；不渗透的
+2 nonplussed adj. 不知所措的，陷于困境的 nonplus （v. 使迷惑）
+2 nonporous adj. 无孔的；不渗透的
 1 nonradioactive adj. 非放射性的
 1 nonsensical adj. 无意义的；荒谬的
 1 nonviable adj. 无法生存的，不能存活的
-1 nostalgia n. 思乡；怀旧之情
+2 nostalgia n. 思乡；怀旧之情
 1 notate v. 以符号表示
-1 notch n. V 字形切口，刻痕；等级，档次
+2 notch n. V 字形切口，刻痕；等级，档次
 1 notoriety n. 臭名昭著；臭名昭著的人
 1 notorious adj. 臭名昭著的
 1 novelty n. 新奇；新奇的事物
 1 novice n. 新手
-1 nuance n. 细微差异
-1 nubile adj. 适婚的，性感的
-1 nurture v. 养育，教养 n. 养育；营养物
+2 nuance n. 细微差异
+2 nubile adj. 适婚的，性感的
+2 nurture v. 养育，教养 n. 养育；营养物
 1 nutrient n. 营养物
 1 nutritional adj. 营养的
-1 obdurate adj. 固执的，顽固的
-1 obfuscate v. 使迷惑，使困惑
+2 obdurate adj. 固执的，顽固的
+2 obfuscate v. 使迷惑，使困惑
 1 obliging adj. 乐于助人的 oblige （v. 施恩惠于，帮助）
 1 obliterate v. 涂掉，擦掉
-1 oblivious adj. 遗忘的，忘却的；疏忽的
-1 obscure adj. 难以理解的，含糊的；不清楚的，模糊的 v. 使变模糊；隐藏
-1 obscurity n. 费解；不出名
-1 obsequious adj. 逢迎的，谄媚的
-1 observant adj. 密切注意的，警惕的；遵守的，遵从的；敏锐的
-1 obsessed adj. 着迷的，沉迷的 obsess （v. 迷住；困扰）
-1 obsolescent adj. 逐渐荒废的 obsolescence （n. 废弃，陈旧）
-1 obstinacy n. 固执，倔强，顽固
-1 obstinateness n. 固执，顽固 obstinate （adj. 顽固的，固执的）
+2 oblivious adj. 遗忘的，忘却的；疏忽的
+2 obscure adj. 难以理解的，含糊的；不清楚的，模糊的 v. 使变模糊；隐藏
+2 obscurity n. 费解；不出名
+2 obsequious adj. 逢迎的，谄媚的
+2 observant adj. 密切注意的，警惕的；遵守的，遵从的；敏锐的
+2 obsessed adj. 着迷的，沉迷的 obsess （v. 迷住；困扰）
+2 obsolescent adj. 逐渐荒废的 obsolescence （n. 废弃，陈旧）
+2 obstinacy n. 固执，倔强，顽固
+2 obstinateness n. 固执，顽固 obstinate （adj. 顽固的，固执的）
 1 obviate v. 排除，消除（困难、危险等）
-1 odious adj. 可憎的，令人作呕的
+2 odious adj. 可憎的，令人作呕的
 1 odorless adj. 无嗅的，没有气味的 odor （n. 气味，香气）
-1 offhand adj. 无准备的，即席的；随便的 adv. 无准备地，即席地；随便地
-1 officious adj. 过于殷勤的，多管闲事的；非官方的
+2 offhand adj. 无准备的，即席的；随便的 adv. 无准备地，即席地；随便地
+2 officious adj. 过于殷勤的，多管闲事的；非官方的
 1 off-key adj. 走调的，不和谐的
 1 offstage adj. 台后的，幕后的
 1 oligarch n. 寡头政治；寡头统治集团
 1 ominous adj. 噩兆的，不祥的 omen （n. 预兆，征兆）
 1 onerous adj. 繁重的，费力的
-1 ongoing adj. 进行中的；前进的；不间断的
+2 ongoing adj. 进行中的；前进的；不间断的

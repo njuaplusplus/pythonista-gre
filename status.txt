@@ -567,3 +567,118 @@ Shuffled: False, err_times_threshold: 4,  reciting_length: 68
 11 flustered adj. 慌张的，激动不安的
 6 hilarity n. 欢闹，狂欢
 ==================
+20160324 16:15:43
+Err: 111, recited: 457, total: 457
+Shuffled: False, err_times_threshold: 0,  reciting_length: 457
+2 nomadic adj. 游牧的；流浪的
+2 notch n. V 字形切口，刻痕；等级，档次
+3 incendiary adj. 放火的，纵火的
+2 judicious adj. 有判断力的；审慎的
+3 indignation n. 愤慨
+3 incipient adj. 初期的，起初的
+2 nebulous adj. 模糊的；云状的
+12 fraternity n. 同行；友爱
+2 indented adj. 锯齿状的；高低不平的
+3 incense n. 香味 v. 激怒
+2 jest n. 笑话 v. 开玩笑
+2 mundane adj. 献世的，世俗的；平凡的，普通的
+3 impugn v. 提出异议，对…表示怀疑
+3 incumbent n. 在职者，现任者 adj. 义不容辞的
+2 obsessed adj. 着迷的，沉迷的 obsess （v. 迷住；困扰）
+2 introvert n. 性格内向的人
+2 inure v. 使习惯于
+2 obscurity n. 费解；不出名
+2 oblivious adj. 遗忘的，忘却的；疏忽的
+2 invulnerable adj. 不会受伤害的，刀枪不入的
+3 infest v. 大批出没于，骚扰；寄生于
+2 intricate adj. 错综复杂的；难懂的
+12 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+2 nuance n. 细微差异
+2 offhand adj. 无准备的，即席的；随便的 adv. 无准备地，即席地；随便地
+2 inimical adj. 敌意的，不友善的
+2 inquisitive adj. 好奇的，好问的；爱打听的
+3 flagging adj. 下垂的；衰弱的
+3 indenture n. 契约，合同 v. 以契约约束
+5 exonerate v. 免除责任；确定无罪
+2 nonporous adj. 无孔的；不渗透的
+2 narcotic n. 麻醉剂 adj. 麻醉的，催眠的
+2 inadvertent adj. 疏忽的；不经意的，无心的
+11 graze v. （让动物）吃草；放牧
+2 mollify v. 抚慰；缓和
+2 nubile adj. 适婚的，性感的
+12 furtive adj. 偷偷的，秘密的
+1 flaggy adj. 枯萎的；松软无力的
+3 impulsive adj. 冲动的，由冲动引起的；易冲动的
+2 nonchalance n. 冷漠，冷淡
+3 indulge v. 放纵，纵容
+2 obstinateness n. 固执，顽固 obstinate （adj. 顽固的，固执的）
+2 nostalgia n. 思乡；怀旧之情
+2 intelligible adj. 可理解的，易于理解的
+2 ongoing adj. 进行中的；前进的；不间断的
+2 mystic adj. 神秘的，谜样的，难解的 n. 神秘主义者
+11 impertinent adj. 不切题的；无礼的，莽撞的
+2 muddle n. 迷惑，困惑；混乱
+2 improvise v. 即席创作
+2 nocturnal adj. 夜晚的，夜间发生的
+2 nurture v. 养育，教养 n. 养育；营养物
+2 insipid adj. 乏味的，枯燥的
+3 indulgent adj. 放纵的，纵容的
+2 heretical adj. 异端的
+2 intact adj. 完整的，完好无缺的
+1 indiscriminate adj. 不加选择的；随意的，任意的
+2 jumble v. 使混乱，杂乱 n. 混杂，杂乱
+2 keen adj. 锋利的，锐利的；明锐的，灵敏的；热心的
+2 obscure adj. 难以理解的，含糊的；不清楚的，模糊的 v. 使变模糊；隐藏
+2 mortify v. 使丢脸，侮辱
+2 irreproachable  adj. 无可指责的，无瑕疵的
+2 murky adj. 黑暗的，昏暗的；朦胧的 murk （n. 黑暗，昏暗）
+2 insular adj. 岛屿的；心胸狭窄的
+2 molten adj. 熔融的，熔化的 melt（v. 融化，熔化）
+12 galvanize v. 刺激；电镀；通电
+2 motley adj. 混杂的；多色的，杂色的
+10 garble v. 曲解，篡改
+2 irreverent adj. 不尊敬的
+3 infuse v. 注入，灌输；鼓励
+2 murderous adj. 蓄意谋杀的，凶残的；极厉害的，要命的
+2 genre n. （文学、艺术等的）类型，题材
+3 infertile adj. 贫瘠的，不结果实的
+2 odious adj. 可憎的，令人作呕的
+3 incidence n. 发生，出现；发生率
+2 officious adj. 过于殷勤的，多管闲事的；非官方的
+4 glossy adj. 有光泽的，光滑的
+2 obstinacy n. 固执，倔强，顽固
+2 irrigate v. 灌溉；冲洗（伤口）
+11 fluffy adj. 有绒毛的；无聊的，琐碎的
+9 imperious adj. 傲慢的，专横的
+2 negligent adj. 疏忽的，粗心大意的
+12 flustered adj. 慌张的，激动不安的
+2 noisome adj. 有恶臭的；令人作呕的，令人讨厌的
+2 obdurate adj. 固执的，顽固的
+7 impetuous adj. 冲动的，鲁莽的
+3 inane adj. 无意义的，空洞的；愚蠢的
+2 impunity n. 免受惩罚
+2 mordant adj. 讥讽的，尖酸的
+2 observant adj. 密切注意的，警惕的；遵守的，遵从的；敏锐的
+11 hunch n. 直觉，预感
+2 jolting adj. 令人震惊的
+2 moratorium n. 延缓偿付；活动中止
+2 obsolescent adj. 逐渐荒废的 obsolescence （n. 废弃，陈旧）
+2 irresolute adj. 未决定的；犹豫不决的
+6 facetious adj. 滑稽的，好开玩笑的
+2 intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
+2 intimate adj. 亲密的 n. 密友 v. 暗示
+3 impassive adj. 无动于衷的，冷漠的
+2 incentive n. 刺激，诱因，动机；刺激因素
+1 inducement n. 引诱；引诱物，诱因，动机 induce（v. 引诱）
+2 obfuscate v. 使迷惑，使困惑
+12 foliage n. 叶子
+2 obsequious adj. 逢迎的，谄媚的
+2 interrogation n. 审问，质问；疑问句
+3 infirm adj. 虚弱的
+3 ingenuous adj. 纯真的，纯朴的；坦率的
+6 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
+2 intransigent adj. 不妥协的
+8 flimsy adj. 轻而薄的；易损坏的
+2 nonplussed adj. 不知所措的，陷于困境的 nonplus （v. 使迷惑）
+3 inert adj. 惰性的；呆滞的，迟缓的
+==================
