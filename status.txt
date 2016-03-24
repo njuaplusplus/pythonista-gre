@@ -544,4 +544,26 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 330
 2 incendiary adj. 放火的，纵火的
 5 fray n. 吵架，打斗 v. 磨破
 9 graze v. （让动物）吃草；放牧
+==================20160323 19:36:11
+Err: 19, recited: 68, total: 374
+Shuffled: False, err_times_threshold: 4,  reciting_length: 68
+7 huddle v. 挤成一团 n. 一堆人（或物）
+11 foliage n. 叶子
+6 fractious adj. （脾气）易怒的，好争吵的
+7 grumble v. 嘟囔，抱怨，发牢骚
+11 furtive adj. 偷偷的，秘密的
+10 hunch n. 直觉，预感
+10 impertinent adj. 不切题的；无礼的，莽撞的
+11 fraternity n. 同行；友爱
+11 galvanize v. 刺激；电镀；通电
+11 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+10 fluffy adj. 有绒毛的；无聊的，琐碎的
+10 graze v. （让动物）吃草；放牧
+7 flimsy adj. 轻而薄的；易损坏的
+6 impetuous adj. 冲动的，鲁莽的
+5 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
+7 gush v. 涌出，迸出；滔滔不绝地说 n. 涌出，迸发
+10 glaze v. 上釉于；使光滑 n. 釉
+11 flustered adj. 慌张的，激动不安的
+6 hilarity n. 欢闹，狂欢
 ==================

@@ -46,7 +46,7 @@
 2 flaunt v. 炫耀，夸耀
 2 flaw n. 瑕疵 v. 生裂缝；变得有缺陷
 1 flickering adj. 闪烁的，摇曳的，忽隐忽现的
-6 flimsy adj. 轻而薄的；易损坏的
+7 flimsy adj. 轻而薄的；易损坏的
 4 flip v. 用指轻弹；蹦蹦跳跳 adj. 无理的；冒失的；轻率的
 2 flippant adj. 无理的；轻率的
 1 floral adj. 花的，植物的
@@ -56,11 +56,11 @@
 3 flout v. 蔑视；违抗
 1 fluctuate v. 波动；变动
 1 fluctuation n. 波动，起伏，张罗
-9 fluffy adj. 有绒毛的；无聊的，琐碎的
+10 fluffy adj. 有绒毛的；无聊的，琐碎的
 2 fluorescent adj. 荧光的，发亮的
-10 flustered adj. 慌张的，激动不安的
+11 flustered adj. 慌张的，激动不安的
 10 foible n. 小缺点，小毛病
-10 foliage n. 叶子
+11 foliage n. 叶子
 0 folklore n. 民间传说；民俗学
 2 folly n. 愚蠢；愚蠢的想法或做法
 0 foodstuff n. 食品
@@ -78,12 +78,12 @@
 0 fortitude n. 坚毅，坚韧不拔
 8 fortuitous adj. 偶然发生的，偶然的
 3 foster v. 鼓励，促进；养育，抚养
-10 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+11 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
 2 founder v. （船）沉没；（计划）失败 n. 创建者
-5 fractious adj. （脾气）易怒的，好争吵的
+6 fractious adj. （脾气）易怒的，好争吵的
 0 frail adj. 脆弱的；不坚实的
 0 frantic adj. 疯狂的，狂乱的
-10 fraternity n. 同行；友爱
+11 fraternity n. 同行；友爱
 1 fraught adj. 充满的
 5 fray n. 吵架，打斗 v. 磨破
 0 frenetic adj. 狂乱的，发狂的
@@ -97,7 +97,7 @@
 1 frugality n. 朴素；节俭
 4 fulsome adj. 虚情假意的；充足的
 2 fumigate v. 用烟熏消毒
-10 furtive adj. 偷偷的，秘密的
+11 furtive adj. 偷偷的，秘密的
 0 fuse v. 熔化；融合
 1 fusion n. 融合；核聚变
 8 fussy adj. 爱挑剔的，难取悦的
@@ -106,7 +106,7 @@
 0 galaxy n. 星系；一群（杰出人物）
 5 gall n. 胆汁；怨恨
 1 gallant adj. 勇敢的，英勇的；（对女人）献殷情的
-10 galvanize v. 刺激；电镀；通电
+11 galvanize v. 刺激；电镀；通电
 9 garble v. 曲解，篡改
 3 garish adj. 俗丽的，过于艳丽的
 10 garrulous adj. 话多的
@@ -121,7 +121,7 @@
 3 glacial adj. 冰河期的；寒冷的
 0 glamorous adj. 迷人的
 7 glandular adj. 腺状的，腺的
-9 glaze v. 上釉于；使光滑 n. 釉
+10 glaze v. 上釉于；使光滑 n. 釉
 7 gloat v. 幸灾乐祸地看，心满意足地看
 0 gloom n. 昏暗；忧郁
 0 glossary n. 词汇表；难词表
@@ -140,7 +140,7 @@
 1 gratify v. 使高兴，使满足
 6 grating adj. （声音）刺耳的；恼人的
 6 gratuitous adj. 无缘无故的；免费的 gratuity n. 小费
-9 graze v. （让动物）吃草；放牧
+10 graze v. （让动物）吃草；放牧
 1 gregarious adj. 群居的；爱社交的
 0 grief n. 忧伤，悲伤
 0 grieve v. 使某人极为悲伤
@@ -149,10 +149,10 @@
 1 gripping adj. 吸引注意力的，扣人心弦的
 1 grope v. 摸索，探索
 3 grudge v. 吝惜，勉强给或承认；不满，怨恨
-6 grumble v. 嘟囔，抱怨，发牢骚
+7 grumble v. 嘟囔，抱怨，发牢骚
 0 guile n. 欺骗，欺诈；狡猾
 0 gullible adj. 易受骗的 gull v. 受骗
-6 gush v. 涌出，迸出；滔滔不绝地说 n. 涌出，迸发
+7 gush v. 涌出，迸出；滔滔不绝地说 n. 涌出，迸发
 0 gymnastic adj. 体操的，体育的
 1 hackneyed adj. 陈腐的
 1 haggle v. 讨价还价
@@ -182,7 +182,7 @@
 1 hiatus n. 空隙
 0 hibernate v. 冬眠
 0 hieroglyph n. 象形文字，神秘符号
-5 hilarity n. 欢闹，狂欢
+6 hilarity n. 欢闹，狂欢
 4 histrionic adj. 做作的；戏剧的
 1 hitherto adv. 到目前为止
 1 hive n. 蜂房，蜂巢；热闹的场所
@@ -191,14 +191,14 @@
 1 hospitable adj. 热情好客的；易接受的
 0 hover v. 翱翔；（人）徘徊
 4 huckster n. 叫卖小贩，零售商
-6 huddle v. 挤成一团 n. 一堆人（或物）
+7 huddle v. 挤成一团 n. 一堆人（或物）
 0 humane adj. 人道的，慈悲的；人文主义的
 0 humble adj. 卑微的；谦虚的 v. 使卑微
 2 humdrum adj. 单调的，乏味的
 3 humidity n. 湿度，湿气 humid adj. 潮湿
 2 humiliate v. 羞辱，使丢脸
 4 humility n. 谦逊
-9 hunch n. 直觉，预感
+10 hunch n. 直觉，预感
 2 hurl v. 用力投掷；大声叫骂
 0 hydrate n. 水合物 v. (使)水合
 0 hyperbole n. 夸张法
@@ -247,10 +247,10 @@
 8 imperious adj. 傲慢的，专横的
 1 impersonal adj. 不受个人感情影响的
 0 impersonate v. 模仿；扮演
-9 impertinent adj. 不切题的；无礼的，莽撞的
+10 impertinent adj. 不切题的；无礼的，莽撞的
 0 imperturbable adj. 冷静的，沉着的
 3 impervious adj. 不能渗透的
-5 impetuous adj. 冲动的，鲁莽的
+6 impetuous adj. 冲动的，鲁莽的
 3 impiety n. 不虔诚，无信仰
 0 implausible adj. 难以置信的
 0 impolitic adj. 不明智的，失策的
@@ -260,7 +260,7 @@
 2 imposture n. 冒充
 0 impound v. 限制；依法没收，扣押
 0 impressed adj. 被打动的，有深刻印象的
-4 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
+5 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
 0 impromptu /ɪm’prɑmptu/ adj. 即兴的
 0 improvident adj. 无远见的，不节俭的
 1 improvise v. 即席创作
