@@ -372,3 +372,86 @@
 1 justifiable adj. 有理由的，无可非议的 justify （v. 证明…是正当或合理的）
 1 juvenile adj. 青少年的；孩子气的，幼稚的
 1 keen adj. 锋利的，锐利的；明锐的，灵敏的；热心的
+1 mischievous adj. 淘气的；有害的
+1 miserable adj. 痛苦的，悲惨的；少得可怜的 misery （n. 痛苦；悲惨的境遇）
+1 misogyny n. 厌恶女人
+1 modulate v. 调整；调音
+1 moisten v. 弄湿，使湿润
+1 mollify v. 抚慰；缓和
+1 molten adj. 熔融的，熔化的 melt（v. 融化，熔化）
+1 momentarily adv. 暂时的；片刻，立刻 momentary （adj. 短暂的，瞬间的）
+1 momentous adj. 极为重要的
+1 monopolize v. 垄断，独占
+1 moratorium n. 延缓偿付；活动中止
+1 mordant adj. 讥讽的，尖酸的
+1 mortify v. 使丢脸，侮辱
+1 motif n. （文艺作品等的）主题，主旨
+1 motley adj. 混杂的；多色的，杂色的
+1 movement n. 乐章
+1 muddle n. 迷惑，困惑；混乱
+1 mundane adj. 献世的，世俗的；平凡的，普通的
+1 munificence n. 慷慨给予，宽宏大量
+1 munificent adj. 慷慨的
+1 mural adj. 墙壁的 n. 壁画
+1 murderous adj. 蓄意谋杀的，凶残的；极厉害的，要命的
+1 murky adj. 黑暗的，昏暗的；朦胧的 murk （n. 黑暗，昏暗）
+1 myriad adj. 许多的，无数的
+1 mystic adj. 神秘的，谜样的，难解的 n. 神秘主义者
+1 mythic adj. 神话的；虚构的
+1 narcotic n. 麻醉剂 adj. 麻醉的，催眠的
+1 narrative adj. 叙述性的 narrate （v. 叙述）
+1 natty adj. 整洁的；敏捷的，灵巧的
+1 navigate v. 驾驶；航行；使通过
+1 nebulous adj. 模糊的；云状的
+1 negligent adj. 疏忽的，粗心大意的
+1 nibble v. 一点点地咬，慢慢啃
+1 nocturnal adj. 夜晚的，夜间发生的
+1 noisome adj. 有恶臭的；令人作呕的，令人讨厌的
+1 nomadic adj. 游牧的；流浪的
+1 nominally adv. 名义上地；有名无实地
+1 nonchalance n. 冷漠，冷淡
+1 nonchalant adj. 冷漠的，冷淡的
+1 noncommittal adj. 态度暧昧的；不承担义务的
+1 nonconformist adj. 不墨守成规的 n. 不墨守成规的人
+1 nonentity n. 无足轻重的人或事
+1 nonplussed adj. 不知所措的，陷于困境的 nonplus （v. 使迷惑）
+1 nonporous adj. 无孔的；不渗透的
+1 nonradioactive adj. 非放射性的
+1 nonsensical adj. 无意义的；荒谬的
+1 nonviable adj. 无法生存的，不能存活的
+1 nostalgia n. 思乡；怀旧之情
+1 notate v. 以符号表示
+1 notch n. V 字形切口，刻痕；等级，档次
+1 notoriety n. 臭名昭著；臭名昭著的人
+1 notorious adj. 臭名昭著的
+1 novelty n. 新奇；新奇的事物
+1 novice n. 新手
+1 nuance n. 细微差异
+1 nubile adj. 适婚的，性感的
+1 nurture v. 养育，教养 n. 养育；营养物
+1 nutrient n. 营养物
+1 nutritional adj. 营养的
+1 obdurate adj. 固执的，顽固的
+1 obfuscate v. 使迷惑，使困惑
+1 obliging adj. 乐于助人的 oblige （v. 施恩惠于，帮助）
+1 obliterate v. 涂掉，擦掉
+1 oblivious adj. 遗忘的，忘却的；疏忽的
+1 obscure adj. 难以理解的，含糊的；不清楚的，模糊的 v. 使变模糊；隐藏
+1 obscurity n. 费解；不出名
+1 obsequious adj. 逢迎的，谄媚的
+1 observant adj. 密切注意的，警惕的；遵守的，遵从的；敏锐的
+1 obsessed adj. 着迷的，沉迷的 obsess （v. 迷住；困扰）
+1 obsolescent adj. 逐渐荒废的 obsolescence （n. 废弃，陈旧）
+1 obstinacy n. 固执，倔强，顽固
+1 obstinateness n. 固执，顽固 obstinate （adj. 顽固的，固执的）
+1 obviate v. 排除，消除（困难、危险等）
+1 odious adj. 可憎的，令人作呕的
+1 odorless adj. 无嗅的，没有气味的 odor （n. 气味，香气）
+1 offhand adj. 无准备的，即席的；随便的 adv. 无准备地，即席地；随便地
+1 officious adj. 过于殷勤的，多管闲事的；非官方的
+1 off-key adj. 走调的，不和谐的
+1 offstage adj. 台后的，幕后的
+1 oligarch n. 寡头政治；寡头统治集团
+1 ominous adj. 噩兆的，不祥的 omen （n. 预兆，征兆）
+1 onerous adj. 繁重的，费力的
+1 ongoing adj. 进行中的；前进的；不间断的
