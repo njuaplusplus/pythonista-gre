@@ -535,3 +535,102 @@
 1 perquisite n. 额外收入，津贴；小费
 1 persevere v. 坚持不懈
 1 persist v. 坚持不懈，执意；坚持问，不停地说；长存
+1 perspicacious adj. 独具慧眼的，敏锐的
+1 perspicuous adj. 明晰的，明了的
+1 perspire v. 出汗
+1 pertinent adj. 有关的，相关的
+1 pesticide n. 杀虫剂
+1 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
+1 petroleum n. 石油
+1 petulant adj. 暴躁的，易怒的
+1 pharmaceutical adj. 制药的，卖药的 pharmacy （n. 药房；药剂学）
+1 phenomenal adj. 显著的，非凡的 phenomenon （n. 现象；奇迹）
+1 philanthropic adj. 慈善（事业）的，博爱的
+1 philistine n. 庸俗的人，对文化艺术无知的人
+1 phlegmatic adj. 冷淡的，不动感情的
+1 phobia n. 恐惧症
+1 physiological adj. 生理（机能）的；生理学的
+1 picturesque adj. 如画的；独特的，别具风格的
+1 piercing adj. 冷的刺骨的；敏锐的
+1 piety n. 孝顺，孝敬；虔诚
+1 pilgrim n. 朝圣者；（在国外的）旅行者
+1 pine n. 松树 v. （因疾病等）憔悴；渴望
+1 pinpoint v. 准确地确定；使突出，引起注意 adj. 极精确的
+1 pious adj. 虔诚的
+1 piousness n. 虔诚
+1 pitcher n. 有柄水罐
+1 pithy adj. （讲话或文章）简练有力的，言简意赅的
+1 pivotal adj. 中枢的；关键的
+1 placate v. 抚慰，平息
+1 placid adj. 安静的，平和的
+1 plaintive adj. 哀伤的，悲伤的 plaint （n. 诉苦）
+1 platitude n. 陈词滥调
+1 platitudinous adj. 陈腐的
+1 plausible adj. 看似有理的，似是而非的；有道理的，可信的
+1 plethora n. 过多，过剩
+1 pliable adj. 易弯曲的，柔软的；易受影响的
+1 pliant adj. 易受影响的；易弯曲的
+1 plot n. 情节；阴谋 v. 密谋，策划
+1 plumb n. 铅垂 adj. 垂直的 adv. 精确地 v. 深入了解；测量深度
+1 plump adj. 丰满的 v. 使丰满，使变圆
+1 plunge v. 跳入，陷入；俯冲
+1 poignant adj. 令人痛苦的，伤心的；尖锐的
+1 poise v. 使平衡 n. 泰然自若，沉着自信
+1 polarize v. （使人、观点等）两极化
+1 polish v. 磨光，擦亮 n. 上光剂；优雅
+1 politically  adv. 政治上地
+1 pollen n. 花粉
+1 pollinate v.对…授粉
+1 pomposity n. 自大的言行 pomp （v. 炫耀；盛况）
+1 pompous adj. 自大的
+1 pop v. 发出“砰”的一声；突然出现
+1 populous adj. 人口稠密的
+1 porous adj. 可渗透的；多孔的 pore （n. 孔）
+1 portend v. 预示，预兆
+1 portray v. 描述；描绘
+1 positive adj. 积极的；明确的；有信心的；无条件的 n. 正片；积极的要素或特点
+1 possess v. 拥有；支配；迷住
+1 possessed adj. 着迷的
+1 posthumous adj. 死后的
+1 postulate v. 要求；假定
+1 potable adj. 适于饮用的
+1 potent adj. 强有力的，有影响力的额，有权力的；有效能的
+1 potshot n. 盲目射击；肆意抨击 v. 肆意抨击
+1 potted adj. 盆栽的；瓶装的，罐装的，壶装的
+1 pounce n. （猛禽的）爪；猛扑 v. 猛扑；突然袭击
+1 pragmatic adj. 实际的；务实的，注重实效的；实用主义的
+1 precarious adj. 根据不足的，未证实的；不稳固的，危险的
+1 precedent adj. 在先的，在前的 n. 先例，判例
+1 precipitate v. 使突然降临，加速，促成 adj. 鲁莽的，轻率的
+1 precipitous adj. 陡峭的
+1 preconception n. 先入之见；偏见
+1 predator n. 肉食动物
+1 predatory adj. 掠夺的；食肉的
+1 predecessor n. 前任，前辈；原有事物，前身
+1 predispose v. 使预先有倾向；（使）易受感染
+1 predominant adj. 支配的，占优势的，主导的
+1 preempt v. 以优先权获得；取代
+1 prefabricated adj. 预制构件的 prefabricate （v. 预制）
+1 preferably adv. 更可取地，更好地，宁可 prefer （v. 宁可，更喜欢）
+1 preliminary adj. 预备的，初步的，开始的 n. 准备工作，初步行动
+1 premonition n. 预感，预兆
+1 preoccupation n. 全神贯注，专注；使人专注的东西
+1 prerogative n. 特权
+1 preservative adj. 保护的；防腐的 n. 防腐剂 preserve（v. 保护；保存）
+1 prestigious adj. 有名望的，有威望的
+1 presume v. 推测，假定；认定
+1 presumptuous adj. 放肆的，过分的
+1 presuppose vt. 预先假定；以…为先决条件
+1 pretense n. 妄自，自称；假装，伪装，假象；借口，托词
+1 pretentious adj. 夸耀的，炫耀的；自命不凡的，狂妄的
+1 preternatural adj. 异常的；超自然的
+1 prevail v. 战胜；流行，盛行
+1 prevalent adj. 流行的，盛行 的
+1 prig n. 自命清高者，道学先生
+1 pristine adj .原始的；质朴的，纯洁的；新鲜的，干净的
+1 privacy n. 隐居，隐退；隐私；秘密
+1 probity n. 正直
+1 proclamation n. 宣布，公布
+1 proclivity n. 倾向
+1 procurement n. 取得，获得；采购 procure （v. 取得，获得）
+1 prod v. 戳，刺；刺激，激励
