@@ -16,6 +16,7 @@ BUTTON_MENU_START_NAME = 'button_menu_start'
 BUTTON_MENU_EXIT_NAME = 'button_menu_exit'
 BUTTON_SPEAK_NANE = 'button_speak'
 TEXTFIELD_ERR_TIMES_THRESHOLD = 'textfield_err_times_threshold'
+TEXTFIELD_MAX_RECITING = 'textfield_max_reciting'
 SWITCH_SHUFFLE = 'switch_shuffle'
 SWITCH_SPEECH = 'switch_auto_speech'
 
@@ -42,8 +43,8 @@ class ReciteView (ui.View):
 	def shuffle(self):
 		self.recite.shuffle()
 	
-	def filter(self, err_times_threshold):
-		self.recite.filter(err_times_threshold)
+	def filter(self, max_reciring, err_times_threshold):
+		self.recite.filter(max_reciting, err_times_threshold)
 	
 	def before_present(self):
 		word = self.recite.pickone()
@@ -101,11 +102,12 @@ if __name__ == '__main__':
 	if menu.start2recite:
 		v = ui.load_view('Test')
 		err_times_threshold = 0
+		max_reciting = 100
 		try:
 			err_times_threshold = int(menu[TEXTFIELD_ERR_TIMES_THRESHOLD].text)
 		except ValueError as err:
 			print('Can not convert to int' + str(err))
-		v.filter(err_times_threshold)
+		v.filter(max_reciting, err_times_threshold)
 		if menu[SWITCH_SHUFFLE].value == True:
 			v.shuffle()
 		v.auto_speech = menu[SWITCH_SPEECH].value

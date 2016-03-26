@@ -19,8 +19,8 @@
           "text" : "随机顺序背诵",
           "alignment" : "right",
           "class" : "Label",
-          "font_size" : 18,
-          "name" : "label_shuffle"
+          "name" : "label_shuffle",
+          "font_size" : 18
         }
       },
       {
@@ -41,7 +41,7 @@
       },
       {
         "selected" : false,
-        "frame" : "{{6, 180}, {177, 32}}",
+        "frame" : "{{6, 179}, {177, 32}}",
         "class" : "Label",
         "nodes" : [
 
@@ -54,8 +54,8 @@
           "text" : "背诵错误数大于等于",
           "alignment" : "right",
           "class" : "Label",
-          "font_size" : 18,
-          "name" : "label_err_times_threshold"
+          "name" : "label_err_times_threshold",
+          "font_size" : 18
         }
       },
       {
@@ -75,13 +75,13 @@
           "alignment" : "center",
           "text" : "0",
           "autocorrection_type" : "default",
-          "font_size" : 17,
-          "name" : "textfield_err_times_threshold"
+          "name" : "textfield_err_times_threshold",
+          "font_size" : 17
         }
       },
       {
         "selected" : false,
-        "frame" : "{{74, 227}, {80, 32}}",
+        "frame" : "{{63, 384}, {80, 32}}",
         "class" : "Button",
         "nodes" : [
 
@@ -102,7 +102,7 @@
       },
       {
         "selected" : false,
-        "frame" : "{{174, 227}, {80, 32}}",
+        "frame" : "{{174, 384}, {80, 32}}",
         "class" : "Button",
         "nodes" : [
 
@@ -136,12 +136,12 @@
           "text" : "自动发音",
           "alignment" : "right",
           "class" : "Label",
-          "name" : "label_speech",
-          "font_size" : 18
+          "font_size" : 18,
+          "name" : "label_speech"
         }
       },
       {
-        "selected" : true,
+        "selected" : false,
         "frame" : "{{203, 99}, {51, 31}}",
         "class" : "Switch",
         "nodes" : [
@@ -155,6 +155,46 @@
           "uuid" : "2724ED2D-1666-41BF-B338-C6BE2A6B8171",
           "value" : true,
           "name" : "switch_auto_speech"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{33, 220}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "flex" : "LRTB",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "9659E7CC-F63D-40DB-86C4-9826A6F91D11",
+          "text" : "背诵个数少于等于",
+          "alignment" : "right",
+          "class" : "Label",
+          "font_size" : 18,
+          "name" : "label_max_reciting"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{203, 220}, {51, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRTB",
+          "font_name" : "<System>",
+          "frame" : "{{60, 224}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "30A1268B-4096-47CD-B841-1CB1414C8103",
+          "alignment" : "center",
+          "text" : "100",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "textfield_max_reciting"
         }
       }
     ],
