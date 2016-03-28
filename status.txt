@@ -840,3 +840,88 @@ Shuffled: False, err_times_threshold: 1,  reciting_length: 518
 12 graze v. （让动物）吃草；放牧
 3 nonplussed adj. 不知所措的，陷于困境的 nonplus （v. 使迷惑）
 ==================
+20160327 20:48:47
+Err: 3, recited: 8, total: 636
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+2 pine n. 松树 v. （因疾病等）憔悴；渴望
+2 pitcher n. 有柄水罐
+3 preoccupation n. 全神贯注，专注；使人专注的东西
+==================
+20160328 10:48:03
+Err: 74, recited: 150, total: 636
+Shuffled: False, err_times_threshold: 0,  reciting_length: 150
+2 perilous adj. 危险的，冒险的 peril （n. 危险）
+3 preempt v. 以优先权获得；取代
+3 pithy adj. （讲话或文章）简练有力的，言简意赅的
+2 picturesque adj. 如画的；独特的，别具风格的
+3 pristine adj .原始的；质朴的，纯洁的；新鲜的，干净的
+3 pertinent adj. 有关的，相关的
+2 presume v. 推测，假定；认定
+3 portray v. 描述；描绘
+3 pejorative adj. 轻视的，贬低的
+3 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
+3 penchant n. 爱好，嗜好
+3 pompous adj. 自大的
+3 pliant adj. 易受影响的；易弯曲的
+3 piercing adj. 冷的刺骨的；敏锐的
+3 postulate v. 要求；假定
+2 petroleum n. 石油
+3 poise v. 使平衡 n. 泰然自若，沉着自信
+3 penetrating adj. （声音）响亮的，尖锐的；（气味）刺激的；（思想）敏锐的，有洞察力的
+2 pragmatic adj. 实际的；务实的，注重实效的；实用主义的
+2 presumptuous adj. 放肆的，过分的
+3 placate v. 抚慰，平息
+2 preservative adj. 保护的；防腐的 n. 防腐剂 preserve（v. 保护；保存）
+3 prestigious adj. 有名望的，有威望的
+3 positive adj. 积极的；明确的；有信心的；无条件的 n. 正片；积极的要素或特点
+3 pedantry n. 迂腐
+3 perfume n. 香味；香水
+3 perpendicular adj. 垂直的，竖直的
+2 perspicacious adj. 独具慧眼的，敏锐的
+3 parasite n. 食客；寄生物
+3 platitude n. 陈词滥调
+2 pesticide n. 杀虫剂
+3 precarious adj. 根据不足的，未证实的；不稳固的，危险的
+3 pine n. 松树 v. （因疾病等）憔悴；渴望
+3 peevish adj. 不满的，抱怨的；暴躁的，坏脾气的，易怒的 peeve （v. 使焦躁）
+2 placid adj. 安静的，平和的
+2 pretentious adj. 夸耀的，炫耀的；自命不凡的，狂妄的
+3 pernicious adj. 有害的；致命的
+3 predispose v. 使预先有倾向；（使）易受感染
+3 pancreas n. 胰腺
+2 pomposity n. 自大的言行 pomp （v. 炫耀；盛况）
+3 peripatetic adj. 巡游的，流动的
+3 parliamentary adj. 议会（制）的
+3 perfidious adj. 不忠的，背信弃义的
+3 perfunctory adj. 例行公事般的，敷衍的
+2 plump adj. 丰满的 v. 使丰满，使变圆
+3 penitent adj. 悔过的，忏悔的
+3 pretense n. 妄自，自称；假装，伪装，假象；借口，托词
+3 pounce n. （猛禽的）爪；猛扑 v. 猛扑；突然袭击
+3 perpetuate v. 使永存
+3 precipitate v. 使突然降临，加速，促成 adj. 鲁莽的，轻率的
+2 potable adj. 适于饮用的
+3 patronize v. 屈尊俯就；光顾，惠顾 patron （n. 赞助人）
+2 pious adj. 虔诚的
+3 penal adj. 惩罚的，刑法的
+3 permeate v. 扩散，弥漫；穿透
+4 pilgrim n. 朝圣者；（在国外的）旅行者
+3 parody n. 拙劣的模仿；滑稽模仿作品或表演
+2 perspire v. 出汗
+3 plaintive adj. 哀伤的，悲伤的 plaint （n. 诉苦）
+3 pecuniary adj. 金钱的
+3 palpable adj. 可触知的，可察觉的；明显的
+3 precipitous adj. 陡峭的
+2 poignant adj. 令人痛苦的，伤心的；尖锐的
+2 probity n. 正直
+3 patronage n. 资助，赞助；惠顾 patron （n. 赞助人）
+3 petulant adj. 暴躁的，易怒的
+2 parsimony n. 过分节俭，吝啬
+2 perspicuous adj. 明晰的，明了的
+2 perpetrate v. 犯罪；负责
+2 philistine n. 庸俗的人，对文化艺术无知的人
+3 potent adj. 强有力的，有影响力的额，有权力的；有效能的
+3 prig n. 自命清高者，道学先生
+3 plot n. 情节；阴谋 v. 密谋，策划
+2 peculiar adj. 独特的；古怪的
+==================

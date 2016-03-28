@@ -105,6 +105,7 @@ if __name__ == '__main__':
 		max_reciting = 100
 		try:
 			err_times_threshold = int(menu[TEXTFIELD_ERR_TIMES_THRESHOLD].text)
+			max_reciting = int(menu[TEXTFIELD_MAX_RECITING].text)
 		except ValueError as err:
 			print('Can not convert to int' + str(err))
 		v.filter(max_reciting, err_times_threshold)
