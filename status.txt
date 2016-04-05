@@ -1096,3 +1096,106 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 300
 3 overwrought adj. 紧张过度的，兴奋过度的
 4 inure v. 使习惯于
 ==================
+20160401 20:21:00
+Err: 47, recited: 300, total: 636
+Shuffled: False, err_times_threshold: 0,  reciting_length: 300
+5 nubile adj. 适婚的，性感的
+7 pilgrim n. 朝圣者；（在国外的）旅行者
+5 intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
+6 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
+4 irrigate v. 灌溉；冲洗（伤口）
+6 oblivious adj. 遗忘的，忘却的；疏忽的
+6 perpetuate v. 使永存
+2 momentous adj. 极为重要的
+5 nocturnal adj. 夜晚的，夜间发生的
+5 mollify v. 抚慰；缓和
+4 irreverent adj. 不尊敬的
+5 jumble v. 使混乱，杂乱 n. 混杂，杂乱
+4 opulent adj. 富裕的；充足的
+6 petulant adj. 暴躁的，易怒的
+2 miserable adj. 痛苦的，悲惨的；少得可怜的 misery （n. 痛苦；悲惨的境遇）
+6 precipitous adj. 陡峭的
+4 obfuscate v. 使迷惑，使困惑
+6 pernicious adj. 有害的；致命的
+5 jest n. 笑话 v. 开玩笑
+5 nomadic adj. 游牧的；流浪的
+4 pedant n. 迂腐之人，学究
+4 notch n. V 字形切口，刻痕；等级，档次
+5 inure v. 使习惯于
+5 interrogation n. 审问，质问；疑问句
+4 keen adj. 锋利的，锐利的；敏锐的，灵敏的；热心的
+5 mundane adj. 献世的，世俗的；平凡的，普通的
+6 pristine adj. 原始的；质朴的，纯洁的；新鲜的，干净的
+6 pertinent adj. 有关的，相关的
+5 mordant adj. 讥讽的，尖酸的
+5 nebulous adj. 模糊的；云状的
+5 noisome adj. 有恶臭的；令人作呕的，令人讨厌的
+6 parliamentary adj. 议会（制）的
+6 piercing adj. 冷的刺骨的；敏锐的
+4 obdurate adj. 固执的，顽固的
+5 perpetrate v. 犯罪；负责
+5 muddle n. 迷惑，困惑；混乱
+4 overwrought adj. 紧张过度的，兴奋过度的
+4 introvert n. 性格内向的人
+6 portray v. 描述；描绘
+5 nuance n. 细微差异
+4 irreproachable  adj. 无可指责的，无瑕疵的
+6 pedantry n. 迂腐
+4 noncommittal adj. 态度暧昧的；不承担义务的
+6 postulate v. 要求；假定
+4 jolting adj. 令人震惊的
+5 moratorium n. 延缓偿付；活动中止
+5 poignant adj. 令人痛苦的，伤心的；尖锐的
+==================
+20160403 09:29:56
+Err: 8, recited: 100, total: 636
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+14 flustered adj. 慌张的，激动不安的
+3 fumigate v. 用烟熏消毒
+7 facetious adj. 滑稽的，好开玩笑的
+14 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+1 extant adj. 现有的，现存的
+11 foible n. 小缺点，小毛病
+13 fraternity n. 同行；友爱
+14 foliage n. 叶子
+==================
+20160403 20:13:43
+Err: 5, recited: 100, total: 636
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+14 furtive adj. 偷偷的，秘密的
+14 fraternity n. 同行；友爱
+8 facetious adj. 滑稽的，好开玩笑的
+15 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+7 fractious adj. （脾气）易怒的，好争吵的
+==================
+20160404 10:23:35
+Err: 27, recited: 200, total: 636
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+4 paltry adj. 无价值的，微不足道的
+4 impulsive adj. 冲动的，由冲动引起的；易冲动的
+6 poignant adj. 令人痛苦的，伤心的；尖锐的
+1 infuriate v. 使恼怒，激怒
+5 infertile adj. 贫瘠的，不结果实的
+4 incipient adj. 初期的，起初的
+8 futile adj. 无效的，无用的；（人）没出息的；琐细的
+2 incommensurate adj. 不成比例的，不相称的
+5 keen adj. 锋利的，锐利的；敏锐的，灵敏的；热心的
+5 infest v. 大批出没于，骚扰；寄生于
+4 inimical adj. 敌意的，不友善的
+7 pristine adj. 原始的；质朴的，纯洁的；新鲜的，干净的
+2 incarnate adj. 具有人体的；化身的，拟人化的
+7 petulant adj. 暴躁的，易怒的
+6 nomadic adj. 游牧的；流浪的
+7 oblivious adj. 遗忘的，忘却的；疏忽的
+11 glaze v. 上釉于；使光滑 n. 釉
+7 perpetuate v. 使永存
+7 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
+5 infuse v. 注入，灌输；鼓励
+1 indigence n. 贫穷，贫困
+2 instigate v. 怂恿，鼓动，煽动
+13 fluffy adj. 有绒毛的；无聊的，琐碎的
+5 irreverent adj. 不尊敬的
+12 hunch n. 直觉，预感
+6 mordant adj. 讥讽的，尖酸的
+8 igneous adj. 火的，似火的
+==================
