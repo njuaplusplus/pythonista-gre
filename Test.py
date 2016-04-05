@@ -19,7 +19,8 @@ TEXTFIELD_ERR_TIMES_THRESHOLD = 'textfield_err_times_threshold'
 TEXTFIELD_MAX_RECITING = 'textfield_max_reciting'
 SWITCH_SHUFFLE = 'switch_shuffle'
 SWITCH_SPEECH = 'switch_auto_speech'
-
+SWITCH_REVERSE = 'switch_reverse'
+SEGMENTEDCONTROL_ORDER = 'segmentedcontrol_order'
 class ReciteMenuView(ui.View):
 	def __init__(self):
 		self.start2recite = False
@@ -43,8 +44,8 @@ class ReciteView (ui.View):
 	def shuffle(self):
 		self.recite.shuffle()
 	
-	def filter(self, max_reciring, err_times_threshold):
-		self.recite.filter(max_reciting, err_times_threshold)
+	def filter(self, order, max_reciring, err_times_threshold):
+		self.recite.filter(order, max_reciting, err_times_threshold)
 	
 	def before_present(self):
 		word = self.recite.pickone()
@@ -95,6 +96,7 @@ def button_tapped(sender):
 		if sender.superview.auto_speech:
 			speech.say(word.word, 'en-US')
 
+
 if __name__ == '__main__':
 	menu = ui.load_view('Menu')
 	menu.present(orientations=['portrait'], hide_title_bar=True)
@@ -108,7 +110,7 @@ if __name__ == '__main__':
 			max_reciting = int(menu[TEXTFIELD_MAX_RECITING].text)
 		except ValueError as err:
 			print('Can not convert to int' + str(err))
-		v.filter(max_reciting, err_times_threshold)
+		v.filter(menu[SEGMENTEDCONTROL_ORDER].selected_index, max_reciting, err_times_threshold)
 		if menu[SWITCH_SHUFFLE].value == True:
 			v.shuffle()
 		v.auto_speech = menu[SWITCH_SPEECH].value

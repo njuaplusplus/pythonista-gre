@@ -13,14 +13,14 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "font_name" : "<System>",
+          "font_size" : 18,
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "F3A62FE8-04AF-4B7F-B786-00266D1114A8",
           "text" : "随机顺序背诵",
           "alignment" : "right",
           "class" : "Label",
           "name" : "label_shuffle",
-          "font_size" : 18
+          "font_name" : "<System>"
         }
       },
       {
@@ -31,12 +31,12 @@
 
         ],
         "attributes" : {
-          "flex" : "LRTB",
+          "uuid" : "F12E5D8B-37AF-4D1A-9AD0-2BD969168300",
           "frame" : "{{135, 225}, {51, 31}}",
           "value" : true,
           "class" : "Switch",
           "name" : "switch_shuffle",
-          "uuid" : "F12E5D8B-37AF-4D1A-9AD0-2BD969168300"
+          "flex" : "LRTB"
         }
       },
       {
@@ -48,14 +48,14 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "font_name" : "<System>",
+          "font_size" : 18,
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "DA5609E6-6D0D-423C-B616-B6D7036E4066",
           "text" : "背诵错误数大于等于",
           "alignment" : "right",
           "class" : "Label",
           "name" : "label_err_times_threshold",
-          "font_size" : 18
+          "font_name" : "<System>"
         }
       },
       {
@@ -67,7 +67,7 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "font_name" : "<System>",
+          "font_size" : 17,
           "frame" : "{{60, 224}, {200, 32}}",
           "spellchecking_type" : "default",
           "class" : "TextField",
@@ -76,7 +76,7 @@
           "text" : "0",
           "autocorrection_type" : "default",
           "name" : "textfield_err_times_threshold",
-          "font_size" : 17
+          "font_name" : "<System>"
         }
       },
       {
@@ -130,14 +130,14 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "font_name" : "<System>",
+          "name" : "label_speech",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "2422D2E5-F430-4095-AF07-F259A599BCEC",
           "text" : "自动发音",
           "alignment" : "right",
           "class" : "Label",
           "font_size" : 18,
-          "name" : "label_speech"
+          "font_name" : "<System>"
         }
       },
       {
@@ -165,15 +165,15 @@
 
         ],
         "attributes" : {
-          "font_name" : "<System>",
           "flex" : "LRTB",
+          "name" : "label_max_reciting",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "9659E7CC-F63D-40DB-86C4-9826A6F91D11",
           "text" : "背诵个数少于等于",
           "alignment" : "right",
           "class" : "Label",
           "font_size" : 18,
-          "name" : "label_max_reciting"
+          "font_name" : "<System>"
         }
       },
       {
@@ -185,7 +185,7 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "font_name" : "<System>",
+          "name" : "textfield_max_reciting",
           "frame" : "{{60, 224}, {200, 32}}",
           "spellchecking_type" : "default",
           "class" : "TextField",
@@ -194,7 +194,44 @@
           "text" : "100",
           "autocorrection_type" : "default",
           "font_size" : 17,
-          "name" : "textfield_max_reciting"
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{33, 260}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRTB",
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "2422D2E5-F430-4095-AF07-F259A599BCEC",
+          "text" : "倒序筛选",
+          "alignment" : "right",
+          "class" : "Label",
+          "font_size" : 18,
+          "name" : "label_reverse"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{191, 260}, {120, 32}}",
+        "class" : "SegmentedControl",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRTB",
+          "action" : "",
+          "segments" : "从头|从尾|任意",
+          "frame" : "{{100, 226}, {120, 29}}",
+          "class" : "SegmentedControl",
+          "uuid" : "D6274166-42AF-47D9-9438-AEDF79FDEECD",
+          "value" : true,
+          "name" : "segmentedcontrol_order"
         }
       }
     ],

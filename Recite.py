@@ -71,8 +71,13 @@ class Recite (object):
 	def shuffle(self):
 		random.shuffle(self.reciting_words)
 	
-	def filter(self, max_reciting,  err_times_threshold):
-		self.reciting_words = self.words[-max_reciting:]
+	def filter(self, order, max_reciting,  err_times_threshold):
+		if order == 0:
+			self.reciting_words = self.words[:max_reciting]
+		elif order == 1:
+			self.reciting_words = self.words[-max_reciting:]
+		else:
+			self.reciting_words = random.sample(self.words, max_reciting)
 		self.err_times_threshold = err_times_threshold
 		self.reciting_words = [w for w in self.reciting_words if w.err_times >= err_times_threshold]
 		
