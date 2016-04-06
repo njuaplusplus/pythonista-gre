@@ -634,63 +634,108 @@
 1 proclivity n. 倾向
 2 procurement n. 取得，获得；采购 procure （v. 取得，获得）
 1 prod v. 戳，刺；刺激，激励
-
-prodigal adj. 挥霍的 n. 挥霍者
-prodigious adj. 巨大的；惊人的，奇异的
-proficiency n. 进步；熟练，精通
-proficient adj. 熟练的，精通的
-profile n. 轮廓，外形；（尤指人面部的）侧面
-profligacy n. 放荡；肆意挥霍
-profound adj. 深的；深刻的，深远的；渊博的；深奥的
-profundity n. 深奥的食物；深刻，深厚
-profuse adj. 丰富的；浪费的
-proliferate v. 激增；（迅速）繁殖，增生
-prolific adj. 多产的，多果实的
-promptness n. 敏捷，迅速；机敏
-promulgate v. 颁布（法令）；宣传，传播
-prone adj. 俯卧的；倾向于…的 be prone to sth./do sth.
-pronounced adj. 显著的，明确的 pronounce （v. 宣称，宣布）
-proofread v. 校正，校对
-propaganda n. 宣传
-propel v. 推进，促进
-propensity n. 嗜好，习性
-prophetic adj. 先知的，预言的，预示的
-propitiate v. 讨好；抚慰
-propitious adj. 吉利的，顺利的
-proposition n. 看法，主张；提议
-propriety n. 礼节；适当，得体
-prosaic adj. 散文（体）的；单调的，无趣的
-proscribe v. 禁止
-prosecute v. 起诉；告发
-proselytize v. （使）皈依
-prospect v. 勘探 n. 期望；前景
-prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
-protest v./n. 抗议，反对
-protozoan n. 原生动物
-protract v. 延长，拖长
-protrude v. 突出，伸出
-provident adj. 深谋远虑的；节俭的 反 improvident
-provincial adj. 省的，地方的；偏狭的，粗俗的 province （n. 省）
-provision n. 供应；（法律等）条款
-provisional adj. 暂时的，临时的
-provocation n. 挑衅，激怒 provoke （v. 激怒）
-provoke v. 激怒；引起；驱使
-prudent adj. 审慎的；精明的；节俭的，精打细算的
-prudish adj. 过分守礼的，假道学的
-publicize v. （公开）宣传，宣扬；引人注意
-pugnacious adj. 好斗的
-pungent adj. 辛辣的，刺激的；尖锐的，尖刻的
-purchase n. 支点（阻止东西下滑） v./n. 购买
-purport n. 意义，涵义，主旨
-pursuit n. 追赶；职业
-quagmire n. 沼泽地；困境
-quaint adj. 离奇有趣的；古色古香的
-qualm n. 疑惧；紧张不安
-quantum n. 量子；定量
-quarantine n. 隔离检疫期，隔离
-quash v. 镇压；（依法）取消
-querulous adj. 抱怨的，爱发牢骚的
-quixotic adj. 不切实际的，空想的 Don Quixote 堂吉诃德 亦作 quixotical
-raciness n. 生动活泼
-radiant adj. 发光的；容光焕发的
-radicalism n. 激进主义 radical adj. 激进的；彻底的
+0 prodigal adj. 挥霍的 n. 挥霍者
+0 prodigious adj. 巨大的；惊人的，奇异的
+0 proficiency n. 进步；熟练，精通
+0 proficient adj. 熟练的，精通的
+0 profile n. 轮廓，外形；（尤指人面部的）侧面
+0 profligacy n. 放荡；肆意挥霍
+0 profound adj. 深的；深刻的，深远的；渊博的；深奥的
+0 profundity n. 深奥的食物；深刻，深厚
+0 profuse adj. 丰富的；浪费的
+0 proliferate v. 激增；（迅速）繁殖，增生
+0 prolific adj. 多产的，多果实的
+0 promptness n. 敏捷，迅速；机敏
+0 promulgate v. 颁布（法令）；宣传，传播
+0 prone adj. 俯卧的；倾向于…的 be prone to sth./do sth.
+0 pronounced adj. 显著的，明确的 pronounce （v. 宣称，宣布）
+0 proofread v. 校正，校对
+0 propaganda n. 宣传
+0 propel v. 推进，促进
+0 propensity n. 嗜好，习性
+0 prophetic adj. 先知的，预言的，预示的
+0 propitiate v. 讨好；抚慰
+0 propitious adj. 吉利的，顺利的
+0 proposition n. 看法，主张；提议
+0 propriety n. 礼节；适当，得体
+0 prosaic adj. 散文（体）的；单调的，无趣的
+0 proscribe v. 禁止
+0 prosecute v. 起诉；告发
+0 proselytize v. （使）皈依
+0 prospect v. 勘探 n. 期望；前景
+0 prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
+0 protest v./n. 抗议，反对
+0 protozoan n. 原生动物
+0 protract v. 延长，拖长
+0 protrude v. 突出，伸出
+0 provident adj. 深谋远虑的；节俭的 反 improvident
+0 provincial adj. 省的，地方的；偏狭的，粗俗的 province （n. 省）
+0 provision n. 供应；（法律等）条款
+0 provisional adj. 暂时的，临时的
+0 provocation n. 挑衅，激怒 provoke （v. 激怒）
+0 provoke v. 激怒；引起；驱使
+0 prudent adj. 审慎的；精明的；节俭的，精打细算的
+0 prudish adj. 过分守礼的，假道学的
+0 publicize v. （公开）宣传，宣扬；引人注意
+0 pugnacious adj. 好斗的
+0 pungent adj. 辛辣的，刺激的；尖锐的，尖刻的
+0 purchase n. 支点（阻止东西下滑） v./n. 购买
+0 purport n. 意义，涵义，主旨
+0 pursuit n. 追赶；职业
+0 quagmire n. 沼泽地；困境
+0 quaint adj. 离奇有趣的；古色古香的
+0 qualm n. 疑惧；紧张不安
+0 quantum n. 量子；定量
+0 quarantine n. 隔离检疫期，隔离
+0 quash v. 镇压；（依法）取消
+0 querulous adj. 抱怨的，爱发牢骚的
+0 quixotic adj. 不切实际的，空想的 Don Quixote 堂吉诃德 亦作 quixotical
+0 raciness n. 生动活泼
+0 radiant adj. 发光的；容光焕发的
+0 radicalism n. 激进主义 radical adj. 激进的；彻底的
+0 rag n. 旧布，碎布；破旧衣服 lose one's rag 发怒，生气
+0 rage n. 盛怒 v. 狂怒，大发雷霆
+0 ragged adj. 褴褛的，破烂的
+0 ragtime n. 雷格泰姆音乐 adj. 滑稽的
+0 raisin n. 葡萄干
+0 rampant adj. 猖獗的，蔓生的
+0 ramshackle adj. 摇摇欲坠的
+0 ranching n. 大牧场
+0 rancid adj. 不新鲜的，变味的
+0 rancor n. 深仇，怨恨
+0 rarefy v. 使稀少，使稀薄
+0 ratify v. 批准
+0 rationale n. 基本原理
+0 raucous adj. 刺耳的，沙哑的；喧嚣的
+0 ravage v. 摧毁，使荒废
+0 rave n. 热切赞扬 v. 胡言乱语
+0 raze v. 夷为平地；彻底破坏
+0 reactionary adj. 极端保守的，反动的
+0 reassure v. 使恢复信心；使确信
+0 rebuke v. 指责，谴责
+0 recalcitrant adj. 顽抗的
+0 recapitulate v. 扼要重述
+0 recast v. 重铸；更换演员
+0 recede v. 后退，撤回
+0 recessive adj. 隐性遗传的；后退的
+0 recipient n. 接受者
+0 reciprocally adv. 相互地；相反地
+0 reciprocate v. 回报，答谢
+0 reciprocation n. 互换；报答；往复运动
+0 reciprocity n. 相互性；互惠
+0 recital n. 独奏会，独唱会，小型舞蹈表演会；吟诵
+0 recklessness n. 鲁莽，轻率 reckless adj. 鲁莽的；不计后果的
+0 reclaim v. 纠正，改造；开垦（土地）
+0 recluse n. 隐士 adj. 隐居的
+0 recoil v. 弹回，反冲；退却，退缩
+0 recollect v. 回忆；想起
+0 reconcile v. 和解，调和
+0 reconciliation n. 和解；调节
+0 recondite adj. 深奥的，晦涩的
+0 reconnaissance n. 侦查，预先勘测 区分 renaissance n. 复兴；复活
+0 recount v. 叙述，描写
+0 recourse n. 求助，依靠
+0 recreational adj. 娱乐的，休闲的
+0 rectify v. 改正，校正；提纯
+0 recuperate v. 恢复（健康、体力），复原
+0 recurrent adj. 循环的；一再发生的
