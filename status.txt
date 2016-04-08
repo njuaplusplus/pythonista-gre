@@ -1199,3 +1199,112 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 200
 6 mordant adj. 讥讽的，尖酸的
 8 igneous adj. 火的，似火的
 ==================
+20160407 10:18:29
+Err: 66, recited: 200, total: 741
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+5 precipitate v. 使突然降临，加速，促成 adj. 鲁莽的，轻率的
+1 rave n. 热切赞扬 v. 胡言乱语
+1 purchase n. 支点（阻止东西下滑） v./n. 购买
+1 recuperate v. 恢复（健康、体力），复原
+1 pungent adj. 辛辣的，刺激的；尖锐的，尖刻的
+1 pursuit n. 追赶；职业
+1 protozoan n. 原生动物
+1 profligacy n. 放荡；肆意挥霍
+1 recondite adj. 深奥的，晦涩的
+7 poignant adj. 令人痛苦的，伤心的；尖锐的
+1 recessive adj. 隐性遗传的；后退的
+1 ravage v. 摧毁，使荒废
+1 publicize v. （公开）宣传，宣扬；引人注意
+1 ramshackle adj. 摇摇欲坠的
+1 prone adj. 俯卧的；倾向于…的 be prone to sth./do sth.
+1 rag n. 旧布，碎布；破旧衣服 lose one's rag 发怒，生气
+1 purport n. 意义，涵义，主旨
+1 quash v. 镇压；（依法）取消
+7 portray v. 描述；描绘
+7 precipitous adj. 陡峭的
+8 pristine adj. 原始的；质朴的，纯洁的；新鲜的，干净的
+8 petulant adj. 暴躁的，易怒的
+1 prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
+1 provisional adj. 暂时的，临时的
+8 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
+1 proficient adj. 熟练的，精通的
+1 profuse adj. 丰富的；浪费的
+1 recoil v. 弹回，反冲；退却，退缩
+1 recluse n. 隐士 adj. 隐居的
+1 reciprocity n. 相互性；互惠
+1 raciness n. 生动活泼
+1 reclaim v. 纠正，改造；开垦（土地）
+1 reciprocation n. 互换；报答；往复运动
+1 rationale n. 基本原理
+1 qualm n. 疑惧；紧张不安
+1 ragtime n. 雷格泰姆音乐 adj. 滑稽的
+1 propitiate v. 讨好；抚慰
+1 radicalism n. 激进主义 radical adj. 激进的；彻底的
+1 rampant adj. 猖獗的，蔓生的
+2 proclamation n. 宣布，公布
+1 ratify v. 批准
+1 provision n. 供应；（法律等）条款
+1 recede v. 后退，撤回
+1 reconnaissance n. 侦查，预先勘测 区分 renaissance n. 复兴；复活
+7 piercing adj. 冷的刺骨的；敏锐的
+1 propaganda n. 宣传
+1 prodigal adj. 挥霍的 n. 挥霍者
+1 profundity n. 深奥的食物；深刻，深厚
+1 recklessness n. 鲁莽，轻率 reckless adj. 鲁莽的；不计后果的
+1 prudish adj. 过分守礼的，假道学的
+1 pugnacious adj. 好斗的
+1 prodigious adj. 巨大的；惊人的，奇异的
+5 pliant adj. 易受影响的；易弯曲的
+1 provocation n. 挑衅，激怒 provoke （v. 激怒）
+1 proposition n. 看法，主张；提议
+1 reciprocally adv. 相互地；相反地
+1 propitious adj. 吉利的，顺利的
+1 ranching n. 大牧场
+1 raucous adj. 刺耳的，沙哑的；喧嚣的
+1 rancor n. 深仇，怨恨
+7 postulate v. 要求；假定
+1 raze v. 夷为平地；彻底破坏
+1 rancid adj. 不新鲜的，变味的
+1 quaint adj. 离奇有趣的；古色古香的
+1 recalcitrant adj. 顽抗的
+8 pilgrim n. 朝圣者；（在国外的）旅行者
+==================
+20160408 10:56:28
+Err: 35, recited: 269, total: 741
+Shuffled: False, err_times_threshold: 1,  reciting_length: 269
+6 precipitate v. 使突然降临，加速，促成 adj. 鲁莽的，轻率的
+5 impulsive adj. 冲动的，由冲动引起的；易冲动的
+5 incense n. 香味 v. 激怒
+2 prodigal adj. 挥霍的 n. 挥霍者
+3 inquisitive adj. 好奇的，好问的；爱打听的
+5 inane adj. 无意义的，空洞的；愚蠢的
+2 reconnaissance n. 侦查，预先勘测 区分 renaissance n. 复兴；复活
+2 quash v. 镇压；（依法）取消
+5 impugn v. 提出异议，对…表示怀疑
+13 hunch n. 直觉，预感
+5 impart v. 传授，赋予；传递；告知，透露
+13 galvanize v. 刺激；电镀；通电
+6 noisome adj. 有恶臭的；令人作呕的，令人讨厌的
+5 irreproachable  adj. 无可指责的，无瑕疵的
+4 hamper v. 妨碍，阻挠 n. （有盖的）大篮子
+6 perpetrate v. 犯罪；负责
+2 ranching n. 大牧场
+5 obdurate adj. 固执的，顽固的
+4 inadvertent adj. 疏忽的；不经意的，无心的
+5 impassive adj. 无动于衷的，冷漠的
+8 impetuous adj. 冲动的，鲁莽的
+6 nubile adj. 适婚的，性感的
+2 raucous adj. 刺耳的，沙哑的；喧嚣的
+4 garish adj. 俗丽的，过于艳丽的
+6 intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
+2 qualm n. 疑惧；紧张不安
+6 inure v. 使习惯于
+4 insipid adj. 乏味的，枯燥的
+2 profligacy n. 放荡；肆意挥霍
+6 infertile adj. 贫瘠的，不结果实的
+13 graze v. （让动物）吃草；放牧
+2 pungent adj. 辛辣的，刺激的；尖锐的，尖刻的
+2 prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
+3 overbear v. 压倒；镇压；比…更重要，超过
+2 propaganda n. 宣传
+==================

@@ -13,14 +13,14 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "font_size" : 18,
+          "font_name" : "<System>",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "F3A62FE8-04AF-4B7F-B786-00266D1114A8",
           "text" : "随机顺序背诵",
           "alignment" : "right",
           "class" : "Label",
-          "name" : "label_shuffle",
-          "font_name" : "<System>"
+          "font_size" : 18,
+          "name" : "label_shuffle"
         }
       },
       {
@@ -31,12 +31,12 @@
 
         ],
         "attributes" : {
-          "uuid" : "F12E5D8B-37AF-4D1A-9AD0-2BD969168300",
+          "flex" : "LRTB",
           "frame" : "{{135, 225}, {51, 31}}",
           "value" : true,
           "class" : "Switch",
           "name" : "switch_shuffle",
-          "flex" : "LRTB"
+          "uuid" : "F12E5D8B-37AF-4D1A-9AD0-2BD969168300"
         }
       },
       {
@@ -48,14 +48,14 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "font_size" : 18,
+          "font_name" : "<System>",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "DA5609E6-6D0D-423C-B616-B6D7036E4066",
           "text" : "背诵错误数大于等于",
           "alignment" : "right",
           "class" : "Label",
-          "name" : "label_err_times_threshold",
-          "font_name" : "<System>"
+          "font_size" : 18,
+          "name" : "label_err_times_threshold"
         }
       },
       {
@@ -67,7 +67,7 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "font_size" : 17,
+          "font_name" : "<System>",
           "frame" : "{{60, 224}, {200, 32}}",
           "spellchecking_type" : "default",
           "class" : "TextField",
@@ -75,8 +75,8 @@
           "alignment" : "center",
           "text" : "0",
           "autocorrection_type" : "default",
-          "name" : "textfield_err_times_threshold",
-          "font_name" : "<System>"
+          "font_size" : 17,
+          "name" : "textfield_err_times_threshold"
         }
       },
       {
@@ -130,14 +130,14 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "name" : "label_speech",
+          "font_name" : "<System>",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "2422D2E5-F430-4095-AF07-F259A599BCEC",
           "text" : "自动发音",
           "alignment" : "right",
           "class" : "Label",
-          "font_size" : 18,
-          "font_name" : "<System>"
+          "name" : "label_speech",
+          "font_size" : 18
         }
       },
       {
@@ -166,14 +166,14 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "name" : "label_max_reciting",
+          "font_name" : "<System>",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "9659E7CC-F63D-40DB-86C4-9826A6F91D11",
           "text" : "背诵个数少于等于",
           "alignment" : "right",
           "class" : "Label",
-          "font_size" : 18,
-          "font_name" : "<System>"
+          "name" : "label_max_reciting",
+          "font_size" : 18
         }
       },
       {
@@ -185,7 +185,7 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "name" : "textfield_max_reciting",
+          "font_name" : "<System>",
           "frame" : "{{60, 224}, {200, 32}}",
           "spellchecking_type" : "default",
           "class" : "TextField",
@@ -193,8 +193,8 @@
           "alignment" : "center",
           "text" : "100",
           "autocorrection_type" : "default",
-          "font_size" : 17,
-          "font_name" : "<System>"
+          "name" : "textfield_max_reciting",
+          "font_size" : 17
         }
       },
       {
@@ -206,14 +206,14 @@
         ],
         "attributes" : {
           "flex" : "LRTB",
-          "font_name" : "<System>",
+          "name" : "label_reverse",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "2422D2E5-F430-4095-AF07-F259A599BCEC",
           "text" : "倒序筛选",
           "alignment" : "right",
           "class" : "Label",
           "font_size" : 18,
-          "name" : "label_reverse"
+          "font_name" : "<System>"
         }
       },
       {
