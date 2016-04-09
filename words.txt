@@ -739,3 +739,101 @@
 0 rectify v. 改正，校正；提纯
 1 recuperate v. 恢复（健康、体力），复原
 0 recurrent adj. 循环的；一再发生的
+0 reenact v. 再制定
+0 referent n. 指示对象
+0 reflective adj. 反射的，反照的；深思熟虑的
+0 refractory adj. 倔强的，难管理的；（病）难治的
+0 refrain v. 抑制 n. （歌曲或诗歌中）的叠句
+0 refrigerate v. 使冷却，冷藏
+0 regale v. 款待，宴请；使…快乐
+0 regenerate v. 改造，改进；使再生，新生
+0 regimental adj. 团的，团队的 regiment n. 团；大量
+0 regretfully adv. 懊悔地
+0 regulatory adj. 按规矩来的，依照规章的；调整的
+0 rehabilitate v. 使恢复（健康、能力、地位等）
+0 reimburse v. 偿还
+0 reinstate v. （使）恢复（原来的地位或职位）
+0 rekindle v. 再点火；使重新振作
+0 relegate v. 使降级，贬谪；交付，托付
+0 relent adj. 变宽厚，变温和，怜悯
+0 relentless adj. 无情的，残酷的
+0 relinquish v. 放弃，让出
+0 relish n. 美味，风味；喜好，兴趣 v. 喜好，享受
+0 reluctance n. 勉强，不情愿
+0 reminiscent adj. 回忆的；使人联想的 reminiscent of sb./sth.
+0 remiss adj. 疏忽的
+0 remorse n. 懊悔
+0 remorselessly adv. 冷酷地，无悔意地
+0 remunerative adj. 报酬高的，有利润的
+0 render v. 呈递，提供；给予，归还
+0 renegade n. 叛教者，叛徒
+0 renewal n. 更新；复兴，振兴
+0 renounce v. 声明放弃；拒绝，否认
+0 renown n. 名望，声誉 renowned adj. 有名的
+0 reparation n. 赔偿，补偿
+0 repeal v. 废除（法律）
+0 repel v. 击退，使反感
+0 repertoire n. （剧团等）全部剧目
+0 replenish v. 补充，把…再备足
+0 replete adj. 充满的，供应充足的
+0 replicate v. 复制 replica n. 复制品
+0 reportorial adj. 记者的；报道的
+0 reprehensible adj. 应受谴责的
+0 repress v. 抑制，压抑；镇压 repressive adj. 抑制的；镇压的，残暴的
+0 reprimand v./n. 训诫，谴责
+0 reprisal n. 报复，报复行动
+0 reproach n. 谴责，责骂
+0 repudiate v. 拒绝接受，回绝，抛弃
+0 repudiation n. 拒绝接受，否认
+0 repugnance n. 嫌恶，方案
+0 repugnant adj. 令人厌恶的
+0 repulse v./n. 击退；（粗暴无礼）回绝
+0 repute v. 认为 n. 名声
+0 rescind v. 废除，取消
+0 resent v. 憎恶，怨恨
+0 reside v. 居住 reside in sb./sth. 在于；由…造成
+0 residential adj. 住宅的，与居住有关的
+0 residual n. 剩余，残余 adj. 残余的，剩余的
+0 resign v. 委托；放弃；辞职
+0 resignation n. 听从，顺从；辞职
+0 resilient adj. 有弹性的；能恢复活力的，适应力强的
+0 resonant adj. （声音）洪亮的；回响的，共鸣的
+0 respiratory adj. 呼吸的
+0 respite n. 休息；暂缓
+0 restitution n. 归还；赔偿
+0 restive adj. 不安静的，不安宁的
+0 restoration n. 恢复，复原
+0 restore v. 恢复；修补，修复
+0 resurge v. 复活
+0 resurrect v. 使复活；复兴
+0 resuscitate v. 使复活，使苏醒
+0 retaliate v. 报复，反击
+0 retentive adj. 有记性的，记忆力强的
+0 reticent adj. 沉默寡言的
+0 retribution n. 报应，惩罚
+0 retrospect n. 回顾 v. 回顾，回想
+0 retrospective adj. 回顾的，追溯的
+0 revelation n. 显示；揭露的事实
+0 reverberate v. 发出回声，回响
+0 revere v. 尊敬
+0 reverential adj. 表示尊敬的，恭敬的
+0 revert v. 恢复，回复到；重新考虑
+0 revile v. 辱骂，恶言相向
+0 revitalize v. 使重新充满活力
+0 revival n. 苏醒；恢复；复兴
+0 rhapsodic adj. 狂热的，狂喜的；狂想曲的
+0 rhetoric n. 修辞，修辞学；浮夸的言辞 rhetor n. 修辞学者，修辞学教师
+0 rhetorical adj. 修辞的，修辞学的；虚夸的，辞藻华丽的
+0 ribaldry n. 下流的言语，粗鄙的幽默
+0 ridge n. 脊（如屋脊、山脊等）；隆起物
+0 ridicule n. 嘲笑，奚落
+0 rift n. 裂口，断裂；矛盾
+0 rigid adj. 严格的；僵硬的，刚硬的
+0 rip v. 撕裂 rip at sth. 猛烈撕扯；用力割
+0 ritual n. 仪式，惯例 rite n. 仪式
+0 rival n. 竞争者，对手 v. 竞争，与…匹敌
+0 rivalry n. 竞争，对抗
+0 rivet n. 铆钉 v. 吸引（注意力） be riveted to the spot/ground 呆若木鸡
+0 roam v. 漫游，漫步
+0 romance n. 传奇故事；虚构；浪漫氛围；风流韵事 v. 虚构
+0 roseate adj. 玫瑰色的；过分乐观的
