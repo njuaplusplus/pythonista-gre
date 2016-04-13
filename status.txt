@@ -1308,3 +1308,184 @@ Shuffled: False, err_times_threshold: 1,  reciting_length: 269
 3 overbear v. 压倒；镇压；比…更重要，超过
 2 propaganda n. 宣传
 ==================
+20160410 16:31:49
+Err: 8, recited: 35, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 300
+3 qualm n. 疑惧；紧张不安
+1 promptness n. 敏捷，迅速；机敏
+1 retentive adj. 有记性的，记忆力强的
+2 rave n. 热切赞扬 v. 胡言乱语
+1 remunerative adj. 报酬高的，有利润的
+1 provoke v. 激怒；引起；驱使
+3 pungent adj. 辛辣的，刺激的；尖锐的，尖刻的
+2 reciprocity n. 相互性；互惠
+==================
+20160411 10:06:56
+Err: 11, recited: 23, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+1 repugnant adj. 令人厌恶的
+2 provision n. 供应；（法律等）条款
+2 raze v. 夷为平地；彻底破坏
+2 ravage v. 摧毁，使荒废
+1 propriety n. 礼节；适当，得体
+1 reprisal n. 报复，报复行动
+1 retrospect n. 回顾 v. 回顾，回想
+1 relish n. 美味，风味；喜好，兴趣 v. 喜好，享受
+1 rip v. 撕裂 rip at sth. 猛烈撕扯；用力割
+4 qualm n. 疑惧；紧张不安
+2 provisional adj. 暂时的，临时的
+==================
+20160412 08:58:10
+Err: 14, recited: 19, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+1 rivalry n. 竞争，对抗
+2 remunerative adj. 报酬高的，有利润的
+1 revile v. 辱骂，恶言相向
+1 resilient adj. 有弹性的；能恢复活力的，适应力强的
+1 reprehensible adj. 应受谴责的
+1 reverberate v. 发出回声，回响
+1 retribution n. 报应，惩罚
+1 retaliate v. 报复，反击
+1 refractory adj. 倔强的，难管理的；（病）难治的
+1 replete adj. 充满的，供应充足的
+2 repugnant adj. 令人厌恶的
+2 recuperate v. 恢复（健康、体力），复原
+1 retrospective adj. 回顾的，追溯的
+1 resignation n. 听从，顺从；辞职
+==================
+20160412 10:20:53
+Err: 83, recited: 200, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+2 reciprocation n. 互换；报答；往复运动
+1 ribaldry n. 下流的言语，粗鄙的幽默
+2 recluse n. 隐士 adj. 隐居的
+2 refractory adj. 倔强的，难管理的；（病）难治的
+1 roseate adj. 玫瑰色的；过分乐观的
+1 remorselessly adv. 冷酷地，无悔意地
+1 reprimand v./n. 训诫，谴责
+2 recklessness n. 鲁莽，轻率 reckless adj. 鲁莽的；不计后果的
+1 roam v. 漫游，漫步
+2 reclaim v. 纠正，改造；开垦（土地）
+1 regimental adj. 团的，团队的 regiment n. 团；大量
+3 repugnant adj. 令人厌恶的
+3 reconnaissance n. 侦查，预先勘测 区分 renaissance n. 复兴；复活
+1 reflective adj. 反射的，反照的；深思熟虑的
+1 refrain v. 抑制 n. （歌曲或诗歌中）的叠句
+3 raze v. 夷为平地；彻底破坏
+1 relentless adj. 无情的，残酷的
+2 recondite adj. 深奥的，晦涩的
+1 reciprocate v. 回报，答谢
+1 relinquish v. 放弃，让出
+1 rescind v. 废除，取消
+1 regale v. 款待，宴请；使…快乐
+1 rift n. 裂口，断裂；矛盾
+1 restitution n. 归还；赔偿
+3 remunerative adj. 报酬高的，有利润的
+1 restive adj. 不安静的，不安宁的
+2 raciness n. 生动活泼
+1 renown n. 名望，声誉 renowned adj. 有名的
+2 retaliate v. 报复，反击
+1 reminiscent adj. 回忆的；使人联想的 reminiscent of sb./sth.
+1 reverential adj. 表示尊敬的，恭敬的
+1 resurge v. 复活
+2 retentive adj. 有记性的，记忆力强的
+3 prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
+2 rancor n. 深仇，怨恨
+1 repute v. 认为 n. 名声
+3 raucous adj. 刺耳的，沙哑的；喧嚣的
+2 relish n. 美味，风味；喜好，兴趣 v. 喜好，享受
+1 relent adj. 变宽厚，变温和，怜悯
+3 profligacy n. 放荡；肆意挥霍
+1 relegate v. 使降级，贬谪；交付，托付
+3 quash v. 镇压；（依法）取消
+2 provoke v. 激怒；引起；驱使
+2 rip v. 撕裂 rip at sth. 猛烈撕扯；用力割
+1 repel v. 击退，使反感
+1 rhapsodic adj. 狂热的，狂喜的；狂想曲的
+1 reconciliation n. 和解；调节
+1 repudiate v. 拒绝接受，回绝，抛弃
+1 renounce v. 声明放弃；拒绝，否认
+3 ranching n. 大牧场
+1 revival n. 苏醒；恢复；复兴
+1 repudiation n. 拒绝接受，否认
+1 rivet n. 铆钉 v. 吸引（注意力） be riveted to the spot/ground 呆若木鸡
+2 revile v. 辱骂，恶言相向
+2 replete adj. 充满的，供应充足的
+2 prudish adj. 过分守礼的，假道学的
+1 renegade n. 叛教者，叛徒
+1 recipient n. 接受者
+1 rival n. 竞争者，对手 v. 竞争，与…匹敌
+3 rave n. 热切赞扬 v. 胡言乱语
+2 pugnacious adj. 好斗的
+1 reticent adj. 沉默寡言的
+1 ritual n. 仪式，惯例 rite n. 仪式
+1 render v. 呈递，提供；给予，归还
+2 profuse adj. 丰富的；浪费的
+4 pungent adj. 辛辣的，刺激的；尖锐的，尖刻的
+1 repulse v./n. 击退；（粗暴无礼）回绝
+2 resilient adj. 有弹性的；能恢复活力的，适应力强的
+1 regulatory adj. 按规矩来的，依照规章的；调整的
+1 recourse n. 求助，依靠
+2 resignation n. 听从，顺从；辞职
+2 retribution n. 报应，惩罚
+1 repeal v. 废除（法律）
+2 quaint adj. 离奇有趣的；古色古香的
+2 recessive adj. 隐性遗传的；后退的
+2 reciprocally adv. 相互地；相反地
+2 purchase n. 支点（阻止东西下滑） v./n. 购买
+1 repertoire n. （剧团等）全部剧目
+3 recuperate v. 恢复（健康、体力），复原
+1 repugnance n. 嫌恶，方案
+2 promptness n. 敏捷，迅速；机敏
+2 rivalry n. 竞争，对抗
+1 remorse n. 懊悔
+==================
+20160413 11:01:15
+Err: 45, recited: 300, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 300
+2 rift n. 裂口，断裂；矛盾
+4 paean n. 赞美歌，颂歌
+7 pernicious adj. 有害的；致命的
+8 piercing adj. 冷的刺骨的；敏锐的
+2 rhapsodic adj. 狂热的，狂喜的；狂想曲的
+15 fraternity n. 同行；友爱
+1 reimburse v. 偿还
+2 ribaldry n. 下流的言语，粗鄙的幽默
+3 improvise v. 即席创作
+2 instructive adj. 传授知识的，教育的；有益的
+2 rescind v. 废除，取消
+4 repugnant adj. 令人厌恶的
+2 renown n. 名望，声誉 renowned adj. 有名的
+6 keen adj. 锋利的，锐利的；敏锐的，灵敏的；热心的
+2 rivet n. 铆钉 v. 吸引（注意力） be riveted to the spot/ground 呆若木鸡
+2 repudiate v. 拒绝接受，回绝，抛弃
+6 moratorium n. 延缓偿付；活动中止
+7 nubile adj. 适婚的，性感的
+4 recuperate v. 恢复（健康、体力），复原
+4 perilous adj. 危险的，冒险的 peril （n. 危险）
+5 pungent adj. 辛辣的，刺激的；尖锐的，尖刻的
+1 imperial adj. 帝王的，至尊的
+2 prodigious adj. 巨大的；惊人的，奇异的
+8 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
+6 incense n. 香味 v. 激怒
+4 ranching n. 大牧场
+6 infest v. 大批出没于，骚扰；寄生于
+5 obfuscate v. 使迷惑，使困惑
+4 painstakingly adv. 细心地；辛苦地
+5 incipient adj. 初期的，起初的
+3 reciprocation n. 互换；报答；往复运动
+6 impart v. 传授，赋予；传递；告知，透露
+7 precipitate v. 使突然降临，加速，促成 adj. 鲁莽的，轻率的
+2 genus n. （动植物的）属，类
+6 mollify v. 抚慰；缓和
+6 inane adj. 无意义的，空洞的；愚蠢的
+6 mundane adj. 献世的，世俗的；平凡的，普通的
+6 infuse v. 注入，灌输；鼓励
+7 gratuitous adj. 无缘无故的；免费的 gratuity n. 小费
+5 infirm adj. 虚弱的
+5 parody n. 拙劣的模仿；滑稽模仿作品或表演
+1 grandeur n. 壮丽，宏伟
+1 impolitic adj. 不明智的，失策的
+4 prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
+3 rivalry n. 竞争，对抗
+==================
