@@ -7,7 +7,7 @@
 1 exasperation n. 激怒
 0 excavate v. 开洞；挖掘
 0 exclusive adj. （人）孤僻的；（物）专用的
-6 exempt adj. 被免除的 v. 免除
+7 exempt adj. 被免除的 v. 免除
 1 exert v.运用，行使，施加
 0 exhaust v. 耗尽；使精疲力竭 n.（机器排出的）废气
 0 exhilarate v. 使兴奋；使振作
@@ -83,7 +83,7 @@
 7 fractious adj. （脾气）易怒的，好争吵的
 0 frail adj. 脆弱的；不坚实的
 0 frantic adj. 疯狂的，狂乱的
-15 fraternity n. 同行；友爱
+16 fraternity n. 同行；友爱
 1 fraught adj. 充满的
 5 fray n. 吵架，打斗 v. 磨破
 0 frenetic adj. 狂乱的，发狂的
@@ -97,7 +97,7 @@
 1 frugality n. 朴素；节俭
 4 fulsome adj. 虚情假意的；充足的
 3 fumigate v. 用烟熏消毒
-14 furtive adj. 偷偷的，秘密的
+15 furtive adj. 偷偷的，秘密的
 0 fuse v. 熔化；融合
 1 fusion n. 融合；核聚变
 8 fussy adj. 爱挑剔的，难取悦的
@@ -106,7 +106,7 @@
 0 galaxy n. 星系；一群（杰出人物）
 5 gall n. 胆汁；怨恨
 1 gallant adj. 勇敢的，英勇的；（对女人）献殷情的
-13 galvanize v. 刺激；电镀；通电
+14 galvanize v. 刺激；电镀；通电
 10 garble v. 曲解，篡改
 4 garish adj. 俗丽的，过于艳丽的
 10 garrulous adj. 话多的
@@ -140,7 +140,7 @@
 1 gratify v. 使高兴，使满足
 6 grating adj. （声音）刺耳的；恼人的
 7 gratuitous adj. 无缘无故的；免费的 gratuity n. 小费
-13 graze v. （让动物）吃草；放牧
+14 graze v. （让动物）吃草；放牧
 1 gregarious adj. 群居的；爱社交的
 0 grief n. 忧伤，悲伤
 0 grieve v. 使某人极为悲伤
@@ -243,14 +243,14 @@
 0 impending adj. 即将发生的，逼近的
 1 impenetrable adj. 不能穿透的；不可理解的
 5 imperative adj. 紧急的
-1 imperial adj. 帝王的，至尊的
-9 imperious adj. 傲慢的，专横的
+2 imperial adj. 帝王的，至尊的
+10 imperious adj. 傲慢的，专横的
 1 impersonal adj. 不受个人感情影响的
 0 impersonate v. 模仿；扮演
 12 impertinent adj. 不切题的；无礼的，莽撞的
 0 imperturbable adj. 冷静的，沉着的
 3 impervious adj. 不能渗透的
-8 impetuous adj. 冲动的，鲁莽的
+9 impetuous adj. 冲动的，鲁莽的
 3 impiety n. 不虔诚，无信仰
 0 implausible adj. 难以置信的
 1 impolitic adj. 不明智的，失策的
@@ -277,9 +277,9 @@
 0 inaugurate v. 举行就职典礼；创始，开创
 2 incarnate adj. 具有人体的；化身的，拟人化的
 4 incendiary adj. 放火的，纵火的
-6 incense n. 香味 v. 激怒
+7 incense n. 香味 v. 激怒
 2 incentive n. 刺激，诱因，动机；刺激因素
-2 incessant adj. 不停的，不断的
+3 incessant adj. 不停的，不断的
 3 incidence n. 发生，出现；发生率
 0 incidental adj. 作为自然结果的，伴随而来的；偶然发生的
 5 incipient adj. 初期的，起初的
@@ -311,8 +311,8 @@
 0 inexcusable adj. 不可原谅的
 1 inexorable adj. 不为所动的；无法改变的
 0 infect v. 传染；使感染；污染
-6 infertile adj. 贫瘠的，不结果实的
-6 infest v. 大批出没于，骚扰；寄生于
+7 infertile adj. 贫瘠的，不结果实的
+7 infest v. 大批出没于，骚扰；寄生于
 0 infiltrate v. 渗透，渗入
 5 infirm adj. 虚弱的
 1 inflamed adj. 发炎的，红肿的
@@ -321,7 +321,7 @@
 0 inform v. 对…有影响；使活跃，使有生气；告诉，通知
 1 infrared adj. 红外线的
 1 infuriate v. 使恼怒，激怒
-6 infuse v. 注入，灌输；鼓励
+7 infuse v. 注入，灌输；鼓励
 0 ingenious adj. 聪明的；善于创造发明的，心灵手巧的
 0 ingeniousness v. 独创性
 4 ingenuous adj. 纯真的，纯朴的；坦率的
@@ -329,8 +329,8 @@
 1 ingrain adj. 根深蒂固的 n. 本质
 0 ingrained adj. 根深蒂固的
 4 inimical adj. 敌意的，不友善的
-1 iniquitous adj. 邪恶的，不公正的
-3 inquisitive adj. 好奇的，好问的；爱打听的
+2 iniquitous adj. 邪恶的，不公正的
+4 inquisitive adj. 好奇的，好问的；爱打听的
 1 insinuate v. 暗指，暗示
 4 insipid adj. 乏味的，枯燥的
 2 insolent adj. 粗野的，无礼的
@@ -339,7 +339,7 @@
 2 instructive adj. 传授知识的，教育的；有益的
 4 insular adj. 岛屿的；心胸狭窄的
 4 intact adj. 完整的，完好无缺的
-3 intelligible adj. 可理解的，易于理解的
+4 intelligible adj. 可理解的，易于理解的
 6 intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
 1 interplay v./n. 相互影响
 1 interpolate v. 插入；（通过插入新语句）篡改
@@ -368,7 +368,7 @@
 1 jocular adj. 滑稽的，幽默的；爱开玩笑的
 4 jolting adj. 令人震惊的
 4 judicious adj. 有判断力的；审慎的
-5 jumble v. 使混乱，杂乱 n. 混杂，杂乱
+6 jumble v. 使混乱，杂乱 n. 混杂，杂乱
 1 justifiable adj. 有理由的，无可非议的 justify （v. 证明…是正当或合理的）
 1 juvenile adj. 青少年的；孩子气的，幼稚的
 6 keen adj. 锋利的，锐利的；敏锐的，灵敏的；热心的
@@ -382,7 +382,7 @@
 1 momentarily adv. 暂时地；片刻，立刻 momentary （adj. 短暂的，瞬间的）
 2 momentous adj. 极为重要的
 1 monopolize v. 垄断，独占
-6 moratorium n. 延缓偿付；活动中止
+7 moratorium n. 延缓偿付；活动中止
 6 mordant adj. 讥讽的，尖酸的
 3 mortify v. 使丢脸，侮辱
 1 motif n. （文艺作品等的）主题，主旨
@@ -431,7 +431,7 @@
 3 nurture v. 养育，教养 n. 养育；营养物
 1 nutrient n. 营养物
 1 nutritional adj. 营养的
-5 obdurate adj. 固执的，顽固的
+6 obdurate adj. 固执的，顽固的
 5 obfuscate v. 使迷惑，使困惑
 1 obliging adj. 乐于助人的 oblige （v. 施恩惠于，帮助）
 1 obliterate v. 涂掉，擦掉
@@ -482,7 +482,7 @@
 2 pack n. 兽群，包裹
 1 packed adj. 压紧的；拥挤的
 4 paean n. 赞美歌，颂歌
-4 painstakingly adv. 细心地；辛苦地
+5 painstakingly adv. 细心地；辛苦地
 1 palatable adj. 美味的
 4 palpable adj. 可触知的，可察觉的；明显的
 4 paltry adj. 无价值的，微不足道的
@@ -528,7 +528,7 @@
 5 peripatetic adj. 巡游的，流动的
 2 perishable adj. 易腐烂的，易变质的 n. 易腐烂的东西 perish v. （毁灭；腐烂）
 3 permeate v. 扩散，弥漫；穿透
-7 pernicious adj. 有害的；致命的
+8 pernicious adj. 有害的；致命的
 3 perpendicular adj. 垂直的，竖直的
 6 perpetrate v. 犯罪；负责
 7 perpetuate v. 使永存
@@ -542,7 +542,7 @@
 2 pesticide n. 杀虫剂
 8 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
 4 petroleum n. 石油
-8 petulant adj. 暴躁的，易怒的
+9 petulant adj. 暴躁的，易怒的
 1 pharmaceutical adj. 制药的，卖药的 pharmacy （n. 药房；药剂学）
 1 phenomenal adj. 显著的，非凡的 phenomenon （n. 现象；奇迹）
 1 philanthropic adj. 慈善（事业）的，博爱的
@@ -568,13 +568,13 @@
 3 platitudinous adj. 陈腐的
 1 plausible adj. 看似有理的，似是而非的；有道理的，可信的
 2 plethora n. 过多，过剩
-1 pliable adj. 易弯曲的，柔软的；易受影响的
+2 pliable adj. 易弯曲的，柔软的；易受影响的
 5 pliant adj. 易受影响的；易弯曲的
 3 plot n. 情节；阴谋 v. 密谋，策划
 1 plumb n. 铅垂 adj. 垂直的 adv. 精确地 v. 深入了解；测量深度
 4 plump adj. 丰满的 v. 使丰满，使变圆
 1 plunge v. 跳入，陷入；俯冲
-7 poignant adj. 令人痛苦的，伤心的；尖锐的
+8 poignant adj. 令人痛苦的，伤心的；尖锐的
 4 poise v. 使平衡 n. 泰然自若，沉着自信
 1 polarize v. （使人、观点等）两极化
 1 polish v. 磨光，擦亮 n. 上光剂；优雅
@@ -592,7 +592,7 @@
 1 possess v. 拥有；支配；迷住
 1 possessed adj. 着迷的
 1 posthumous adj. 死后的
-7 postulate v. 要求；假定
+8 postulate v. 要求；假定
 3 potable adj. 适于饮用的
 3 potent adj. 强有力的，有影响力的额，有权力的；有效能的
 1 potshot n. 盲目射击；肆意抨击 v. 肆意抨击
@@ -627,7 +627,7 @@
 1 prevail v. 战胜；流行，盛行
 2 prevalent adj. 流行的，盛行的
 3 prig n. 自命清高者，道学先生
-8 pristine adj. 原始的；质朴的，纯洁的；新鲜的，干净的
+9 pristine adj. 原始的；质朴的，纯洁的；新鲜的，干净的
 1 privacy n. 隐居，隐退；隐私；秘密
 2 probity n. 正直
 2 proclamation n. 宣布，公布
@@ -635,11 +635,11 @@
 2 procurement n. 取得，获得；采购 procure （v. 取得，获得）
 1 prod v. 戳，刺；刺激，激励
 2 prodigal adj. 挥霍的 n. 挥霍者
-2 prodigious adj. 巨大的；惊人的，奇异的
+3 prodigious adj. 巨大的；惊人的，奇异的
 0 proficiency n. 进步；熟练，精通
 1 proficient adj. 熟练的，精通的
 0 profile n. 轮廓，外形；（尤指人面部的）侧面
-3 profligacy n. 放荡；肆意挥霍
+4 profligacy n. 放荡；肆意挥霍
 0 profound adj. 深的；深刻的，深远的；渊博的；深奥的
 1 profundity n. 深奥的食物；深刻，深厚
 2 profuse adj. 丰富的；浪费的
@@ -717,12 +717,12 @@
 0 recapitulate v. 扼要重述
 0 recast v. 重铸；更换演员
 1 recede v. 后退，撤回
-2 recessive adj. 隐性遗传的；后退的
+3 recessive adj. 隐性遗传的；后退的
 1 recipient n. 接受者
 2 reciprocally adv. 相互地；相反地
-1 reciprocate v. 回报，答谢
+2 reciprocate v. 回报，答谢
 3 reciprocation n. 互换；报答；往复运动
-2 reciprocity n. 相互性；互惠
+3 reciprocity n. 相互性；互惠
 0 recital n. 独奏会，独唱会，小型舞蹈表演会；吟诵
 2 recklessness n. 鲁莽，轻率 reckless adj. 鲁莽的；不计后果的
 2 reclaim v. 纠正，改造；开垦（土地）
@@ -737,15 +737,15 @@
 1 recourse n. 求助，依靠
 0 recreational adj. 娱乐的，休闲的
 0 rectify v. 改正，校正；提纯
-4 recuperate v. 恢复（健康、体力），复原
+5 recuperate v. 恢复（健康、体力），复原
 0 recurrent adj. 循环的；一再发生的
 0 reenact v. 再制定
 0 referent n. 指示对象
 1 reflective adj. 反射的，反照的；深思熟虑的
-2 refractory adj. 倔强的，难管理的；（病）难治的
+3 refractory adj. 倔强的，难管理的；（病）难治的
 1 refrain v. 抑制 n. （歌曲或诗歌中）的叠句
 0 refrigerate v. 使冷却，冷藏
-1 regale v. 款待，宴请；使…快乐
+2 regale v. 款待，宴请；使…快乐
 0 regenerate v. 改造，改进；使再生，新生
 1 regimental adj. 团的，团队的 regiment n. 团；大量
 0 regretfully adv. 懊悔地
@@ -754,7 +754,7 @@
 1 reimburse v. 偿还
 0 reinstate v. （使）恢复（原来的地位或职位）
 0 rekindle v. 再点火；使重新振作
-1 relegate v. 使降级，贬谪；交付，托付
+2 relegate v. 使降级，贬谪；交付，托付
 1 relent adj. 变宽厚，变温和，怜悯
 1 relentless adj. 无情的，残酷的
 1 relinquish v. 放弃，让出
@@ -772,10 +772,10 @@
 2 renown n. 名望，声誉 renowned adj. 有名的
 0 reparation n. 赔偿，补偿
 1 repeal v. 废除（法律）
-1 repel v. 击退，使反感
+2 repel v. 击退，使反感
 1 repertoire n. （剧团等）全部剧目
 0 replenish v. 补充，把…再备足
-2 replete adj. 充满的，供应充足的
+3 replete adj. 充满的，供应充足的
 0 replicate v. 复制 replica n. 复制品
 0 reportorial adj. 记者的；报道的
 1 reprehensible adj. 应受谴责的
@@ -795,7 +795,7 @@
 0 residential adj. 住宅的，与居住有关的
 0 residual n. 剩余，残余 adj. 残余的，剩余的
 0 resign v. 委托；放弃；辞职
-2 resignation n. 听从，顺从；辞职
+3 resignation n. 听从，顺从；辞职
 2 resilient adj. 有弹性的；能恢复活力的，适应力强的
 0 resonant adj. （声音）洪亮的；回响的，共鸣的
 0 respiratory adj. 呼吸的
@@ -804,11 +804,11 @@
 1 restive adj. 不安静的，不安宁的
 0 restoration n. 恢复，复原
 0 restore v. 恢复；修补，修复
-1 resurge v. 复活
+2 resurge v. 复活
 0 resurrect v. 使复活；复兴
 0 resuscitate v. 使复活，使苏醒
-2 retaliate v. 报复，反击
-2 retentive adj. 有记性的，记忆力强的
+3 retaliate v. 报复，反击
+3 retentive adj. 有记性的，记忆力强的
 1 reticent adj. 沉默寡言的
 2 retribution n. 报应，惩罚
 1 retrospect n. 回顾 v. 回顾，回想
@@ -824,7 +824,7 @@
 2 rhapsodic adj. 狂热的，狂喜的；狂想曲的
 0 rhetoric n. 修辞，修辞学；浮夸的言辞 rhetor n. 修辞学者，修辞学教师
 0 rhetorical adj. 修辞的，修辞学的；虚夸的，辞藻华丽的
-2 ribaldry n. 下流的言语，粗鄙的幽默
+3 ribaldry n. 下流的言语，粗鄙的幽默
 0 ridge n. 脊（如屋脊、山脊等）；隆起物
 0 ridicule n. 嘲笑，奚落
 2 rift n. 裂口，断裂；矛盾

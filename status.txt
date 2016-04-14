@@ -1489,3 +1489,49 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 300
 4 prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
 3 rivalry n. 竞争，对抗
 ==================
+20160414 09:22:12
+Err: 42, recited: 233, total: 839
+Shuffled: False, err_times_threshold: 1,  reciting_length: 233
+2 repel v. 击退，使反感
+3 recessive adj. 隐性遗传的；后退的
+2 reciprocate v. 回报，答谢
+7 infuse v. 注入，灌输；鼓励
+2 pliable adj. 易弯曲的，柔软的；易受影响的
+5 recuperate v. 恢复（健康、体力），复原
+9 impetuous adj. 冲动的，鲁莽的
+6 jumble v. 使混乱，杂乱 n. 混杂，杂乱
+9 petulant adj. 暴躁的，易怒的
+3 retaliate v. 报复，反击
+3 reciprocity n. 相互性；互惠
+7 exempt adj. 被免除的 v. 免除
+7 infest v. 大批出没于，骚扰；寄生于
+4 intelligible adj. 可理解的，易于理解的
+5 painstakingly adv. 细心地；辛苦地
+4 inquisitive adj. 好奇的，好问的；爱打听的
+2 iniquitous adj. 邪恶的，不公正的
+3 refractory adj. 倔强的，难管理的；（病）难治的
+8 postulate v. 要求；假定
+8 pernicious adj. 有害的；致命的
+2 relegate v. 使降级，贬谪；交付，托付
+8 poignant adj. 令人痛苦的，伤心的；尖锐的
+3 prodigious adj. 巨大的；惊人的，奇异的
+4 profligacy n. 放荡；肆意挥霍
+3 retentive adj. 有记性的，记忆力强的
+14 graze v. （让动物）吃草；放牧
+10 imperious adj. 傲慢的，专横的
+3 ribaldry n. 下流的言语，粗鄙的幽默
+9 pristine adj. 原始的；质朴的，纯洁的；新鲜的，干净的
+3 resignation n. 听从，顺从；辞职
+14 galvanize v. 刺激；电镀；通电
+3 replete adj. 充满的，供应充足的
+7 infertile adj. 贫瘠的，不结果实的
+16 fraternity n. 同行；友爱
+3 incessant adj. 不停的，不断的
+2 imperial adj. 帝王的，至尊的
+2 resurge v. 复活
+7 moratorium n. 延缓偿付；活动中止
+6 obdurate adj. 固执的，顽固的
+2 regale v. 款待，宴请；使…快乐
+15 furtive adj. 偷偷的，秘密的
+7 incense n. 香味 v. 激怒
+==================
