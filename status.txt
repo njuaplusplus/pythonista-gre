@@ -1535,3 +1535,125 @@ Shuffled: False, err_times_threshold: 1,  reciting_length: 233
 15 furtive adj. 偷偷的，秘密的
 7 incense n. 香味 v. 激怒
 ==================
+20160415 09:16:12
+Err: 55, recited: 307, total: 839
+Shuffled: False, err_times_threshold: 1,  reciting_length: 307
+2 renegade n. 叛教者，叛徒
+3 prudish adj. 过分守礼的，假道学的
+6 penitent adj. 悔过的，忏悔的
+8 gratuitous adj. 无缘无故的；免费的 gratuity n. 小费
+5 peevish adj. 不满的，抱怨的；暴躁的，坏脾气的，易怒的 peeve （v. 使焦躁）
+9 gluttonous adj. 贪吃的
+3 revile v. 辱骂，恶言相向
+8 fractious adj. （脾气）易怒的，好争吵的
+4 grudge v. 吝惜，勉强给或承认；不满，怨恨
+2 renounce v. 声明放弃；拒绝，否认
+15 galvanize v. 刺激；电镀；通电
+2 remorse n. 懊悔
+10 petulant adj. 暴躁的，易怒的
+4 indulge v. 放纵，纵容
+4 raucous adj. 刺耳的，沙哑的；喧嚣的
+2 reprimand v./n. 训诫，谴责
+4 premonition n. 预感，预兆
+9 piercing adj. 冷的刺骨的；敏锐的
+8 moratorium n. 延缓偿付；活动中止
+4 glutinous adj. 粘的，胶状的 glue n. 胶水
+10 impetuous adj. 冲动的，鲁莽的
+15 graze v. （让动物）吃草；放牧
+2 reticent adj. 沉默寡言的
+2 repugnance n. 嫌恶，方案
+7 inane adj. 无意义的，空洞的；愚蠢的
+6 obfuscate v. 使迷惑，使困惑
+6 impecunious adj. 不名一文的，没钱的
+3 rift n. 裂口，断裂；矛盾
+3 ravage v. 摧毁，使荒废
+5 indenture n. 契约，合同 v. 以契约约束
+6 recuperate v. 恢复（健康、体力），复原
+4 ribaldry n. 下流的言语，粗鄙的幽默
+9 pernicious adj. 有害的；致命的
+7 perpetrate v. 犯罪；负责
+3 repel v. 击退，使反感
+7 jumble v. 使混乱，杂乱 n. 混杂，杂乱
+7 mundane adj. 献世的，世俗的；平凡的，普通的
+4 refractory adj. 倔强的，难管理的；（病）难治的
+8 nubile adj. 适婚的，性感的
+5 incendiary adj. 放火的，纵火的
+4 impair v. 损害，削弱
+4 quash v. 镇压；（依法）取消
+2 repulse v./n. 击退；（粗暴无礼）回绝
+4 rave n. 热切赞扬 v. 胡言乱语
+2 restitution n. 归还；赔偿
+5 inadvertent adj. 疏忽的；不经意的，无心的
+11 imperious adj. 傲慢的，专横的
+9 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
+7 falter v. 蹒跚；支吾地说
+5 pejorative adj. 轻视的，贬低的
+4 retaliate v. 报复，反击
+2 imprudent adj. 轻率的；不理智的
+3 resilient adj. 有弹性的；能恢复活力的，适应力强的
+9 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
+7 nomadic adj. 游牧的；流浪的
+==================
+20160417 09:26:04
+Err: 9, recited: 100, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+5 inert adj. 惰性的；呆滞的，迟缓的
+3 recluse n. 隐士 adj. 隐居的
+6 indenture n. 契约，合同 v. 以契约约束
+1 recital n. 独奏会，独唱会，小型舞蹈表演会；吟诵
+5 glossy adj. 有光泽的，光滑的
+6 impugn v. 提出异议，对…表示怀疑
+5 irrigate v. 灌溉；冲洗（伤口）
+2 myriad adj. 许多的，无数的
+6 gouge v. 挖出；敲竹杠 n. 半圆凿
+==================
+20160418 10:44:42
+Err: 18, recited: 200, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+17 fraternity n. 同行；友爱
+8 grumble v. 嘟囔，抱怨，发牢骚
+7 fret v. （使）烦躁，焦虑 n. 烦躁焦虑
+16 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+7 grating adj. （声音）刺耳的；恼人的
+8 huddle v. 挤成一团 n. 一堆人（或物）
+4 foster v. 鼓励，促进；养育，抚养
+4 humidity n. 湿度，湿气 humid adj. 潮湿
+9 fussy adj. 爱挑剔的，难取悦的
+3 heretical adj. 异端的
+9 grim adj. 冷酷的，可怕的
+1 guile n. 欺骗，欺诈；狡猾
+5 grudge v. 吝惜，勉强给或承认；不满，怨恨
+9 grind v. 磨碎，碾碎 n. 苦差事
+8 hatch n. 船舱盖 v. 孵化；策划
+16 furtive adj. 偷偷的，秘密的
+4 flagging adj. 下垂的；衰弱的
+16 graze v. （让动物）吃草；放牧
+==================
+20160421 09:23:32
+Err: 24, recited: 153, total: 839
+Shuffled: False, err_times_threshold: 1,  reciting_length: 153
+3 raciness n. 生动活泼
+4 perfume n. 香味；香水
+5 murky adj. 黑暗的，昏暗的；朦胧的 murk （n. 黑暗，昏暗）
+3 relegate v. 使降级，贬谪；交付，托付
+2 inexorable adj. 不为所动的；无法改变的
+3 reprimand v./n. 训诫，谴责
+4 repel v. 击退，使反感
+3 rhapsodic adj. 狂热的，狂喜的；狂想曲的
+10 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
+2 refrain v. 抑制 n. （歌曲或诗歌中）的叠句
+10 pernicious adj. 有害的；致命的
+3 rivet n. 铆钉 v. 吸引（注意力） be riveted to the spot/ground 呆若木鸡
+2 infrared adj. 红外线的
+7 mordant adj. 讥讽的，尖酸的
+8 oblivious adj. 遗忘的，忘却的；疏忽的
+10 pristine adj. 原始的；质朴的，纯洁的；新鲜的，干净的
+2 forlorn adj. 孤独的；凄凉的
+2 relentless adj. 无情的，残酷的
+8 perpetrate v. 犯罪；负责
+2 rival n. 竞争者，对手 v. 竞争，与…匹敌
+3 repugnance n. 嫌恶，方案
+11 petulant adj. 暴躁的，易怒的
+4 resilient adj. 有弹性的；能恢复活力的，适应力强的
+8 perpetuate v. 使永存
+==================
