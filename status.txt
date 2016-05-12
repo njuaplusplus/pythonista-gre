@@ -1657,3 +1657,63 @@ Shuffled: False, err_times_threshold: 1,  reciting_length: 153
 4 resilient adj. 有弹性的；能恢复活力的，适应力强的
 8 perpetuate v. 使永存
 ==================
+20160507 08:49:44
+Err: 15, recited: 100, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+1 resonant adj. （声音）洪亮的；回响的，共鸣的
+11 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
+9 moratorium n. 延缓偿付；活动中止
+6 grudge v. 吝惜，勉强给或承认；不满，怨恨
+1 glossary n. 词汇表；难词表
+1 prudent adj. 审慎的；精明的；节俭的，精打细算的
+6 imperative adj. 紧急的
+10 impressionable /ɪm'prɛʃənəbl/ adj. 易受影响的
+2 roam v. 漫游，漫步
+3 renown n. 名望，声誉 renowned adj. 有名的
+4 reciprocation n. 互换；报答；往复运动
+8 infertile adj. 贫瘠的，不结果实的
+4 impervious adj. 不能渗透的
+2 profundity n. 深奥的食物；深刻，深厚
+1 infect v. 传染；使感染；污染
+==================
+20160512 10:02:54
+Err: 37, recited: 237, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 300
+8 fret v. （使）烦躁，焦虑 n. 烦躁焦虑
+11 impetuous adj. 冲动的，鲁莽的
+17 graze v. （让动物）吃草；放牧
+9 graft v./n. 嫁接，结合；贪污
+1 fortitude n. 坚毅，坚韧不拔
+6 inadvertent adj. 疏忽的；不经意的，无心的
+2 fraught adj. 充满的
+7 impugn v. 提出异议，对…表示怀疑
+1 impound v. 限制；依法没收，扣押
+9 huddle v. 挤成一团 n. 一堆人（或物）
+9 grumble v. 嘟囔，抱怨，发牢骚
+17 foul adj. 污秽的，肮脏的；恶臭的；邪恶的 v. 弄脏 n. （体育等）犯规
+14 hunch n. 直觉，预感
+7 indenture n. 契约，合同 v. 以契约约束
+1 impute v. 归咎于；归于
+8 grating adj. （声音）刺耳的；恼人的
+3 iconographic adj. 肖像的，肖像学的；图解的
+5 hamper v. 妨碍，阻挠 n. （有盖的）大篮子
+3 imponderable adj. （重量等）无法衡量的
+4 indignation n. 愤慨
+1 impromptu /ɪm’prɑmptu/ adj. 即兴的
+3 incarnate adj. 具有人体的；化身的，拟人化的
+13 impertinent adj. 不切题的；无礼的，莽撞的
+7 imperative adj. 紧急的
+1 inaugurate v. 举行就职典礼；创始，开创
+6 grandiose adj. 宏伟的
+10 grim adj. 冷酷的，可怕的
+4 imposing adj. 给人印象深刻的；壮丽的，雄伟的
+18 fraternity n. 同行；友爱
+8 exempt adj. 被免除的 v. 免除
+10 florid adj. 华丽的；（脸）红润的
+6 impulsive adj. 冲动的，由冲动引起的；易冲动的
+8 inane adj. 无意义的，空洞的；愚蠢的
+6 incipient adj. 初期的，起初的
+8 gorgeous adj. 华丽的；极好的
+9 hatch n. 船舱盖 v. 孵化；策划
+4 impunity n. 免受惩罚
+==================
