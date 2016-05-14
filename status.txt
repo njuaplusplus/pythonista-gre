@@ -1753,3 +1753,53 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 200
 18 graze v. （让动物）吃草；放牧
 4 relegate v. 使降级，贬谪；交付，托付
 ==================
+20160514 10:45:44
+Err: 46, recited: 200, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+4 repugnance n. 嫌恶，方案
+2 recipient n. 接受者
+10 pilgrim n. 朝圣者；（在国外的）旅行者
+1 residual n. 剩余，残余 adj. 残余的，剩余的
+4 revile v. 辱骂，恶言相向
+5 refractory adj. 倔强的，难管理的；（病）难治的
+3 quaint adj. 离奇有趣的；古色古香的
+3 rival n. 竞争者，对手 v. 竞争，与…匹敌
+12 impetuous adj. 冲动的，鲁莽的
+7 grudge v. 吝惜，勉强给或承认；不满，怨恨
+5 introvert n. 性格内向的人
+1 recount v. 叙述，描写
+3 refrain v. 抑制 n. （歌曲或诗歌中）的叠句
+5 insipid adj. 乏味的，枯燥的
+1 revelation n. 显示；揭露的事实
+2 inflamed adj. 发炎的，红肿的
+4 rhapsodic adj. 狂热的，狂喜的；狂想曲的
+2 reverberate v. 发出回声，回响
+4 reciprocity n. 相互性；互惠
+5 jolting adj. 令人震惊的
+1 provident adj. 深谋远虑的；节俭的 反 improvident
+4 restitution n. 归还；赔偿
+8 jumble v. 使混乱，杂乱 n. 混杂，杂乱
+4 peculiar adj. 独特的；古怪的
+7 impart v. 传授，赋予；传递；告知，透露
+2 retrospective adj. 回顾的，追溯的
+8 precipitous adj. 陡峭的
+1 quantum n. 量子；定量
+1 provincial adj. 省的，地方的；偏狭的，粗俗的 province （n. 省）
+3 parable n. 寓言
+3 perishable adj. 易腐烂的，易变质的 n. 易腐烂的东西 perish v. （毁灭；腐烂）
+7 keen adj. 锋利的，锐利的；敏锐的，灵敏的；热心的
+1 promulgate v. 颁布（法令）；宣传，传播
+1 reenact v. 再制定
+4 renown n. 名望，声誉 renowned adj. 有名的
+1 rectify v. 改正，校正；提纯
+2 recede v. 后退，撤回
+3 repudiate v. 拒绝接受，回绝，抛弃
+11 grim adj. 冷酷的，可怕的
+6 interrogation n. 审问，质问；疑问句
+6 pine n. 松树 v. （因疾病等）憔悴；渴望
+5 indulge v. 放纵，纵容
+9 postulate v. 要求；假定
+1 gloom n. 昏暗；忧郁
+1 rehabilitate v. 使恢复（健康、能力、地位等）
+1 rhetoric n. 修辞，修辞学；浮夸的言辞 rhetor n. 修辞学者，修辞学教师
+==================
