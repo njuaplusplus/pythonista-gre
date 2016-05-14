@@ -1717,3 +1717,39 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 300
 9 hatch n. 船舱盖 v. 孵化；策划
 4 impunity n. 免受惩罚
 ==================
+20160512 22:53:42
+Err: 0, recited: 1, total: 839
+Shuffled: False, err_times_threshold: 10,  reciting_length: 1
+==================
+20160513 10:34:58
+Err: 28, recited: 107, total: 839
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+6 peripatetic adj. 巡游的，流动的
+5 ribaldry n. 下流的言语，粗鄙的幽默
+2 resonant adj. （声音）洪亮的；回响的，共鸣的
+3 renounce v. 声明放弃；拒绝，否认
+5 plump adj. 丰满的 v. 使丰满，使变圆
+2 nutrient n. 营养物
+2 propitious adj. 吉利的，顺利的
+5 prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
+2 reprisal n. 报复，报复行动
+5 ranching n. 大牧场
+4 retentive adj. 有记性的，记忆力强的
+3 perspire v. 出汗
+10 piercing adj. 冷的刺骨的；敏锐的
+2 retrospect n. 回顾 v. 回顾，回想
+2 remorselessly adv. 冷酷地，无悔意地
+3 insolent adj. 粗野的，无礼的
+1 rhetorical adj. 修辞的，修辞学的；虚夸的，辞藻华丽的
+1 reactionary adj. 极端保守的，反动的
+4 natty adj. 整洁的；敏捷的，灵巧的
+3 relentless adj. 无情的，残酷的
+3 restitution n. 归还；赔偿
+5 obsequious adj. 逢迎的，谄媚的
+2 roseate adj. 玫瑰色的；过分乐观的
+9 pilgrim n. 朝圣者；（在国外的）旅行者
+2 institute v. 设立，创立（社团等）；制定（制度等） n. 学院，学会，协会
+2 momentarily adv. 暂时地；片刻，立刻 momentary （adj. 短暂的，瞬间的）
+18 graze v. （让动物）吃草；放牧
+4 relegate v. 使降级，贬谪；交付，托付
+==================

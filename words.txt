@@ -55,7 +55,7 @@
 4 flourish v. 繁荣，兴旺；活跃而有影响力
 3 flout v. 蔑视；违抗
 1 fluctuate v. 波动；变动
-1 fluctuation n. 波动，起伏，张罗
+1 fluctuation n. 波动，起伏，涨落
 13 fluffy adj. 有绒毛的；无聊的，琐碎的
 2 fluorescent adj. 荧光的，发亮的
 14 flustered adj. 慌张的，激动不安的
@@ -140,7 +140,7 @@
 1 gratify v. 使高兴，使满足
 8 grating adj. （声音）刺耳的；恼人的
 8 gratuitous adj. 无缘无故的；免费的 gratuity n. 小费
-17 graze v. （让动物）吃草；放牧
+18 graze v. （让动物）吃草；放牧
 1 gregarious adj. 群居的；爱社交的
 0 grief n. 忧伤，悲伤
 0 grieve v. 使某人极为悲伤
@@ -228,7 +228,7 @@
 2 illusory adj. 虚幻的
 6 imbue v. 浸染，浸透；使充满，灌输，激发
 1 immaculate adj. 洁净的，无暇的
-4 immense adj. 极大地；无限的
+4 immense adj. 极大的；无限的
 0 imminent adj. 即将发生的，逼近的
 0 immobile adj. 稳定的，不动的，静止的
 4 impair v. 损害，削弱
@@ -333,9 +333,9 @@
 4 inquisitive adj. 好奇的，好问的；爱打听的
 1 insinuate v. 暗指，暗示
 4 insipid adj. 乏味的，枯燥的
-2 insolent adj. 粗野的，无礼的
+3 insolent adj. 粗野的，无礼的
 2 instigate v. 怂恿，鼓动，煽动
-1 institute v. 设立，创立（社团等）；制定（制度等） n. 学院，学会，协会
+2 institute v. 设立，创立（社团等）；制定（制度等） n. 学院，学会，协会
 2 instructive adj. 传授知识的，教育的；有益的
 4 insular adj. 岛屿的；心胸狭窄的
 4 intact adj. 完整的，完好无缺的
@@ -379,7 +379,7 @@
 1 moisten v. 弄湿，使湿润
 6 mollify v. 抚慰；缓和
 2 molten adj. 熔融的，熔化的 melt（v. 融化，熔化）
-1 momentarily adv. 暂时地；片刻，立刻 momentary （adj. 短暂的，瞬间的）
+2 momentarily adv. 暂时地；片刻，立刻 momentary （adj. 短暂的，瞬间的）
 2 momentous adj. 极为重要的
 1 monopolize v. 垄断，独占
 9 moratorium n. 延缓偿付；活动中止
@@ -400,7 +400,7 @@
 1 mythic adj. 神话的；虚构的
 4 narcotic n. 麻醉剂 adj. 麻醉的，催眠的
 2 narrative adj. 叙述性的 narrate （v. 叙述）
-3 natty adj. 整洁的；敏捷的，灵巧的
+4 natty adj. 整洁的；敏捷的，灵巧的
 1 navigate v. 驾驶；航行；使通过
 5 nebulous adj. 模糊的；云状的
 2 negligent adj. 疏忽的，粗心大意的
@@ -429,7 +429,7 @@
 5 nuance n. 细微差异
 8 nubile adj. 适婚的，性感的
 3 nurture v. 养育，教养 n. 养育；营养物
-1 nutrient n. 营养物
+2 nutrient n. 营养物
 1 nutritional adj. 营养的
 6 obdurate adj. 固执的，顽固的
 6 obfuscate v. 使迷惑，使困惑
@@ -438,7 +438,7 @@
 8 oblivious adj. 遗忘的，忘却的；疏忽的
 5 obscure adj. 难以理解的，含糊的；不清楚的，模糊的 v. 使变模糊；隐藏
 4 obscurity n. 费解；不出名
-4 obsequious adj. 逢迎的，谄媚的
+5 obsequious adj. 逢迎的，谄媚的
 5 observant adj. 密切注意的，警惕的；遵守的，遵从的；敏锐的
 3 obsessed adj. 着迷的，沉迷的 obsess （v. 迷住；困扰）
 4 obsolescent adj. 逐渐荒废的 obsolescence （n. 废弃，陈旧）
@@ -525,7 +525,7 @@
 4 perfume n. 香味；香水
 3 perfunctory adj. 例行公事般的，敷衍的
 4 perilous adj. 危险的，冒险的 peril （n. 危险）
-5 peripatetic adj. 巡游的，流动的
+6 peripatetic adj. 巡游的，流动的
 2 perishable adj. 易腐烂的，易变质的 n. 易腐烂的东西 perish v. （毁灭；腐烂）
 3 permeate v. 扩散，弥漫；穿透
 10 pernicious adj. 有害的；致命的
@@ -537,7 +537,7 @@
 1 persist v. 坚持不懈，执意；坚持问，不停地说；长存
 4 perspicacious adj. 独具慧眼的，敏锐的
 3 perspicuous adj. 明晰的，明了的
-2 perspire v. 出汗
+3 perspire v. 出汗
 6 pertinent adj. 有关的，相关的
 2 pesticide n. 杀虫剂
 11 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
@@ -551,9 +551,9 @@
 1 phobia n. 恐惧症
 1 physiological adj. 生理（机能）的；生理学的
 3 picturesque adj. 如画的；独特的，别具风格的
-9 piercing adj. 冷的刺骨的；敏锐的
+10 piercing adj. 冷的刺骨的；敏锐的
 2 piety n. 孝顺，孝敬；虔诚
-8 pilgrim n. 朝圣者；（在国外的）旅行者
+9 pilgrim n. 朝圣者；（在国外的）旅行者
 5 pine n. 松树 v. （因疾病等）憔悴；渴望
 1 pinpoint v. 准确地确定；使突出，引起注意 adj. 极精确的
 3 pious adj. 虔诚的
@@ -572,7 +572,7 @@
 5 pliant adj. 易受影响的；易弯曲的
 3 plot n. 情节；阴谋 v. 密谋，策划
 1 plumb n. 铅垂 adj. 垂直的 adv. 精确地 v. 深入了解；测量深度
-4 plump adj. 丰满的 v. 使丰满，使变圆
+5 plump adj. 丰满的 v. 使丰满，使变圆
 1 plunge v. 跳入，陷入；俯冲
 8 poignant adj. 令人痛苦的，伤心的；尖锐的
 4 poise v. 使平衡 n. 泰然自若，沉着自信
@@ -655,7 +655,7 @@
 0 propensity n. 嗜好，习性
 0 prophetic adj. 先知的，预言的，预示的
 1 propitiate v. 讨好；抚慰
-1 propitious adj. 吉利的，顺利的
+2 propitious adj. 吉利的，顺利的
 1 proposition n. 看法，主张；提议
 1 propriety n. 礼节；适当，得体
 0 prosaic adj. 散文（体）的；单调的，无趣的
@@ -663,7 +663,7 @@
 0 prosecute v. 起诉；告发
 0 proselytize v. （使）皈依
 0 prospect v. 勘探 n. 期望；前景
-4 prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
+5 prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
 0 protest v./n. 抗议，反对
 1 protozoan n. 原生动物
 0 protract v. 延长，拖长
@@ -700,7 +700,7 @@
 0 raisin n. 葡萄干
 1 rampant adj. 猖獗的，蔓生的
 1 ramshackle adj. 摇摇欲坠的
-4 ranching n. 大牧场
+5 ranching n. 大牧场
 1 rancid adj. 不新鲜的，变味的
 2 rancor n. 深仇，怨恨
 0 rarefy v. 使稀少，使稀薄
@@ -710,7 +710,7 @@
 3 ravage v. 摧毁，使荒废
 4 rave n. 热切赞扬 v. 胡言乱语
 3 raze v. 夷为平地；彻底破坏
-0 reactionary adj. 极端保守的，反动的
+1 reactionary adj. 极端保守的，反动的
 0 reassure v. 使恢复信心；使确信
 0 rebuke v. 指责，谴责
 1 recalcitrant adj. 顽抗的
@@ -754,21 +754,21 @@
 1 reimburse v. 偿还
 0 reinstate v. （使）恢复（原来的地位或职位）
 0 rekindle v. 再点火；使重新振作
-3 relegate v. 使降级，贬谪；交付，托付
+4 relegate v. 使降级，贬谪；交付，托付
 1 relent adj. 变宽厚，变温和，怜悯
-2 relentless adj. 无情的，残酷的
+3 relentless adj. 无情的，残酷的
 1 relinquish v. 放弃，让出
 2 relish n. 美味，风味；喜好，兴趣 v. 喜好，享受
 0 reluctance n. 勉强，不情愿
 1 reminiscent adj. 回忆的；使人联想的 reminiscent of sb./sth.
 0 remiss adj. 疏忽的
 2 remorse n. 懊悔
-1 remorselessly adv. 冷酷地，无悔意地
+2 remorselessly adv. 冷酷地，无悔意地
 3 remunerative adj. 报酬高的，有利润的
 1 render v. 呈递，提供；给予，归还
 2 renegade n. 叛教者，叛徒
 0 renewal n. 更新；复兴，振兴
-2 renounce v. 声明放弃；拒绝，否认
+3 renounce v. 声明放弃；拒绝，否认
 3 renown n. 名望，声誉 renowned adj. 有名的
 0 reparation n. 赔偿，补偿
 1 repeal v. 废除（法律）
@@ -781,7 +781,7 @@
 1 reprehensible adj. 应受谴责的
 0 repress v. 抑制，压抑；镇压 repressive adj. 抑制的；镇压的，残暴的
 3 reprimand v./n. 训诫，谴责
-1 reprisal n. 报复，报复行动
+2 reprisal n. 报复，报复行动
 0 reproach n. 谴责，责骂
 2 repudiate v. 拒绝接受，回绝，抛弃
 1 repudiation n. 拒绝接受，否认
@@ -797,10 +797,10 @@
 0 resign v. 委托；放弃；辞职
 3 resignation n. 听从，顺从；辞职
 4 resilient adj. 有弹性的；能恢复活力的，适应力强的
-1 resonant adj. （声音）洪亮的；回响的，共鸣的
+2 resonant adj. （声音）洪亮的；回响的，共鸣的
 0 respiratory adj. 呼吸的
 0 respite n. 休息；暂缓
-2 restitution n. 归还；赔偿
+3 restitution n. 归还；赔偿
 1 restive adj. 不安静的，不安宁的
 0 restoration n. 恢复，复原
 0 restore v. 恢复；修补，修复
@@ -808,10 +808,10 @@
 0 resurrect v. 使复活；复兴
 0 resuscitate v. 使复活，使苏醒
 4 retaliate v. 报复，反击
-3 retentive adj. 有记性的，记忆力强的
+4 retentive adj. 有记性的，记忆力强的
 2 reticent adj. 沉默寡言的
 2 retribution n. 报应，惩罚
-1 retrospect n. 回顾 v. 回顾，回想
+2 retrospect n. 回顾 v. 回顾，回想
 1 retrospective adj. 回顾的，追溯的
 0 revelation n. 显示；揭露的事实
 1 reverberate v. 发出回声，回响
@@ -823,8 +823,8 @@
 1 revival n. 苏醒；恢复；复兴
 3 rhapsodic adj. 狂热的，狂喜的；狂想曲的
 0 rhetoric n. 修辞，修辞学；浮夸的言辞 rhetor n. 修辞学者，修辞学教师
-0 rhetorical adj. 修辞的，修辞学的；虚夸的，辞藻华丽的
-4 ribaldry n. 下流的言语，粗鄙的幽默
+1 rhetorical adj. 修辞的，修辞学的；虚夸的，辞藻华丽的
+5 ribaldry n. 下流的言语，粗鄙的幽默
 0 ridge n. 脊（如屋脊、山脊等）；隆起物
 0 ridicule n. 嘲笑，奚落
 3 rift n. 裂口，断裂；矛盾
@@ -836,4 +836,4 @@
 3 rivet n. 铆钉 v. 吸引（注意力） be riveted to the spot/ground 呆若木鸡
 2 roam v. 漫游，漫步
 0 romance n. 传奇故事；虚构；浪漫氛围；风流韵事 v. 虚构
-1 roseate adj. 玫瑰色的；过分乐观的
+2 roseate adj. 玫瑰色的；过分乐观的
