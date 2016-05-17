@@ -837,3 +837,105 @@
 2 roam v. 漫游，漫步
 0 romance n. 传奇故事；虚构；浪漫氛围；风流韵事 v. 虚构
 2 roseate adj. 玫瑰色的；过分乐观的
+1 rowdy adj. 吵闹的；粗暴的
+1 rubbery adj. 橡胶似的，有弹性的
+1 rudimentary adj. 初步的；未充分发展的
+1 rueful adj. 抱憾的；后悔的
+1 rugged adj. 高低不平的；崎岖的
+1 ruminant adj. （动物）反刍的；沉思的
+1 rustic adj. 乡村的，乡土气的
+1 ruthless adj. 无情的；残忍的
+1 sabotage n. 阴谋破坏，颠覆活动 an act of military sabotage 军事破坏活动
+1 sagacious adj. 聪明的，睿智的 （sage adj. 智慧的 n. 智者）
+1 salient adj. 显著的，突出的
+1 salubrious adj. 有益健康的
+1 salutary adj. 有益的，有益健康的
+1 sanctuary n. 圣地；庇护所，避难所；庇护
+1 sanctum n. （寺庙或教堂的）圣所 inner sanctum 私室，密室
+1 sane adj. 神志清楚的；明智的
+1 sanguine adj. 乐观的；红润的
+1 sanitary adj. （有关）卫生的，清洁的
+1 sap n. 树液；活力 v. 削弱，耗尽
+1 sarcastic adj. 讽刺的
+1 satiated adj. 厌倦的；充分满足的
+1 satirize v. 讽刺
+1 saturate v. 浸湿，浸透；使大量吸收或充满
+1 saturnine adj. 忧郁的，阴沉的 Saturn n. 土星
+1 scale n. 鱼鳞；音阶；刻度；比例；数值范围 v. 攀登；测量
+1 scant adj. 不足的
+1 scarcity n. 缺乏
+1 scavenge v. 清除；从废物中提取有用物质
+1 scenic adj. 风景如画的 scenic lift 观光电梯
+1 schematic adj. 纲要的，图解的 schema n. 纲要；图表
+1 scheme n. 阴谋；（作品等）体系，结构
+1 schism n. 教会分裂；分裂
+1 scorn n./v. 轻蔑
+1 scour v. 冲刷；擦掉；四处搜索
+1 scourge n./v. 鞭笞；磨难
+1 scramble v. 攀登；搅乱，使混杂；争夺
+1 scrappy adj. 碎片的；好斗的；坚毅的
+1 scruple n./v. 顾忌，迟疑
+1 scrupulous adj. 恪守道德规范的；一丝不苟的
+1 scrutinize v. 仔细检查
+1 sculpt v. 雕刻；造型
+1 sculptural adj. 雕刻的；雕刻般的
+1 seclude v. 使隔离，使孤立 seclusion n. 隔离；隔离的地方
+1 sectarianism n. 宗派主义；教派意识
+1 secular adj. 世俗的，尘世的
+1 sedate adj. 镇静的
+1 sedative adj. （药物）镇静的 n. 镇静剂
+1 sedentary adj. 久坐的
+1 sedimentary adj. 沉积的，沉淀性的 sedimentary rock 沉积岩
+1 sedulous adj. 聚精会神的；勤勉的
+1 segregate v. 分离，隔离
+1 seismic adj. 地震的，由地震引起的
+1 self-conscious adj. 自觉的；害羞的，不自然的
+1 self-effacement n. 自谦
+1 self-procession n. 自行列队
+1 self-righteousness n. 自以为是
+1 seminal adj. 有创意的；精液的，种子的
+1 sensitize v. 使某人或某事物敏感
+1 sensory adj. 感觉的，感官的
+1 sentient adj. 有知觉的
+1 sentimentalize v. （使）感伤
+1 separate v. 使分开 adj. 不同的；独自的
+1 septic adj. 腐败的；脓毒性的
+1 sequester v. （使）隐退；使隔离 不要搞混sequestrate v. 扣押
+1 serendipity n. 意外发现新奇事物的才能或现象
+1 serene adj. 平静的，安详的；清澈的；晴朗的 serenity n. 平静
+1 serrated adj. 锯齿状的 serrated knife/edge 锯齿状刀子/边缘
+1 servile adj. 奴性的，百依百顺的
+1 shatter v. 使落下，使散开；砸碎，粉碎；破坏，毁坏
+1 shed v. 流出（眼泪等）；脱落，蜕落 shed tears 流泪
+1 shell n. 贝壳；炮弹 v. 剥去…的壳 shell fish 水生贝壳类动物
+1 shiftless adj. 没出息的，懒惰的；无能的
+1 shiny adj. 有光泽的，发光的
+1 shoal n. 浅滩，浅水处；一群（鱼等） adj. 浅的，薄的
+1 shopworn adj. 在商店中陈列久了的；陈旧的，磨损的
+1 shrivel v. （使）枯萎
+1 shrug v. 耸肩（表示怀疑等） shrug sth. off/aside 不把…当回事；对…满不在乎
+1 shuffle v. 洗牌；拖步走；支吾
+1 shun v. 避免，闪避
+1 shunt v. 使（火车）转到另一轨道；改变（某物的）方向
+1 simplistic adj. 过分简单化的
+1 sincere adj. 诚实的，坦率的；诚挚的 sincerity n. 诚挚
+1 singularity n. 独特；奇点 sigular adj. 单数的；非凡的
+1 sinuous adj. 蜿蜒的，迂回的
+1 skeptical adj. 怀疑的；多疑的
+1 skimp v. 节省花费 be skimp on... 对…吝惜
+1 skinflint n. 吝啬鬼 skin a flint 爱财如命
+1 slanderous adj. 诽谤的
+1 slash v. 大量削减
+1 slavish adj. 卑屈的；效仿的，无创造性的
+1 slimy adj. 黏滑的
+1 slipperiness n. 滑溜；防滑性
+1 slipshod adj. 马虎的，草率的
+1 sloping adj. 倾斜的，有坡度的
+1 slothful adj. 迟钝的，懒惰的 sloth 树獭
+1 slovenly adj. 不整洁的，邋遢的
+1 sluggish adj. 缓慢的，行动迟缓的；反应慢的
+1 smother v. 熄灭；覆盖；使窒息
+1 smug adj. 自满的，自命不凡的
+1 snippet n. 小片，片段
+1 snobbery n. 势利
+1 snub v. 冷落，不理睬
