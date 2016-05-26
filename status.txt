@@ -1803,3 +1803,155 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 200
 1 rehabilitate v. 使恢复（健康、能力、地位等）
 1 rhetoric n. 修辞，修辞学；浮夸的言辞 rhetor n. 修辞学者，修辞学教师
 ==================
+20160519 13:17:44
+Err: 1, recited: 4, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 120
+2 rhetoric n. 修辞，修辞学；浮夸的言辞 rhetor n. 修辞学者，修辞学教师
+==================
+20160519 13:41:59
+Err: 23, recited: 48, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 120
+2 satiated adj. 厌倦的；充分满足的
+2 sanitary adj. （有关）卫生的，清洁的
+1 rigid adj. 严格的；僵硬的，刚硬的
+2 scorn n./v. 轻蔑
+4 rift n. 裂口，断裂；矛盾
+2 rugged adj. 高低不平的；崎岖的
+2 saturate v. 浸湿，浸透；使大量吸收或充满
+2 shuffle v. 洗牌；拖步走；支吾
+2 scramble v. 攀登；搅乱，使混杂；争夺
+2 salutary adj. 有益的，有益健康的
+2 servile adj. 奴性的，百依百顺的
+4 rival n. 竞争者，对手 v. 竞争，与…匹敌
+2 sluggish adj. 缓慢的，行动迟缓的；反应慢的
+2 sequester v. （使）隐退；使隔离 不要搞混sequestrate v. 扣押
+2 sensory adj. 感觉的，感官的
+2 seismic adj. 地震的，由地震引起的
+2 sanctuary n. 圣地；庇护所，避难所；庇护
+2 sagacious adj. 聪明的，睿智的 （sage adj. 智慧的 n. 智者）
+2 snub v. 冷落，不理睬
+2 skimp v. 节省花费 be skimp on... 对…吝惜
+2 scrutinize v. 仔细检查
+3 rip v. 撕裂 rip at sth. 猛烈撕扯；用力割
+2 rudimentary adj. 初步的；未充分发展的
+==================
+20160524 09:05:27
+Err: 22, recited: 50, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 50
+2 slimy adj. 黏滑的
+2 slipshod adj. 马虎的，草率的
+2 shrug v. 耸肩（表示怀疑等） shrug sth. off/aside 不把…当回事；对…满不在乎
+2 self-effacement n. 自谦
+2 smother v. 熄灭；覆盖；使窒息
+3 sequester v. （使）隐退；使隔离 不要搞混sequestrate v. 扣押
+2 shiny adj. 有光泽的，发光的
+2 slipperiness n. 滑溜；防滑性
+2 shun v. 避免，闪避
+2 sentient adj. 有知觉的
+2 snobbery n. 势利
+2 skinflint n. 吝啬鬼 skin a flint 爱财如命
+2 shunt v. 使（火车）转到另一轨道；改变（某物的）方向
+2 serendipity n. 意外发现新奇事物的才能或现象
+2 slavish adj. 卑屈的；效仿的，无创造性的
+2 serrated adj. 锯齿状的 serrated knife/edge 锯齿状刀子/边缘
+3 snub v. 冷落，不理睬
+2 slanderous adj. 诽谤的
+2 serene adj. 平静的，安详的；清澈的；晴朗的 serenity n. 平静
+2 sloping adj. 倾斜的，有坡度的
+3 servile adj. 奴性的，百依百顺的
+2 slovenly adj. 不整洁的，邋遢的
+==================
+20160524 09:53:04
+Err: 3, recited: 15, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+4 renounce v. 声明放弃；拒绝，否认
+1 recreational adj. 娱乐的，休闲的
+2 repudiation n. 拒绝接受，否认
+==================
+20160524 10:08:15
+Err: 2, recited: 62, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+9 exempt adj. 被免除的 v. 免除
+17 furtive adj. 偷偷的，秘密的
+==================
+20160524 11:02:40
+Err: 0, recited: 0, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+==================
+20160524 11:03:13
+Err: 0, recited: 0, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+==================
+20160524 11:12:10
+Err: 0, recited: 0, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+==================
+20160524 11:29:24
+Err: 1, recited: 4, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+5 penchant n. 爱好，嗜好
+==================
+20160524 11:31:14
+Err: 16, recited: 16, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+11 pilgrim n. 朝圣者；（在国外的）旅行者
+4 overdraw v. 透支；夸大
+9 futile adj. 无效的，无用的；（人）没出息的；琐细的
+4 ravage v. 摧毁，使荒废
+1 reluctance n. 勉强，不情愿
+3 slavish adj. 卑屈的；效仿的，无创造性的
+4 nonchalance n. 冷漠，冷淡
+1 renewal n. 更新；复兴，振兴
+2 reflective adj. 反射的，反照的；深思熟虑的
+1 radiant adj. 发光的；容光焕发的
+1 impassioned adj. 充满激情的，慷慨激昂的
+6 painstakingly adv. 细心地；辛苦地
+2 polarize v. （使人、观点等）两极化
+8 mordant adj. 讥讽的，尖酸的
+2 recital n. 独奏会，独唱会，小型舞蹈表演会；吟诵
+5 preempt v. 以优先权获得；取代
+==================
+20160524 15:05:31
+Err: 10, recited: 50, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 50
+2 scourge n./v. 鞭笞；磨难
+2 propitiate v. 讨好；抚慰
+10 huddle v. 挤成一团 n. 一堆人（或物）
+6 peevish adj. 不满的，抱怨的；暴躁的，坏脾气的，易怒的 peeve （v. 使焦躁）
+2 propriety n. 礼节；适当，得体
+3 reflective adj. 反射的，反照的；深思熟虑的
+1 regenerate v. 改造，改进；使再生，新生
+1 rage n. 盛怒 v. 狂怒，大发雷霆
+3 pantomime n. 哑剧
+2 justifiable adj. 有理由的，无可非议的 justify （v. 证明…是正当或合理的）
+==================
+20160525 10:12:42
+Err: 26, recited: 100, total: 941
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+7 penitent adj. 悔过的，忏悔的
+9 oblivious adj. 遗忘的，忘却的；疏忽的
+3 saturate v. 浸湿，浸透；使大量吸收或充满
+2 indigenous adj. 土产的，本地的；生来的，固有的
+2 salient adj. 显著的，突出的
+2 quantum n. 量子；定量
+4 raciness n. 生动活泼
+4 sequester v. （使）隐退；使隔离 不要搞混sequestrate v. 扣押
+4 prudish adj. 过分守礼的，假道学的
+7 interrogation n. 审问，质问；疑问句
+3 momentous adj. 极为重要的
+6 irrigate v. 灌溉；冲洗（伤口）
+1 ragged adj. 褴褛的，破烂的
+9 jumble v. 使混乱，杂乱 n. 混杂，杂乱
+2 recoil v. 弹回，反冲；退却，退缩
+6 insipid adj. 乏味的，枯燥的
+2 guile n. 欺骗，欺诈；狡猾
+1 imminent adj. 即将发生的，逼近的
+4 improvise v. 即席创作
+1 infiltrate v. 渗透，渗入
+5 paltry adj. 无价值的，微不足道的
+2 salubrious adj. 有益健康的
+4 preoccupation n. 全神贯注，专注；使人专注的东西
+1 revitalize v. 使重新充满活力
+4 replete adj. 充满的，供应充足的
+2 sectarianism n. 宗派主义；教派意识
+==================

@@ -8,6 +8,8 @@ LABEL_ERR_CNT_NAME = 'label_err_cnt'
 LABEL_RECITED_CNT_NAME = 'label_recited_cnt'
 LABEL_TOTAL_NUM_NAME = 'label_total_num'
 TEXTVIEW_MEANING_NAME = 'textview_meaning'
+TEXTVIEW_ERROR_LIST_NAME = 'textview_error_list'
+BUTTON_ERROR_NUM_NAME = 'button_error_num'
 BUTTON_ERROR_NAME = 'button_error'
 BUTTON_RIGHT_NAME = 'button_right'
 BUTTON_SHOW_NAME = 'button_show'
@@ -82,6 +84,14 @@ def button_tapped(sender):
 		return
 	elif button_name == BUTTON_SPEAK_NANE:
 		speech.say(label_word.text, 'en-US')
+		return
+	elif button_name == BUTTON_ERROR_NUM_NAME:
+		error_view = ui.load_view('ErrorList')
+		textview_error_list = error_view[TEXTVIEW_ERROR_LIST_NAME]
+		textview_error_list.text = '\n'.join([str(x) for x in sender.superview.recite.err_words])
+		textview_error_list.editable = False
+		error_view.present(orientations=['portrait'], hide_title_bar=True)
+		error_view.wait_modal()
 		return
 	sender.superview[BUTTON_RIGHT_NAME].enabled = False
 	sender.superview[BUTTON_ERROR_NAME].enabled = False

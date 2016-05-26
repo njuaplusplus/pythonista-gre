@@ -13,7 +13,7 @@
         ],
         "attributes" : {
           "flex" : "WB",
-          "font_size" : 24,
+          "font_name" : "<System>",
           "frame" : "{{85, 144}, {150, 32}}",
           "uuid" : "FF174342-4887-4F97-BC60-EA735C638F03",
           "text" : "Word",
@@ -21,7 +21,7 @@
           "class" : "Label",
           "number_of_lines" : 0,
           "name" : "label_word",
-          "font_name" : "<System>"
+          "font_size" : 24
         }
       },
       {
@@ -33,7 +33,7 @@
         ],
         "attributes" : {
           "uuid" : "0C07D6F2-D196-4E97-B55C-4C5744FB201C",
-          "flex" : "HLT",
+          "font_size" : 15,
           "corner_radius" : 0,
           "frame" : "{{120, 144}, {80, 32}}",
           "tint_color" : "RGBA(0.778302,0.000000,0.000000,1.000000)",
@@ -43,7 +43,7 @@
           "action" : "button_tapped",
           "class" : "Button",
           "name" : "button_error",
-          "font_size" : 15
+          "flex" : "HLT"
         }
       },
       {
@@ -76,7 +76,7 @@
         ],
         "attributes" : {
           "uuid" : "3960511A-9902-4AEE-8EE1-02104A2ECC0D",
-          "flex" : "WH",
+          "font_size" : 24,
           "frame" : "{{60, 60}, {200, 200}}",
           "editable" : false,
           "alignment" : "left",
@@ -86,7 +86,7 @@
           "spellchecking_type" : "default",
           "class" : "TextView",
           "name" : "textview_meaning",
-          "font_size" : 24
+          "flex" : "WH"
         }
       },
       {
@@ -98,7 +98,7 @@
         ],
         "attributes" : {
           "uuid" : "CC8CBE77-6170-4E1B-8C8C-062C2A595078",
-          "flex" : "HLT",
+          "font_size" : 15,
           "corner_radius" : 0,
           "frame" : "{{120, 144}, {80, 32}}",
           "tint_color" : "RGBA(0.317610,0.714623,0.119104,1.000000)",
@@ -108,27 +108,27 @@
           "action" : "button_tapped",
           "class" : "Button",
           "name" : "button_right",
-          "font_size" : 15
+          "flex" : "HLT"
         }
       },
       {
         "selected" : false,
-        "frame" : "{{70, 15}, {64, 32}}",
+        "frame" : "{{142, 55}, {64, 32}}",
         "class" : "Label",
         "nodes" : [
 
         ],
         "attributes" : {
           "flex" : "LB",
-          "name" : "label_err_cnt",
-          "text_color" : "RGBA(0.715356,0.000000,0.000000,1.000000)",
+          "font_size" : 18,
+          "font_name" : "<System>",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "8A58300A-A42B-40F3-9898-C251347AFD8B",
           "text" : "Error",
           "alignment" : "right",
           "class" : "Label",
-          "font_size" : 18,
-          "font_name" : "<System>"
+          "name" : "label_err_cnt",
+          "text_color" : "RGBA(0.715356,0.000000,0.000000,1.000000)"
         }
       },
       {
@@ -140,14 +140,14 @@
         ],
         "attributes" : {
           "flex" : "LB",
-          "font_name" : "<System>",
+          "name" : "label_recited_cnt",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "5D1E0007-99D9-4750-BCB5-D7C1025E17CC",
           "text" : "Recited",
           "alignment" : "right",
           "class" : "Label",
-          "name" : "label_recited_cnt",
-          "font_size" : 18
+          "font_size" : 18,
+          "font_name" : "<System>"
         }
       },
       {
@@ -159,14 +159,14 @@
         ],
         "attributes" : {
           "flex" : "LB",
-          "font_name" : "<System>",
+          "name" : "label_total_num",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "71711104-D9DD-4FAE-9D69-926C21B9A6A8",
           "text" : "Total",
           "alignment" : "left",
           "class" : "Label",
-          "name" : "label_total_num",
-          "font_size" : 18
+          "font_size" : 18,
+          "font_name" : "<System>"
         }
       },
       {
@@ -178,14 +178,14 @@
         ],
         "attributes" : {
           "flex" : "LB",
-          "name" : "label1",
+          "font_name" : "<System>",
           "frame" : "{{85, 224}, {150, 32}}",
           "uuid" : "5B953487-D5E6-40EE-8B66-C668DE868D98",
           "text" : "\/",
           "alignment" : "right",
           "class" : "Label",
           "font_size" : 18,
-          "font_name" : "<System>"
+          "name" : "label1"
         }
       },
       {
@@ -207,7 +207,7 @@
         }
       },
       {
-        "selected" : true,
+        "selected" : false,
         "frame" : "{{262, 55}, {42, 32}}",
         "class" : "Button",
         "nodes" : [
@@ -216,13 +216,32 @@
         "attributes" : {
           "flex" : "LB",
           "action" : "button_tapped",
-          "image_name" : "Frameworks\/PythonistaKit.framework\/Media\/Images\/iob\/volume_medium_32",
+          "name" : "button_speak",
           "frame" : "{{120, 224}, {80, 32}}",
           "title" : "",
           "class" : "Button",
           "uuid" : "16766089-F596-47E1-9441-25B980BA84DD",
-          "name" : "button_speak",
-          "font_size" : 15
+          "font_size" : 15,
+          "image_name" : "Frameworks\/PythonistaKit.framework\/Media\/Images\/iob\/volume_medium_32"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{73, 15}, {61, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LB",
+          "action" : "button_tapped",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(0.803371,0.000000,0.000000,1.000000)",
+          "title" : "Error",
+          "class" : "Button",
+          "uuid" : "18C13E60-6A14-4C16-B97D-B5E89556480A",
+          "font_size" : 18,
+          "name" : "button_error_num"
         }
       }
     ],
