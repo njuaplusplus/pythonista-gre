@@ -1955,3 +1955,74 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 100
 4 replete adj. 充满的，供应充足的
 2 sectarianism n. 宗派主义；教派意识
 ==================
+20160529 18:50:55
+Err: 27, recited: 100, total: 1045
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+2 sully v. 玷污，污染
+7 intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
+2 sedate adj. 镇静的
+2 snug adj. 温暖舒适的 snug harbor 避风港
+5 mystic adj. 神秘的，谜样的，难解的 n. 神秘主义者
+3 profuse adj. 丰富的；浪费的
+5 noncommittal adj. 态度暧昧的；不承担义务的
+3 serendipity n. 意外发现新奇事物的才能或现象
+8 precipitate v. 使突然降临，加速，促成 adj. 鲁莽的，轻率的
+2 reminiscent adj. 回忆的；使人联想的 reminiscent of sb./sth.
+2 repute v. 认为 n. 名声
+2 stark adj. 光秃秃的，荒凉的；（外表）僵硬的；完全的
+10 exempt adj. 被免除的 v. 免除
+2 segregate v. 分离，隔离
+3 slanderous adj. 诽谤的
+2 intrigue v. 密谋；引起…的兴趣
+1 reportorial adj. 记者的；报道的
+2 steadfast adj. 忠实的；不动的，不变的
+5 humility n. 谦逊
+1 quagmire n. 沼泽地；困境
+3 regale v. 款待，宴请；使…快乐
+2 sonorous adj. （声音）洪亮的
+3 sanitary adj. （有关）卫生的，清洁的
+4 saturate v. 浸湿，浸透；使大量吸收或充满
+2 stymie v. 妨碍，阻挠
+9 glandular adj. 腺状的，腺的
+7 recuperate v. 恢复（健康、体力），复原
+==================
+20160529 20:04:01
+Err: 36, recited: 100, total: 1045
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+2 ruthless adj. 无情的；残忍的
+6 obscure adj. 难以理解的，含糊的；不清楚的，模糊的 v. 使变模糊；隐藏
+12 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
+1 resuscitate v. 使复活，使苏醒
+2 solitary adj. 孤独的 n. 隐士
+7 inadvertent adj. 疏忽的；不经意的，无心的
+3 seismic adj. 地震的，由地震引起的
+2 subdue v. 征服；压制；减轻
+2 revival n. 苏醒；恢复；复兴
+3 sedate adj. 镇静的
+2 philanthropic adj. 慈善（事业）的，博爱的
+2 squirt v. 喷出，溅进 squirt...with... 用…喷…
+3 propitiate v. 讨好；抚慰
+3 sagacious adj. 聪明的，睿智的 （sage adj. 智慧的 n. 智者）
+5 saturate v. 浸湿，浸透；使大量吸收或充满
+12 pilgrim n. 朝圣者；（在国外的）旅行者
+1 querulous adj. 抱怨的，爱发牢骚的
+2 radicalism n. 激进主义 radical adj. 激进的；彻底的
+2 succumb v. 屈从，屈服；因…死亡
+2 spanking adj. 强烈的；疾行的 at a spanking pace/rate 步伐/速度非常快地
+4 incarnate adj. 具有人体的；化身的，拟人化的
+1 inflict v. 使遭受（痛苦，损伤等）
+8 penitent adj. 悔过的，忏悔的
+3 stark adj. 光秃秃的，荒凉的；（外表）僵硬的；完全的
+7 pertinent adj. 有关的，相关的
+10 grumble v. 嘟囔，抱怨，发牢骚
+2 exoneration n. 免除（责任、义务、苦难等）
+2 strenuous adj. 奋发的；热烈的
+2 strive v. 奋斗，努力
+3 sloping adj. 倾斜的，有坡度的
+5 renounce v. 声明放弃；拒绝，否认
+6 parody n. 拙劣的模仿；滑稽模仿作品或表演
+15 hunch n. 直觉，预感
+2 provident adj. 深谋远虑的；节俭的 反 improvident
+5 poise v. 使平衡 n. 泰然自若，沉着自信
+3 retrospective adj. 回顾的，追溯的
+==================
