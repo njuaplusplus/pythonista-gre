@@ -2026,3 +2026,115 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 100
 5 poise v. 使平衡 n. 泰然自若，沉着自信
 3 retrospective adj. 回顾的，追溯的
 ==================
+20160602 11:33:18
+Err: 78, recited: 150, total: 1122
+Shuffled: False, err_times_threshold: 0,  reciting_length: 150
+2 thrive v. 茁壮成长；繁荣，兴旺
+2 sterile adj. 贫瘠且无植被的；无细菌的
+2 streak n. 条纹 v. 加线条
+3 succumb v. 屈从，屈服；因…死亡
+2 superannuate v. 使退休领养老金
+2 surly adj. 脾气暴躁的；阴沉的
+2 thwart v. 阻挠，使受挫折，挫败
+2 taunt n./v. 嘲笑，讥讽
+2 stalk v. 隐伏跟踪（猎物）n. 茎，秆
+2 stilted adj. （文章、谈话）不自然的；夸张的 stilt n. 高跷
+2 synoptic adj. 摘要的
+2 stout adj. 肥胖的；强壮的
+2 stately adj. 庄严的，堂皇的；宏伟的
+2 sultry adj. 闷热的；（人）风骚的
+2 strait n. 海峡 adj. 狭窄的 isthmus n. 地峡
+2 surmount v. 克服，战胜；登上
+2 torpid adj. 懒散的，迟钝的
+2 stodgy adj. 乏味的
+2 stunning adj. 极富魅力的
+2 taut adj. 绷紧的，拉紧的
+2 terse adj. 简洁的，简明的
+2 stash v. 藏匿
+2 tout v. 招徕顾客；极力赞扬
+2 stocky adj. （人或动物）矮而结实的，粗壮的 stock n. 树桩
+2 sycophant n. 马屁精
+2 tardy adj. 迟延，迟到的；缓慢的，迟钝的
+2 tantamount adj. 同等的，相当于
+2 supplement n. 增补，补充 v. 增补 supplementary adj. 增补的，补充的
+2 stiffen v. 使僵硬
+2 stagger v. 蹒跚，摇晃
+3 squirt v. 喷出，溅进 squirt...with... 用…喷…
+2 subside v. （建筑物等）下陷；平息，减退
+2 stoic n. 坚忍克己之人
+2 sunlit adj. 阳光照射的
+2 tendentious adj. 有偏见的
+2 squander v. 浪费，挥霍
+2 stint v. 节制，限量，节省 stint on sth. 吝惜…
+2 stringent adj. （规定）严格的，苛刻的；缺钱的
+2 stingy adj. 吝啬的，小气的
+2 tie n. 平局，不分胜负 v. 系，拴，绑
+2 tepid adj. 微温的；不热情的
+2 sumptuous adj. 豪华的，奢侈的
+2 succor v. 救助，援助
+2 territorial adj. 领土的；地方的 territorial economy 地方经济
+3 stymie v. 妨碍，阻挠
+2 subversive adj. 颠覆性的，破坏性的 subvert v. 颠覆，推翻
+2 tantalize v. 挑惹，挑逗 来自希腊神话人物 Tantalus
+2 squalid adj. 污秽的，肮脏的
+2 subsidize v. 津贴，资助
+2 stratify v. （使）层化
+3 steadfast adj. 忠实的；不动的，不变的
+2 trample v. 踩坏，践踏；蹂躏
+2 susceptible adj. 易受影响的，敏感的
+2 tenet n. 信条；教义
+2 suspicious adj. 怀疑的 be suspicious of/about...
+2 tactile adj. 有触觉的
+2 supple adj. 柔软的，灵活的；柔顺的，顺从的
+3 subdue v. 征服；压制；减轻
+2 stipulate v. 要求以…为条件；约定，规定
+2 sprawl v. 散乱地延伸；四肢摊开着坐、卧或倒下
+2 spurn n. 拒绝，摈弃
+2 tenuous adj. 纤细的；稀薄的；脆弱的，无力的
+2 supplant v. 排挤，取代
+2 toady n. 谄媚者，马屁精
+2 tangle v. 缠结 v. 纷乱
+2 topple v. 倾覆，推倒
+2 tenable adj. 站得住脚的，合理的
+2 surrogate n. 代替品；代理人
+4 stark adj. 光秃秃的，荒凉的；（外表）僵硬的；完全的
+2 stasis n. 停滞
+2 touchy adj. 敏感的，易怒的
+2 stagnant adj. 停滞的 stagnate v. 停滞 stagnation n. 停滞
+2 spurious adj. 假的；伪造的 来自 spuria n. 伪造的作品
+2 substantive adj. 根本的；独立存在的
+3 sully v. 玷污，污染
+2 torpor n. 死气沉沉
+2 tenacious adj. 坚韧的，顽强的
+2 stalwart adj. 健壮的；坚定的
+==================
+20160603 09:54:08
+Err: 26, recited: 100, total: 1122
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+5 qualm n. 疑惧；紧张不安
+5 rave n. 热切赞扬 v. 胡言乱语
+1 reproach n. 谴责，责骂
+1 incorrigible adj. 积习难改的，不可救药的
+1 inelastic adj. 无弹性的
+5 premonition n. 预感，预兆
+11 piercing adj. 冷的刺骨的；敏锐的
+2 skeptical adj. 怀疑的；多疑的
+2 sedimentary adj. 沉积的，沉淀性的 sedimentary rock 沉积岩
+3 retrospect n. 回顾 v. 回顾，回想
+2 spiral adj. 螺旋形的；上升的 v. 螺旋式上升或下降 来自 spire n. 螺旋
+8 interrogation n. 审问，质问；疑问句
+2 juvenile adj. 青少年的；孩子气的，幼稚的
+3 shiny adj. 有光泽的，发光的
+3 reciprocate v. 回报，答谢
+2 sedentary adj. 久坐的
+1 prophetic adj. 先知的，预言的，预示的
+5 profligacy n. 放荡；肆意挥霍
+3 thrive v. 茁壮成长；繁荣，兴旺
+3 rescind v. 废除，取消
+5 quash v. 镇压；（依法）取消
+2 revelation n. 显示；揭露的事实
+10 futile adj. 无效的，无用的；（人）没出息的；琐细的
+3 propaganda n. 宣传
+3 scramble v. 攀登；搅乱，使混杂；争夺
+6 observant adj. 密切注意的，警惕的；遵守的，遵从的；敏锐的
+==================
