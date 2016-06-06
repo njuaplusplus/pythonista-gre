@@ -1120,3 +1120,70 @@
 1 transcribe v. 抄写，转录 transcription n. 誊写，抄写；抄本，副本
 1 transgress v. 冒犯，违背
 1 transient adj. 短暂的，转瞬即逝的
+1 transitoriness n. 暂时，短暂 transitory adj. 短暂的
+1 transmute v. 变化
+1 trauma n. 创伤，外伤
+1 treacherous adj. 背叛的，叛逆的
+1 tread v. 踏，践踏；行走 n. 步态；车轮胎面
+1 treatise n. 论文
+1 trenchant adj. 犀利的，尖锐的
+1 trepidation n. 恐惧，惶恐
+1 tribal adj. 部落的，种族的
+1 tribulation n. 苦难， 忧患
+1 tributary n. 支流；进贡国 adj. 支流的；辅助的；进贡的
+1 trickle v. 细细地流 n. 细流
+1 trilogy n. 三部曲
+1 trite adj. 陈腐的，陈词滥调的
+1 truce n. 停战，休战（协定）
+1 truculence n. 野蛮，残酷 truculent adj. 残暴的，凶狠的
+1 turbulent adj. 混乱的；骚乱的
+1 turmoil n. 混乱，骚乱
+1 tussle n./v. 扭打，争斗；争辩
+1 typify v. 代表，是…的典型
+1 typographical adj. 印刷上的 typography n. 印刷术
+1 tyrannical adj. 暴虐的，残暴的 tyrant n. 暴君
+1 ubiquitous adj. 无处不在的
+1 ulterior adj. 较远的，将来的；隐秘的，别有用心的
+1 ultimatum n. 最后通牒
+1 umbrage n. 不快，愤怒
+1 unbecoming adj. 不合身的；不得体的
+1 unbridled adj. 放纵的，不受约束的
+1 uncanny adj. 神秘的，离奇的
+1 uncharitable adj. 无慈悲心的
+1 uncharted adj. 图上未标明的
+1 uncommitted adj. 不受约束的，不承担责任的
+1 uncommunicative adj. 不爱说话的，拘谨的
+1 unconscious adj. 不省人事的；未发觉的，无意识的
+1 unctuous adj. 油质的；油腔滑调的
+1 undercut v. 削价（与竞争者）抢生意
+1 underhanded adj. 秘密的，狡诈的
+1 underlie v. 位于…之下；构成…的基础；【经】（权力、索赔等）优先于
+1 undermine v. 破坏，削弱
+1 underplay v. 弱化…的重要性；表演不充分
+1 underscore v. 在…下面划线；强调
+1 understate v. 保守地说，轻描淡写地说 understated adj. 轻描淡写的，低调的
+1 undeserving adj. 不值得的
+1 unearth v. 挖出；发现
+1 unencumbered adj. 无阻碍的
+1 unenlightened adj. 愚昧无知的；不文明的
+1 unerringly adv. 无过失地
+1 uneven adj. 不平坦的；不一致的；不对等的
+1 uneventful adj. 平凡的；平安无事的
+1 unexceptionable adj. 无可挑剔的
+1 unfailing adj. 无尽的，无穷的
+1 unfeigned adj. 真实的，真诚的
+1 unfertilized adj. 未施肥的；未受精的
+1 unfettered adj. 自由的，不受约束的
+1 unfounded adj. 无事实根据的
+1 ungainly adj. 笨拙的
+1 unidimensional adj. 一维的
+1 unimpeachable adj. 无可指责的，不可怀疑的
+1 uninitiated adj. 外行的，缺乏经验的
+1 unleash v. 发泄，释放
+1 unliterary adj. 不矫揉造作的，不咬文嚼字的 nonliteray adj. 不咬文嚼字的
+1 unmitigated adj. 未缓和的，未减轻的
+1 unobtrusive adj. 不引人注目的
+1 unpremeditated adj. 无预谋的，非故意的
+1 unpretentious adj. 不炫耀的
+1 unquestioning adj. 无异议的，不犹豫的
+1 unremitting adj. 不间断的，持续的
