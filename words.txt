@@ -1187,3 +1187,100 @@
 1 unpretentious adj. 不炫耀的
 1 unquestioning adj. 无异议的，不犹豫的
 1 unremitting adj. 不间断的，持续的
+1 unscathed adj. 未受损伤的，未受伤害的
+1 unscented adj. 无气味的
+1 unscrupulous adj. 肆无忌惮的
+1 unseemly adj. 不适宜的，不得体的
+1 unspoiled adj. 未损坏的，未宠坏的
+1 unstinting adj. 慷慨的，大方的
+1 untainted adj. 无污点的
+1 untamed adj. 未驯服的
+1 untarnished adj. 未失去光泽的
+1 untenable adj. 难以防守的；不能租赁的
+1 untold adj. 无数的
+1 untouched adj. 未触动过的，未改变的
+1 unwarranted adj. 没有根据的
+1 unwieldy adj. 难控制的的；笨重的
+1 unwitting adj. 无意的，不知不觉的
+1 unwonted adj. 不寻常的，不习惯的
+1 unworldly adj. 非世俗的；精神上的
+1 uphold v. 维护，支持
+1 upstage adj. 高傲的
+1 upstart n. 突然升官的人，暴发户
+1 urbane adj. 温文尔雅的，都市化的
+1 urbanize v. 使都市化，使文雅
+1 utilitarian adj. 功利的，实用的
+1 vacillate v. 游移不定，踌躇
+1 vainglorious adj. 自负的 vainglory n. 自负；虚荣
+1 valiant adj. 勇敢的，英勇的
+1 valorous adj. 勇敢的
+1 valve n. 活门，阀门
+1 vanity n. 虚荣，自负
+1 vaulted adj.  拱形的
+1 veer v. 转向，改变（话题等）
+1 vehement adj. 猛烈的，热烈的
+1 vehicle n. 交通工具，传播媒介
+1 veil n. 面纱；遮蔽物 v. 以面纱遮盖
+1 venal adj. 腐败的，贪赃枉法的
+1 venerable adj. 值得尊敬的，庄严的
+1 venerate v. 崇敬，敬仰
+1 venial adj. （错误等）轻微的，可原谅的
+1 venomous adj. 有毒的
+1 vent v. 发泄（感情，尤指愤怒）；开孔 n. 孔，口
+1 veracious adj. 诚实的
+1 veracity n. 真实；诚实
+1 verdant adj .葱郁的，翠绿的
+1 vertebrate n./adj. 脊柱动物（的）
+1 vestige n. 痕迹，遗迹
+1 vestigial adj. 退化的
+1 vex v. 使烦恼，使恼怒 vexation n. 恼怒，苦恼
+1 vibrant adj. 震动的；响亮的；明快的；充满生气的，危险的
+1 vicissitude n. 变迁，兴衰
+1 vigilance n. 警惕，警觉 vigilant adj. 机警的，警惕的
+1 vilify v. 诽谤，中伤
+1 vindictive adj. 报复的
+1 viral adj. 病毒性的 virus n. 病毒
+1 virtue n. 美德；优点；潜能 virtuous adj. 有美德的
+1 virtuoso n. 艺术大师
+1 virulence n. 恶意，毒性
+1 viscous adj. 黏滞的，黏性的，黏的 glutinous
+1 visionary adj. 有远见的；幻想的 n. 空想家
+1 vital adj. 极其重要的；充满活力的 vitality n. 活力，精力；生命力
+1 vitiate v. 削弱，损害
+1 vitriolic adj. 刻薄的
+1 vogue n. 时尚，流行
+1 volatile adj. 反复无常的；易挥发的
+1 voluble adj. 健谈的；易旋转的
+1 voluminous adj. 长篇的；大量的
+1 voluntary adj. 自愿的，志愿的
+1 voluptuous adj. 撩人的；沉溺酒色的
+1 voyeur n. 窥淫癖者
+1 vulgar adj. 无教养的，庸俗的
+1 walrus n. 海象
+1 wanderlust n. 漫游癖，旅游癖
+1 wane v. 减少，衰落
+1 warp v./n. 弯曲，歪斜
+1 warrant n. 正当理由；许可证 v. 保证；批准 warrantable adj. 可保证的，可承认的 warranted adj. 保证的；担保的
+1 wary adj. 谨慎的
+1 waxy adj .像蜡的，苍白的，光滑的
+1 weather v. 风化，侵蚀；经受住风雨；平安度过危难 n. 天气
+1 weightless adj. 无重力的，失重的
+1 well-intentioned adj. 出于善意的
+1 welter n. 混乱，杂乱无章
+1 whimsical adj. 古怪的，异想天开的
+1 whimsy n. 古怪，异想天开
+1 whittle v. 削（木头）；削减
+1 wholesale adj. 批发的；大规模的
+1 willful adj. 任性的；故意的
+1 wistful adj. 惆怅的，渴望的
+1 withhold v. 抑制；扣留，保留
+1 withstand v. 反抗；经受
+1 witty adj. 机智的；风趣的
+1 woolly adj. 羊毛的；模糊的
+1 wordy adj. 冗长的，多言的
+1 world-beater n. 举世无双的人
+1 wring v. 绞，拧，扭
+1 wrongheaded adj. 坚持错误的，固执的
+1 xenophobic adj. 恐外的，恐惧外国人的
+1 yearn v. 盼望，渴望
+1 zenith n. 天顶；极点
