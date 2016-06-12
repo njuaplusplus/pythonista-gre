@@ -2138,3 +2138,150 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 100
 3 scramble v. 攀登；搅乱，使混杂；争夺
 6 observant adj. 密切注意的，警惕的；遵守的，遵从的；敏锐的
 ==================
+20160608 14:32:54
+Err: 35, recited: 100, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+4 sedate adj. 镇静的
+2 insinuate v. 暗指，暗示
+5 intact adj. 完整的，完好无缺的
+12 grim adj. 冷酷的，可怕的
+3 streak n. 条纹 v. 加线条
+3 philistine n. 庸俗的人，对文化艺术无知的人
+6 pithy adj. （讲话或文章）简练有力的，言简意赅的
+1 exhilaration n. 高兴，兴奋
+5 perilous adj. 危险的，冒险的 peril （n. 危险）
+4 shiny adj. 有光泽的，发光的
+5 opulent adj. 富裕的；充足的
+5 reciprocity n. 相互性；互惠
+2 scruple n./v. 顾忌，迟疑
+1 quarantine n. 隔离检疫期，隔离
+3 synoptic adj. 摘要的
+2 whittle v. 削（木头）；削减
+2 unwieldy adj. 难控制的的；笨重的
+3 supple adj. 柔软的，灵活的；柔顺的，顺从的
+4 slavish adj. 卑屈的；效仿的，无创造性的
+3 reprisal n. 报复，报复行动
+3 stagger v. 蹒跚，摇晃
+5 prudish adj. 过分守礼的，假道学的
+3 squander v. 浪费，挥霍
+2 venomous adj. 有毒的
+6 rave n. 热切赞扬 v. 胡言乱语
+2 solemn adj. 严肃的；庄严的，隆重的；黑色的 solemnity n. 庄严，肃穆
+5 natty adj. 整洁的；敏捷的，灵巧的
+2 repeal v. 废除（法律）
+13 impetuous adj. 冲动的，鲁莽的
+2 prod v. 戳，刺；刺激，激励
+4 pious adj. 虔诚的
+4 sully v. 玷污，污染
+2 scheme n. 阴谋；（作品等）体系，结构
+2 rigid adj. 严格的；僵硬的，刚硬的
+2 sap n. 树液；活力 v. 削弱，耗尽
+==================
+20160610 21:02:19
+Err: 31, recited: 100, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+3 venomous adj. 有毒的
+2 vicissitude n. 变迁，兴衰
+2 warp v./n. 弯曲，歪斜
+2 vigilance n. 警惕，警觉 vigilant adj. 机警的，警惕的
+2 wistful adj. 惆怅的，渴望的
+2 veil n. 面纱；遮蔽物 v. 以面纱遮盖
+2 untainted adj. 无污点的
+2 virtuoso n. 艺术大师
+2 vent v. 发泄（感情，尤指愤怒）；开孔 n. 孔，口
+2 valorous adj. 勇敢的
+2 venial adj. （错误等）轻微的，可原谅的
+2 vacillate v. 游移不定，踌躇
+2 verdant adj .葱郁的，翠绿的
+2 venal adj. 腐败的，贪赃枉法的
+2 viscous adj. 黏滞的，黏性的，黏的 glutinous
+2 vitriolic adj. 刻薄的
+2 unscented adj. 无气味的
+3 unwieldy adj. 难控制的的；笨重的
+2 veer v. 转向，改变（话题等）
+2 withhold v. 抑制；扣留，保留
+2 vex v. 使烦恼，使恼怒 vexation n. 恼怒，苦恼
+2 unpretentious adj. 不炫耀的
+2 vulgar adj. 无教养的，庸俗的
+2 vilify v. 诽谤，中伤
+2 wary adj. 谨慎的
+2 unwitting adj. 无意的，不知不觉的
+2 vitiate v. 削弱，损害
+2 volatile adj. 反复无常的；易挥发的
+2 unscathed adj. 未受损伤的，未受伤害的
+2 voluptuous adj. 撩人的；沉溺酒色的
+2 vestigial adj. 退化的
+==================
+20160612 10:24:26
+Err: 69, recited: 200, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+2 underhanded adj. 秘密的，狡诈的
+2 underplay v. 弱化…的重要性；表演不充分
+3 viscous adj. 黏滞的，黏性的，黏的 glutinous
+2 uneven adj. 不平坦的；不一致的；不对等的
+3 particulate adj. 微粒的 n. 微粒
+3 tenuous adj. 纤细的；稀薄的；脆弱的，无力的
+3 tenet n. 信条；教义
+2 unenlightened adj. 愚昧无知的；不文明的
+9 gratuitous adj. 无缘无故的；免费的 gratuity n. 小费
+7 obfuscate v. 使迷惑，使困惑
+5 paean n. 赞美歌，颂歌
+3 serene adj. 平静的，安详的；清澈的；晴朗的 serenity n. 平静
+2 regulatory adj. 按规矩来的，依照规章的；调整的
+2 ritual n. 仪式，惯例 rite n. 仪式
+3 remorse n. 懊悔
+4 murderous adj. 蓄意谋杀的，凶残的；极厉害的，要命的
+2 scrappy adj. 碎片的；好斗的；坚毅的
+3 vacillate v. 游移不定，踌躇
+4 resignation n. 听从，顺从；辞职
+3 slipperiness n. 滑溜；防滑性
+3 tactile adj. 有触觉的
+6 poise v. 使平衡 n. 泰然自若，沉着自信
+3 iniquitous adj. 邪恶的，不公正的
+4 snub v. 冷落，不理睬
+5 raciness n. 生动活泼
+3 surmount v. 克服，战胜；登上
+3 torpid adj. 懒散的，迟钝的
+2 sobriety n. 节制；庄重
+3 slimy adj. 黏滑的
+2 truce n. 停战，休战（协定）
+2 specious adj. 似是而非的；华而不实的
+6 opulent adj. 富裕的；充足的
+2 provincial adj. 省的，地方的；偏狭的，粗俗的 province （n. 省）
+2 tenacity n. 坚持，固执
+4 perfidious adj. 不忠的，背信弃义的
+2 shiftless adj. 没出息的，懒惰的；无能的
+8 inadvertent adj. 疏忽的；不经意的，无心的
+4 rivalry n. 竞争，对抗
+2 rectify v. 改正，校正；提纯
+11 grumble v. 嘟囔，抱怨，发牢骚
+3 stalwart adj. 健壮的；坚定的
+6 ranching n. 大牧场
+5 nonplussed adj. 不知所措的，陷于困境的 nonplus （v. 使迷惑）
+16 hunch n. 直觉，预感
+9 penitent adj. 悔过的，忏悔的
+2 assuming adj. 傲慢的，自负的
+2 exuberant adj.（人）充满活力的；（植物）茂盛的
+2 antipathy n. 反感，厌恶
+2 tribal adj. 部落的，种族的
+5 overdraw v. 透支；夸大
+3 prodigal adj. 挥霍的 n. 挥霍者
+7 insipid adj. 乏味的，枯燥的
+5 repel v. 击退，使反感
+3 vent v. 发泄（感情，尤指愤怒）；开孔 n. 孔，口
+2 ragged adj. 褴褛的，破烂的
+2 affective adj. 感情的，表达感情的
+2 sordid adj. 卑鄙的；肮脏的
+3 tardy adj. 迟延，迟到的；缓慢的，迟钝的
+2 ignoble adj. 卑鄙的
+2 ascetic adj. 禁欲的 n. 苦行者 asceticism n. 禁欲主义
+11 exempt adj. 被免除的 v. 免除
+6 pungent adj. 辛辣的，刺激的；尖锐的，尖刻的
+3 reverberate v. 发出回声，回响
+2 trait n. （人的）显著特性
+2 sparing adj. 节俭的 来自 spare v. 节约，腾出 不要和 sparring n. 拳击 搞混
+2 ulterior adj. 较远的，将来的；隐秘的，别有用心的
+7 gibe v. 嘲笑 n. 嘲笑
+6 gall n. 胆汁；怨恨
+3 scruple n./v. 顾忌，迟疑
+==================
