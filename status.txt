@@ -2285,3 +2285,193 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 200
 6 gall n. 胆汁；怨恨
 3 scruple n./v. 顾忌，迟疑
 ==================
+20160612 14:27:29
+Err: 32, recited: 100, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+12 piercing adj. 冷的刺骨的；敏锐的
+2 patriarchal adj. 家长的，族长的
+3 verdant adj .葱郁的，翠绿的
+1 reside v. 居住 reside in sb./sth. 在于；由…造成
+2 unbridled adj. 放纵的，不受约束的
+2 stronghold n. 要塞；堡垒，根据地
+2 reproach n. 谴责，责骂
+3 purchase n. 支点（阻止东西下滑） v./n. 购买
+2 truculence n. 野蛮，残酷 truculent adj. 残暴的，凶狠的
+3 shuffle v. 洗牌；拖步走；支吾
+3 rigid adj. 严格的；僵硬的，刚硬的
+2 swampy adj. 沼泽的，湿地的 swampy lake 沼泽湖泊
+1 ridge n. 脊（如屋脊、山脊等）；隆起物
+3 reclaim v. 纠正，改造；开垦（土地）
+4 recluse n. 隐士 adj. 隐居的
+2 virulence n. 恶意，毒性
+8 pertinent adj. 有关的，相关的
+2 witty adj. 机智的；风趣的
+2 ascent n. 上升，攀登；上坡路；提高，提升
+8 nomadic adj. 游牧的；流浪的
+4 imponderable adj. （重量等）无法衡量的
+2 tawdry adj. 华而不实的，俗丽的 tawdry clothing 廉价而花哨的衣服
+6 prostrate adj. 俯卧的；沮丧的 v. 使下跪鞠躬，使拜服
+1 prolific adj. 多产的，多果实的
+3 unscented adj. 无气味的
+1 pronounced adj. 显著的，明确的 pronounce （v. 宣称，宣布）
+4 insolent adj. 粗野的，无礼的
+5 palpable adj. 可触知的，可察觉的；明显的
+3 rhetoric n. 修辞，修辞学；浮夸的言辞 rhetor n. 修辞学者，修辞学教师
+6 jest n. 笑话 v. 开玩笑
+3 taut adj. 绷紧的，拉紧的
+5 rhapsodic adj. 狂热的，狂喜的；狂想曲的
+==================
+20160613 11:32:13
+Err: 34, recited: 109, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 150
+3 tenacious adj. 坚韧的，顽强的
+11 florid adj. 华丽的；（脸）红润的
+3 spiral adj. 螺旋形的；上升的 v. 螺旋式上升或下降 来自 spire n. 螺旋
+2 residual n. 剩余，残余 adj. 残余的，剩余的
+3 vulgar adj. 无教养的，庸俗的
+5 revile v. 辱骂，恶言相向
+2 sanguine adj. 乐观的；红润的
+3 untainted adj. 无污点的
+5 ongoing adj. 进行中的；前进的；不间断的
+4 refrain v. 抑制 n. （歌曲或诗歌中）的叠句
+4 overbear v. 压倒；镇压；比…更重要，超过
+3 unenlightened adj. 愚昧无知的；不文明的
+2 auspicious adj. 幸运的；吉兆的
+10 oblivious adj. 遗忘的，忘却的；疏忽的
+5 sequester v. （使）隐退；使隔离 不要搞混sequestrate v. 扣押
+2 uninitiated adj. 外行的，缺乏经验的
+19 graze v. （让动物）吃草；放牧
+4 stagger v. 蹒跚，摇晃
+2 seclude v. 使隔离，使孤立 seclusion n. 隔离；隔离的地方
+6 penchant n. 爱好，嗜好
+2 turbulent adj. 混乱的；骚乱的
+6 natty adj. 整洁的；敏捷的，灵巧的
+3 vilify v. 诽谤，中伤
+2 recourse n. 求助，依靠
+14 impetuous adj. 冲动的，鲁莽的
+3 tie n. 平局，不分胜负 v. 系，拴，绑
+2 umbrage n. 不快，愤怒
+2 sarcastic adj. 讽刺的
+3 spurn n. 拒绝，摈弃
+2 turmoil n. 混乱，骚乱
+5 pedant n. 迂腐之人，学究
+1 remiss adj. 疏忽的
+3 sobriety n. 节制；庄重
+8 grudge v. 吝惜，勉强给或承认；不满，怨恨
+==================
+20160614 11:11:37
+Err: 42, recited: 134, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+2 treacherous adj. 背叛的，叛逆的
+2 wrongheaded adj. 坚持错误的，固执的
+2 overrule v. 驳回，否决
+5 insular adj. 岛屿的；心胸狭窄的
+2 voluble adj. 健谈的；易旋转的
+3 surly adj. 脾气暴躁的；阴沉的
+1 evade v. 躲避；规避
+6 refractory adj. 倔强的，难管理的；（病）难治的
+3 instigate v. 怂恿，鼓动，煽动
+5 pompous adj. 自大的
+2 tined adj. 尖端的 tine n. 叉尖，尖端
+3 vitiate v. 削弱，损害
+2 radiant adj. 发光的；容光焕发的
+3 veil n. 面纱；遮蔽物 v. 以面纱遮盖
+2 specimen n. 范例，样品，标本
+8 infest v. 大批出没于，骚扰；寄生于
+4 relentless adj. 无情的，残酷的
+10 jumble v. 使混乱，杂乱 n. 混杂，杂乱
+2 trickle v. 细细地流 n. 细流
+2 intruding adj. 入侵的，入侵性的 intrude （v. 侵入，侵扰）
+4 profuse adj. 丰富的；浪费的
+2 polish v. 磨光，擦亮 n. 上光剂；优雅
+3 overdue adj. 到期未付的；晚来的，延误的
+3 strait n. 海峡 adj. 狭窄的 isthmus n. 地峡
+2 uncanny adj. 神秘的，离奇的
+9 precipitous adj. 陡峭的
+3 shun v. 避免，闪避
+1 prospect v. 勘探 n. 期望；前景
+4 vent v. 发泄（感情，尤指愤怒）；开孔 n. 孔，口
+3 sarcastic adj. 讽刺的
+4 raze v. 夷为平地；彻底破坏
+4 synoptic adj. 摘要的
+7 poise v. 使平衡 n. 泰然自若，沉着自信
+3 rancor n. 深仇，怨恨
+4 torpid adj. 懒散的，迟钝的
+4 prodigious adj. 巨大的；惊人的，奇异的
+3 stodgy adj. 乏味的
+4 taut adj. 绷紧的，拉紧的
+4 remunerative adj. 报酬高的，有利润的
+3 outstrip v. 超过，超越；比…跑得快
+2 surpass v. 超过
+2 arduous adj. 费力的，艰难的 arduous march 艰难行军
+==================
+20160616 10:19:14
+Err: 66, recited: 200, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+1 residential adj. 住宅的，与居住有关的
+2 solicitude n. 关怀，牵挂
+2 reprehensible adj. 应受谴责的
+3 vitriolic adj. 刻薄的
+3 stratify v. （使）层化
+3 roseate adj. 玫瑰色的；过分乐观的
+8 intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
+2 unfettered adj. 自由的，不受约束的
+3 truce n. 停战，休战（协定）
+2 unobtrusive adj. 不引人注目的
+5 refrain v. 抑制 n. （歌曲或诗歌中）的叠句
+2 soliloquy n. 自言自语；戏剧独白
+3 ascent n. 上升，攀登；上坡路；提高，提升
+4 serene adj. 平静的，安详的；清澈的；晴朗的 serenity n. 平静
+2 prolific adj. 多产的，多果实的
+4 supple adj. 柔软的，灵活的；柔顺的，顺从的
+5 inquisitive adj. 好奇的，好问的；爱打听的
+1 inflexible adj. 坚定的，不屈不挠的；不可弯曲的
+3 stilted adj. （文章、谈话）不自然的；夸张的 stilt n. 高跷
+3 indented adj. 锯齿状的；高低不平的
+5 peculiar adj. 独特的；古怪的
+3 guile n. 欺骗，欺诈；狡猾
+3 supplement n. 增补，补充 v. 增补 supplementary adj. 增补的，补充的
+3 strenuous adj. 奋发的；热烈的
+3 plethora n. 过多，过剩
+9 perpetrate v. 犯罪；负责
+2 invigorate  v. 鼓舞，使精力充沛
+3 relish n. 美味，风味；喜好，兴趣 v. 喜好，享受
+6 revile v. 辱骂，恶言相向
+1 reconcile v. 和解，调和
+2 unfounded adj. 无事实根据的
+2 treatise n. 论文
+4 slimy adj. 黏滑的
+3 susceptible adj. 易受影响的，敏感的
+4 rescind v. 废除，取消
+4 squirt v. 喷出，溅进 squirt...with... 用…喷…
+7 noisome adj. 有恶臭的；令人作呕的，令人讨厌的
+3 sultry adj. 闷热的；（人）风骚的
+5 obscurity n. 费解；不出名
+3 subversive adj. 颠覆性的，破坏性的 subvert v. 颠覆，推翻
+4 sanitary adj. （有关）卫生的，清洁的
+3 skeptical adj. 怀疑的；多疑的
+4 tardy adj. 迟延，迟到的；缓慢的，迟钝的
+5 narcotic n. 麻醉剂 adj. 麻醉的，催眠的
+3 solitary adj. 孤独的 n. 隐士
+1 prosecute v. 起诉；告发
+4 stymie v. 妨碍，阻挠
+3 antipathy n. 反感，厌恶
+2 trauma n. 创伤，外伤
+2 aptitude n. 适宜；才能，资质
+2 smug adj. 自满的，自命不凡的
+3 torpor n. 死气沉沉
+5 perfume n. 香味；香水
+3 superannuate v. 使退休领养老金
+3 salient adj. 显著的，突出的
+8 mundane adj. 献世的，世俗的；平凡的，普通的
+3 territorial adj. 领土的；地方的 territorial economy 地方经济
+3 ulterior adj. 较远的，将来的；隐秘的，别有用心的
+3 suspicious adj. 怀疑的 be suspicious of/about...
+3 sap n. 树液；活力 v. 削弱，耗尽
+3 rudimentary adj. 初步的；未充分发展的
+3 wary adj. 谨慎的
+4 sagacious adj. 聪明的，睿智的 （sage adj. 智慧的 n. 智者）
+2 sane adj. 神志清楚的；明智的
+3 tangle v. 缠结 v. 纷乱
+6 premonition n. 预感，预兆
+==================
