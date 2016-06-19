@@ -2475,3 +2475,150 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 200
 3 tangle v. 缠结 v. 纷乱
 6 premonition n. 预感，预兆
 ==================
+20160617 10:44:27
+Err: 55, recited: 200, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+3 treacherous adj. 背叛的，叛逆的
+3 sycophant n. 马屁精
+4 torpor n. 死气沉沉
+4 scramble v. 攀登；搅乱，使混杂；争夺
+2 secular adj. 世俗的，尘世的
+2 solicit v. 恳求；教唆
+2 terrestrial adj. 地球的；陆地的
+3 solicitude n. 关怀，牵挂
+6 pedant n. 迂腐之人，学究
+13 piercing adj. 冷的刺骨的；敏锐的
+2 intrepid adj. 勇敢的，刚毅的
+2 texture n. 质地；结构 textured adj. 摸起来有感觉的；有织纹的
+3 touchy adj. 敏感的，易怒的
+2 superfluous adj. 多余的，累赘的
+3 recklessness n. 鲁莽，轻率 reckless adj. 鲁莽的；不计后果的
+2 sedative adj. （药物）镇静的 n. 镇静剂
+7 irrigate v. 灌溉；冲洗（伤口）
+4 stalwart adj. 健壮的；坚定的
+4 viscous adj. 黏滞的，黏性的，黏的 glutinous
+5 relentless adj. 无情的，残酷的
+7 pithy adj. （讲话或文章）简练有力的，言简意赅的
+3 unscathed adj. 未受损伤的，未受伤害的
+3 venial adj. （错误等）轻微的，可原谅的
+2 ungainly adj. 笨拙的
+3 reticent adj. 沉默寡言的
+7 opulent adj. 富裕的；充足的
+3 promptness n. 敏捷，迅速；机敏
+3 umbrage n. 不快，愤怒
+2 arid adj. 干旱的；枯燥的 an arid discussion
+3 sumptuous adj. 豪华的，奢侈的
+13 pilgrim n. 朝圣者；（在国外的）旅行者
+3 sordid adj. 卑鄙的；肮脏的
+1 grieve v. 使某人极为悲伤
+9 mordant adj. 讥讽的，尖酸的
+4 supplement n. 增补，补充 v. 增补 supplementary adj. 增补的，补充的
+2 attenuation n. 变瘦；减少；减弱
+5 relegate v. 使降级，贬谪；交付，托付
+1 repress v. 抑制，压抑；镇压 repressive adj. 抑制的；镇压的，残暴的
+2 wane v. 减少，衰落
+2 sentimentalize v. （使）感伤
+3 vigilance n. 警惕，警觉 vigilant adj. 机警的，警惕的
+1 reparation n. 赔偿，补偿
+5 raucous adj. 刺耳的，沙哑的；喧嚣的
+3 supplant v. 排挤，取代
+2 unearth v. 挖出；发现
+3 turbulent adj. 混乱的；骚乱的
+6 perfume n. 香味；香水
+5 snub v. 冷落，不理睬
+9 intent adj. 专心的，专注的；热切的，渴望的 n. 目的，意向 intend（v. 打算）
+3 stingy adj. 吝啬的，小气的
+4 regale v. 款待，宴请；使…快乐
+2 relinquish v. 放弃，让出
+4 surmount v. 克服，战胜；登上
+4 prodigal adj. 挥霍的 n. 挥霍者
+8 gush v. 涌出，迸出；滔滔不绝地说 n. 涌出，迸发
+==================
+20160618 16:27:00
+Err: 33, recited: 200, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 200
+2 attest v. 证实，证明 attest to sth.
+2 attrition n. 摩擦，磨损
+2 authoritative adj. 权威的，官方的；专断的
+3 auspicious adj. 幸运的；吉兆的
+3 founder v. （船）沉没；（计划）失败 n. 创建者
+2 aromatic adj. 芬芳的，芳香的
+10 gluttonous adj. 贪吃的
+12 exempt adj. 被免除的 v. 免除
+2 aspiration n. 抱负，渴望 aspiring adj. 有抱负的，有理想的 aspire v. 渴望成就…
+2 aristocratic adj. 贵族（化）的 aristocracy n. 贵族
+10 giddy adj. 轻浮的
+2 assiduous adj. 勤勉的；专心的
+1 fuse v. 熔化；融合
+1 expository adj. 说明的 （exposit v. 说明，解释）
+2 grandeur n. 壮丽，宏伟
+3 arduous adj. 费力的，艰难的 arduous march 艰难行军
+18 furtive adj. 偷偷的，秘密的
+2 astute adj. 机敏的，精明的
+2 archaic adj. 古老的
+3 glucose n. 葡萄糖
+2 gregarious adj. 群居的；爱社交的
+9 grating adj. （声音）刺耳的；恼人的
+2 avarice n. 贪财，贪婪 avaricious adj. 贪婪的
+2 authentic adj. 真实的，真正的；可信的
+2 auspices n. 支持，赞助
+7 gouge v. 挖出；敲竹杠 n. 半圆凿
+3 ascetic adj. 禁欲的 n. 苦行者 asceticism n. 禁欲主义
+2 argumentative adj. 好争辩的，好争吵的
+2 appropriate v. 拨款；盗用 adj. 恰当的
+2 asunder adj./adv. 分离的（地）；化为碎片的（地）
+11 garble v. 曲解，篡改
+7 gall n. 胆汁；怨恨
+20 graze v. （让动物）吃草；放牧
+==================
+20160619 08:15:54
+Err: 14, recited: 42, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+1 implausible adj. 难以置信的
+7 obdurate adj. 固执的，顽固的
+2 stem n. （植物的）茎，叶柄 v. 阻止，遏制（水流等）
+2 imminent adj. 即将发生的，逼近的
+2 speculative adj. 推理的，思索的；投机的
+6 palpable adj. 可触知的，可察觉的；明显的
+2 scour v. 冲刷；擦掉；四处搜索
+3 scheme n. 阴谋；（作品等）体系，结构
+6 renounce v. 声明放弃；拒绝，否认
+6 raucous adj. 刺耳的，沙哑的；喧嚣的
+4 recessive adj. 隐性遗传的；后退的
+2 moisten v. 弄湿，使湿润
+7 parody n. 拙劣的模仿；滑稽模仿作品或表演
+4 sycophant n. 马屁精
+==================
+20160619 20:21:12
+Err: 29, recited: 100, total: 1340
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+2 tribulation n. 苦难， 忧患
+5 taut adj. 绷紧的，拉紧的
+3 squalid adj. 污秽的，肮脏的
+4 outstrip v. 超过，超越；比…跑得快
+2 prone adj. 俯卧的；倾向于…的 be prone to sth./do sth.
+2 tyrannical adj. 暴虐的，残暴的 tyrant n. 暴君
+2 spectrum n. 光谱；防伪
+3 ruthless adj. 无情的；残忍的
+3 stocky adj. （人或动物）矮而结实的，粗壮的 stock n. 树桩
+4 reprimand v./n. 训诫，谴责
+4 vacillate v. 游移不定，踌躇
+2 unctuous adj. 油质的；油腔滑调的
+4 potent adj. 强有力的，有影响力的额，有权力的；有效能的
+2 purport n. 意义，涵义，主旨
+2 render v. 呈递，提供；给予，归还
+2 scenic adj. 风景如画的 scenic lift 观光电梯
+2 overawe v. 威慑
+5 replete adj. 充满的，供应充足的
+5 insolent adj. 粗野的，无礼的
+9 poignant adj. 令人痛苦的，伤心的；尖锐的
+4 mortify v. 使丢脸，侮辱
+2 undercut v. 削价（与竞争者）抢生意
+8 impart v. 传授，赋予；传递；告知，透露
+2 incorrigible adj. 积习难改的，不可救药的
+2 tussle n./v. 扭打，争斗；争辩
+5 repugnant adj. 令人厌恶的
+4 antipathy n. 反感，厌恶
+3 specimen n. 范例，样品，标本
+2 obliging adj. 乐于助人的 oblige （v. 施恩惠于，帮助）
+==================
