@@ -52,6 +52,61 @@
 1 barrier n. 路障；障碍
 1 base adj. 卑鄙的 n. 基础 v. 以…为基础
 1 belie v. 掩饰；证明为假
+1 bemuse v. 使迷惑
+1 benefactor n. 行善者，捐助者
+1 benign adj. （病）良性的；亲切和蔼的；慈祥的
+1 beset v. 镶嵌；困扰
+1 bestow v. 给予，赐赠
+1 bewilder v. 使迷惑
+1 bland adj. （人）情绪平稳的；（食物）无味的
+1 blatant adj. 厚颜无耻的；显眼的；炫耀的
+1 blighted adj. 枯萎的 blight v. 使枯萎
+1 blissful adj. 极幸福的 bliss n. 天赐之福
+1 blithe adj. 快乐的，无忧无虑的
+1 bluff n. 虚张声势；悬崖峭壁
+1 boisterous adj. 喧闹的；猛烈的
+1 bolster n. 枕垫 v. 支持；鼓励
+1 boon n. 恩惠，天赐福利 be a boon to 对…大有裨益
+1 braggart n. 吹牛者
+1 braid v. 编织 n. 穗子；发辫
+1 bravado n. 故作勇敢，虚张声势 bravo interj. 欢呼；好极了
+1 breach v. 打破，突破；违背 n. 裂缝，缺口 break v. 打破
+1 breed v. 繁殖；教养 n. 品种，种类
+1 brink n. （峭壁的）边缘
+1 bumper adj. 特大的 n. 保险杠
+1 buoyant adj. 有浮力的；快乐的
+1 buttress n. 拱墙，拱璧 v. 支持
+1 calamity n. 大灾难
+1 callous adj. 结硬块的；无情的 callus n. 老茧
+1 calumny n. 诽谤，中伤
+1 camaraderie n. 同志之情，友情
+1 candid adj. 率直的
+1 cannily adv. 机灵地
+1 canny adj. 精明仔细的
+1 capricious adj. 变化无常的，任性的
+1 captious adj. 吹毛求疵的
+1 captivation adj. 吸引人的
+1 carnivorous adj. 肉食动物的
+1 catalyze v. 促使；激励
+1 caustic adj. 腐蚀性的；刻薄的 n. 腐蚀剂
+1 cavil v. 挑毛病，吹毛求疵
+1 cavity n. （牙齿等的）洞，腔
+1 celestial adj. 天体的，天上的
+1 celibate n. 独身者 adj. 不结婚的
+1 cellular adj. 细胞的；蜂窝式的 cellular organization 细胞组织
+1 censorious adj. 挑剔的
+1 censure n./v. 指责
+1 ceramic adj. 陶器的 n. 陶瓷制品
+1 cerebral adj. 大脑的；深思的 cerebral cortex 大脑皮层
+1 chancy adj. 不确定的，不安的
+1 chantey n. 船歌
+1 charitable adj. 行善的；仁爱的
+1 charter n. 特权或豁免权
+1 chary adj. 小心的，审慎的 be chary of/about 对…小心的
+1 chastisement n. 惩罚
+1 choppy adj. 波浪起伏的；（风）不断改变方向的
+1 chorale n. 赞美诗；合唱队
+1 circuitous adj. 迂回的，绕圈子的
 0 equestrian adj. 骑马的；骑士阶层的 n. 骑师
 0 equitable adj. 公正的；合理的
 0 eschew v. 避开
