@@ -15,7 +15,7 @@
 2 appropriate v. 拨款；盗用 adj. 恰当的
 1 apropos adj./adv. 适当的（地）；有关
 2 aptitude n. 适宜；才能，资质
-1 arbiter n. 权威人士，太逗
+1 arbiter n. 权威人士，泰斗
 2 archaic adj. 古老的
 3 arduous adj. 费力的，艰难的 arduous march 艰难行军
 2 argumentative adj. 好争辩的，好争吵的
@@ -107,6 +107,32 @@
 1 choppy adj. 波浪起伏的；（风）不断改变方向的
 1 chorale n. 赞美诗；合唱队
 1 circuitous adj. 迂回的，绕圈子的
+
+circumspect adj. 慎重的
+circumstantial adj. 不重要的，偶然的；描述详细的
+circumvent v. 回避；用计战胜或回避
+clannish adj. 排他的，门户之见的
+claustrophobic adj. （患）幽闭恐怖症的，导致幽闭恐怖症的
+clemency n. 温和；仁慈，宽厚
+closet adj. 秘密的 n. 壁橱
+clutter v. 弄乱 n. 零乱
+coalesce v. 联合，合并
+coax v. 哄骗 coax sth. out of/from sb. 哄骗得到
+cognizant adj. 知道的，认识的
+collateral adj. 平行的；附属的；旁系的 n. 担保品
+collusion n. 共谋，勾结 collusive adj. 共谋的
+combustible adj. 易燃的；易激动的
+cometary adj. 彗星的，彗星似的 comet n. 彗星
+commingle v. 掺和，混合
+commission n. 委托；佣金
+commitment n. 承诺
+commodious adj. 宽敞的
+communal adj. 全体共用的，共享的
+compassion n. 同情 compassionate adj. 有同情心的
+compendium n. 简要，概略
+competing adj. 有竞争性的；不相上下的
+complacence n. 自满
+
 0 equestrian adj. 骑马的；骑士阶层的 n. 骑师
 0 equitable adj. 公正的；合理的
 0 eschew v. 避开
