@@ -2622,3 +2622,58 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 100
 3 specimen n. 范例，样品，标本
 2 obliging adj. 乐于助人的 oblige （v. 施恩惠于，帮助）
 ==================
+20160621 14:29:44
+Err: 26, recited: 100, total: 1395
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+2 chastisement n. 惩罚
+8 poise v. 使平衡 n. 泰然自若，沉着自信
+2 typify v. 代表，是…的典型
+2 bestow v. 给予，赐赠
+2 ruminant adj. （动物）反刍的；沉思的
+3 withhold v. 抑制；扣留，保留
+6 narcotic n. 麻醉剂 adj. 麻醉的，催眠的
+8 impugn v. 提出异议，对…表示怀疑
+3 seclude v. 使隔离，使孤立 seclusion n. 隔离；隔离的地方
+4 susceptible adj. 易受影响的，敏感的
+3 speculative adj. 推理的，思索的；投机的
+2 physiological adj. 生理（机能）的；生理学的
+2 calamity n. 大灾难
+4 scruple n./v. 顾忌，迟疑
+14 piercing adj. 冷的刺骨的；敏锐的
+1 incongruity n. 不协调，不相称
+5 vacillate v. 游移不定，踌躇
+2 censorious adj. 挑剔的
+2 tentative adj. 试探性的，尝试性的
+2 schism n. 教会分裂；分裂
+12 petulant adj. 暴躁的，易怒的
+3 shrug v. 耸肩（表示怀疑等） shrug sth. off/aside 不把…当回事；对…满不在乎
+2 sophomoric adj. 一知半解的
+5 profuse adj. 丰富的；浪费的
+2 jocular adj. 滑稽的，幽默的；爱开玩笑的
+2 solvent adj. 有偿债能力的 n. 溶剂  来自 solve v. 解决；溶化
+==================
+20160621 15:30:04
+Err: 21, recited: 100, total: 1395
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+3 instructive adj. 传授知识的，教育的；有益的
+6 insular adj. 岛屿的；心胸狭窄的
+2 tortuous adj. 曲折的，拐弯抹角的；弯弯曲曲的
+3 relinquish v. 放弃，让出
+3 stipulate v. 要求以…为条件；约定，规定
+3 terse adj. 简洁的，简明的
+2 renewal n. 更新；复兴，振兴
+3 trickle v. 细细地流 n. 细流
+2 restive adj. 不安静的，不安宁的
+3 sectarianism n. 宗派主义；教派意识
+7 renounce v. 声明放弃；拒绝，否认
+8 obfuscate v. 使迷惑，使困惑
+4 scheme n. 阴谋；（作品等）体系，结构
+7 pungent adj. 辛辣的，刺激的；尖锐的，尖刻的
+4 tangle v. 缠结 n. 纷乱
+7 hilarity n. 欢闹，狂欢
+6 jolting adj. 令人震惊的
+3 substantive adj. 根本的；独立存在的
+8 opulent adj. 富裕的；充足的
+4 fetid adj. 有恶臭的
+8 keen adj. 锋利的，锐利的；敏锐的，灵敏的；热心的
+==================
