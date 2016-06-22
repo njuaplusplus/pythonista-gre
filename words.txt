@@ -235,6 +235,85 @@
 1 deft adj. 灵巧的，熟练的
 1 defy v. 违抗，藐视
 1 deign v. 惠允（做某事）；施惠于人
+1 deliberate adj. 深思熟虑的；故意的 v. 慎重考虑 deliberation n. 慎重考虑
+1 delimit v. 划定界限
+1 demobilize v. 遣散，使复员
+1 demolish v. 破坏，摧毁；拆除
+1 demur v. 表示异议，反对
+1 denigrate v. 污蔑，诽谤
+1 denounce v. 指责
+1 deplore v. 悲悼，哀叹；谴责
+1 deprave v. 使堕落，使恶化
+1 deprecate v. 反对；轻视 deprecation deprecatory
+1 depreciate v. 轻视；贬值
+1 derelict adj. 荒废的；玩忽职守的；疏忽的 n. 被遗弃的人
+1 deride v. 嘲笑，愚弄
+1 derogatory adj. 不敬的，贬损的
+1 desecrate v. 玷辱，亵渎
+1 despondent adj. 失望的，意气消沉的
+1 destine v. 命运注定，预定
+1 desultory adj. 不连贯的；散漫的
+1 deter v. 威慑，吓住；阻止
+1 deteriorate v. （使）变坏，恶化
+1 determinant n. 决定因素 adj. 决定性的
+1 deterrent adj. 威慑的，制止的 deter v. 威慑，制止
+1 detest v. 厌恶，憎恨
+1 detour v. 绕道，迂回 n. 弯路；绕行之路 detour around 绕行
+1 detriment n. 损害，伤害 detrimental adj. 损害的，造成伤害的
+1 devastate v. 摧毁，破坏
+1 deviant adj. 越出常规的 deviation n. 背离
+1 devious adj. 不坦诚的；弯曲的，迂回的
+1 devoid adj. 空的，全无的 be devoid of 缺乏
+1 devour v. 狼吞虎咽地吃，吞食；贪婪地看（听、读等）
+1 devout adj. 虔诚的；忠诚的，忠心的
+1 dichotomy n. 两分法；矛盾对立，分歧；具有两分特征的事物
+1 dictate v. 口述；命令
+1 didactic adj. 教诲的；说教的
+1 diffusion n. 扩散，弥漫；冗长；反射；漫射
+1 digressive adj. 离题的，枝节的 digressive remarks 离题的言论
+1 dilapidated adj. 破旧的，毁坏的
+1 dilate v. 使膨胀，使扩大
+1 dilatory adj. 慢慢吞吞的，磨蹭的
+1 dilettante n. 一知半解者，业余爱好者
+1 diligent adj. 勤奋的
+1 diminution n. 减少，缩减
+1 disabuse v. 打消（某人的）错误念头，使醒悟
+1 disarray n. 混乱，无秩序
+1 disavowal n. 否认
+1 discharge v. 排出，流出；释放；解雇；履行义务；放电
+1 discipline n. 纪律；惩罚，处分 v. 训练，训导
+1 discomfit v. 使难堪，使困惑 discomfited adj. 困惑的，尴尬的
+1 disconsolate adj. 闷闷不乐的，郁郁寡欢的
+1 discredit v. 怀疑 n. 丧失名誉
+1 discreet adj. 小心的，言行谨慎的 discretion
+1 discriminatory adj. 歧视的，差别对待的，偏见的 discriminate v. 歧视
+1 discursive adj. 散漫的，不得要领的
+1 disdain v./n. 轻视，鄙视 n. disdain for
+1 disgruntled adj. 不悦的，不满意的
+1 disinclination n. 不愿意，不情愿
+1 disingenuous adj. 不坦率的 ingenuous
+1 disjunctive adj. 分离的；转折的，反意的
+1 dismal adj. 沮丧的，阴沉的
+1 dismember v. 肢解；分割
+1 disorganize v. 扰乱，使混乱
+1 disparage v. 贬低，轻蔑
+1 disparate adj. 迥然不同的
+1 dispassionate adj. 平心静气的
+1 dispensable adj. 不必要的，可有可无的
+1 disposable adj. 一次性的；可自由使用的
+1 disproportionate adj. 不成比例的
+1 dissect v. 解剖；剖析
+1 disseminate v. 传播，宣传
+1 dissent n. 异议 v. 持异议
+1 dissident n. 唱反调者
+1 dissipate v. （使）消失，（使）消散；浪费 sip 喝
+1 dissolve v. （使）溶解
+1 dissonant adj. 不和谐的，不一致的
+1 distasteful adj. （令人）不愉快的，讨厌的
+1 distent adj. 膨胀的；扩张的
+1 distinct adj. 清楚的，明显的
+1 distinctive adj. 出众的，有特色的
+1 distraught adj. 心神狂乱的，发狂的；心烦意乱的
 0 equestrian adj. 骑马的；骑士阶层的 n. 骑师
 0 equitable adj. 公正的；合理的
 0 eschew v. 避开
@@ -1471,7 +1550,7 @@
 1 vestige n. 痕迹，遗迹
 2 vestigial adj. 退化的
 2 vex v. 使烦恼，使恼怒 vexation n. 恼怒，苦恼
-1 vibrant adj. 震动的；响亮的；明快的；充满生气的，危险的
+1 vibrant adj. 震动的；响亮的；明快的；充满生气的，精力充沛的
 2 vicissitude n. 变迁，兴衰
 3 vigilance n. 警惕，警觉 vigilant adj. 机警的，警惕的
 3 vilify v. 诽谤，中伤
