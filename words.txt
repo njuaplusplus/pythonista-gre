@@ -107,32 +107,134 @@
 1 choppy adj. 波浪起伏的；（风）不断改变方向的
 1 chorale n. 赞美诗；合唱队
 1 circuitous adj. 迂回的，绕圈子的
-
-circumspect adj. 慎重的
-circumstantial adj. 不重要的，偶然的；描述详细的
-circumvent v. 回避；用计战胜或回避
-clannish adj. 排他的，门户之见的
-claustrophobic adj. （患）幽闭恐怖症的，导致幽闭恐怖症的
-clemency n. 温和；仁慈，宽厚
-closet adj. 秘密的 n. 壁橱
-clutter v. 弄乱 n. 零乱
-coalesce v. 联合，合并
-coax v. 哄骗 coax sth. out of/from sb. 哄骗得到
-cognizant adj. 知道的，认识的
-collateral adj. 平行的；附属的；旁系的 n. 担保品
-collusion n. 共谋，勾结 collusive adj. 共谋的
-combustible adj. 易燃的；易激动的
-cometary adj. 彗星的，彗星似的 comet n. 彗星
-commingle v. 掺和，混合
-commission n. 委托；佣金
-commitment n. 承诺
-commodious adj. 宽敞的
-communal adj. 全体共用的，共享的
-compassion n. 同情 compassionate adj. 有同情心的
-compendium n. 简要，概略
-competing adj. 有竞争性的；不相上下的
-complacence n. 自满
-
+1 circumspect adj. 慎重的
+1 circumstantial adj. 不重要的，偶然的；描述详细的
+1 circumvent v. 回避；用计战胜或回避
+1 clannish adj. 排他的，门户之见的
+1 claustrophobic adj. （患）幽闭恐怖症的，导致幽闭恐怖症的
+1 clemency n. 温和；仁慈，宽厚
+1 closet adj. 秘密的 n. 壁橱
+1 clutter v. 弄乱 n. 零乱
+1 coalesce v. 联合，合并
+1 coax v. 哄骗 coax sth. out of/from sb. 哄骗得到
+1 cognizant adj. 知道的，认识的
+1 collateral adj. 平行的；附属的；旁系的 n. 担保品
+1 collusion n. 共谋，勾结 collusive adj. 共谋的
+1 combustible adj. 易燃的；易激动的
+1 cometary adj. 彗星的，彗星似的 comet n. 彗星
+1 commingle v. 掺和，混合
+1 commission n. 委托；佣金
+1 commitment n. 承诺
+1 commodious adj. 宽敞的
+1 communal adj. 全体共用的，共享的
+1 compassion n. 同情 compassionate adj. 有同情心的
+1 compendium n. 简要，概略
+1 competing adj. 有竞争性的；不相上下的
+1 complacence n. 自满
+1 complacency n. 满足，安心
+1 complacent adj. 自满的，随意的
+1 compliment n./v. 恭维，称赞
+1 composed adj. 镇定的，沉着的；由…组成的 be composed of sth.
+1 composure n. 镇静，沉着；自若
+1 compromise v. 妥协；危害
+1 concede v. 承认；让步
+1 conceive v. 想象，构想；怀孕
+1 conciliatory adj. 抚慰的，调和的 conciliate v. 调和，安慰
+1 concoction n. （古怪或少见的）混合（物）
+1 concomitant adj. 伴随的
+1 condense v. 浓缩
+1 condescending adj. 谦逊的，故意屈尊的
+1 cone n. 松果；圆锥体
+1 confide v. 吐露（心事）；倾诉
+1 conflagration n. （建筑物或森林）大火
+1 conformity n. 一致，遵从；顺从
+1 confound v. 使迷惑，搞混
+1 confront v. 面临；对抗 confrontation n. 对抗
+1 congenial adj. 意气相投的；性情好的；适宜的
+1 congenital adj. 先天的
+1 conifer n. 针叶树
+1 conjure v. 召唤，想起；变魔术 conjure for 召唤
+1 connive v. 默许；纵容
+1 conscientious adj. 尽责的；小心谨慎的
+1 consort v. 陪伴；结交 n. 配偶
+1 conspiracy n. 共谋，阴谋 conspiracy against 共谋反对
+1 consternation n. 大为吃惊
+1 constituent n. 成分；选区内的选民
+1 constitution n. 宪法；体质
+1 construe v. 解释；翻译
+1 consummate adj. 完全的，完善的 v. 完成
+1 consumption n. 消费，消耗 consume v. 消耗
+1 contagious adj. 传染的，有感染力的
+1 containment n. 阻止，遏制 a policy of containment 遏制政策
+1 contemplate v. 深思；凝视
+1 contemplation n. 注视；凝视；意图；期望
+1 contemplative adj. 沉思的 n. 沉思者
+1 contemporary adj. 同时代的；当代的；现代的
+1 contention n. 争论；论点
+1 contentious adj. 好争吵的；有争议的 a contentious issue
+1 continental adj. 大陆的，大陆性对的 continental drift 大陆漂移（说）
+1 continuation n. 继续，延续 continue v. 继续
+1 contravene v. 违背（法规、习俗等）
+1 contrite adj. 悔罪的，痛悔的 contrition n. 悔罪，痛悔
+1 conversant adj. 精通的
+1 converse v. 谈话 adj. 逆向的 n. 相反的事务
+1 convertible adj. 可转换的 n. 敞篷车
+1 convex adj. 凸出的 concave adj. 凹的
+1 convivial adj. 欢乐的，快乐的
+1 convoluted adj. 旋绕的；费解的
+1 cordiality n. 诚恳，热诚
+1 corroborate v. 支持或证实；强化 corroboration
+1 corrosive adj. 腐蚀性的，腐蚀的 caustic/erosive
+1 coterie n. （有共同兴趣的）小团体
+1 countenance v. 支持，赞成 n. 表情
+1 counterfeit v. 伪造，仿造 adj. 伪造的，假冒的
+1 counterproductive adj. 事与愿违的
+1 court n. 法庭；宫廷 v. 献殷情；追求
+1 covet v. 贪求，妄想
+1 cozy adj. 舒适的，惬意的；亲切友好的
+1 craft n. 行业；手艺 arts and crafts 手工艺
+1 crater n. 火山口；弹坑
+1 creed n. 教义；信条
+1 crestfallen adj. 挫败的，失望的
+1 crimson n. 绯红色 adj. 绯红色的
+1 cringe v. 畏缩；谄媚 cringe from 因…畏缩
+1 criss-cross v. 交叉往来
+1 crooked adj. 不诚实的；弯曲的 crook v. 弯曲
+1 crumple v. 把…弄皱；起皱；破裂
+1 cryptic adj. 秘密的，神秘的
+1 crystalline adj. 水晶的；透明的 crystal n. 水晶
+1 culinary adj. 厨房的；烹调的 culinary skills 烹饪技巧
+1 culminate v. 到达顶点；使到达最高点
+1 culpable adj. 有罪的，该受谴责的
+1 cumbersome adj. 笨重的，难处理的
+1 cursory adj. 粗略的；草率的
+1 curt adj. （言词、行为）简略而草率的
+1 customary adj. 合乎习俗的 custom n. 习俗
+1 cynical adj. 愤世嫉俗的
+1 damped adj. 潮湿的；减震的，压低（声音）的
+1 dampen v. 使潮湿；使沮丧 damp adj. 潮湿的
+1 daunt v. 使胆怯，使畏缩
+1 dearth n. 缺乏
+1 debase v. 贬低
+1 debauch v. 使堕落，败坏 n. 堕落
+1 debilitate v. 使衰落
+1 deciduous adj. 非永久的；短暂的；脱落的；落叶的
+1 decline v. 拒绝；变弱，变小 n. 消减
+1 decrepit adj. 衰老的，破旧的
+1 decry v. 责难；贬低 descry vt. 看见
+1 defamation n. 诽谤，中伤
+1 defecate v. 澄清；净化
+1 defect n. 缺点，瑕疵 v. 变节，脱党
+1 defer v. 遵从，听从；延期
+1 deference n. 敬意，尊重 deference to 对…尊重
+1 deferential adj. 顺从的，恭顺的
+1 defiance n. 挑战；违抗，反抗 defiance against 对…的反抗 defy v. 公然反抗
+1 defiant adj. 反抗的，挑衅的 a defiant teenager 一个具有反叛性格的少年
+1 definite adj. 清楚的，明确的
+1 definitive adj. 明确的，有权威的；最终的
+1 deft adj. 灵巧的，熟练的
+1 defy v. 违抗，藐视
+1 deign v. 惠允（做某事）；施惠于人
 0 equestrian adj. 骑马的；骑士阶层的 n. 骑师
 0 equitable adj. 公正的；合理的
 0 eschew v. 避开
