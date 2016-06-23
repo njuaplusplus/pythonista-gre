@@ -314,6 +314,99 @@
 1 distinct adj. 清楚的，明显的
 1 distinctive adj. 出众的，有特色的
 1 distraught adj. 心神狂乱的，发狂的；心烦意乱的
+1 diurnal adj. 白昼的，白天的
+1 divert v. 转移，（使）转向；使娱乐
+1 dividend n. 红利，股利
+1 divisive adj. 引起分歧的，导致分裂的
+1 divulge v. 泄露，透露
+1 docile adj. 驯服的。听话的
+1 doctrinaire n. 教条主义者 adj. 教条的，迂腐的 doctine n. 教条
+1 dogged adj. 顽强的
+1 dogmatist n. 独断家，独断论者 dogma n. 教条，信条，武断的意见
+1 domesticated adj. 驯养的，家养的
+1 domineer v. 压制
+1 dormant adj. 冬眠的；静止的
+1 dorsal adj. 背部的，背脊的
+1 dose n. 剂量，（一）剂
+1 dossier n. 卷宗，档案
+1 down n. 绒毛；软毛
+1 downfall n. 垮台
+1 downplay v. 贬低，不予重视
+1 drab adj. 黄褐色的；单调的，乏味的
+1 draft n. 草稿，草案；汇票
+1 drastic adj. 猛烈的，激烈的 a drastic change 剧烈的变化
+1 drizzly adj. 毛毛细雨的
+1 drollery n. 滑稽 droll adj. 滑稽的
+1 drone v. 嗡嗡地响；单调地说 n. 单调的低音
+1 drowsy adj. 昏昏欲睡的 drowse v. 打瞌睡
+1 drudgery n. 苦工，苦活 drudge v. 做苦工
+1 ductile adj. 易延展的；可塑的
+1 dull adj. 不鲜明的；迟钝的；乏味的 v. 变迟钝
+1 dumbbell-like adj. 哑铃状的
+1 dumbfound v. 使…惊讶
+1 dupe n. 易上当者
+1 duplicity n. 欺骗，口是心非
+1 dutiful adj. 尽职的 duty n. 责任
+1 dwindle v. 变小，减少 swindle n./v. 欺骗
+1 earthiness n. 土质，土性 earthy adj. 泥土的，土的
+1 ebb v. 退潮；衰退
+1 eccentric adj. 古怪的，反常的；（指圆形）没有共同圆心的 n. 古怪的人
+1 echo n. 回声；反响；共鸣 v. 回荡，回响；重复，模仿 an echo of… 对…共鸣
+1 eclectic adj. 折衷的；兼容并蓄的
+1 edifice n. 宏伟的建筑（如宫殿、教堂等）
+1 edify v. 陶冶，启发
+1 efface v. 擦掉，抹去
+1 effervescence n. 冒泡；活泼
+1 effete adj. 无生产力的；虚弱的
+1 efficacious adj. 有效的 efficacy n. 功效，有效性
+1 egalitarian adj. 主张人人平等的 equalitarian adj. 平等主义的
+1 egregious adj. 极端恶劣的
+1 elaborate adj. 精致的，复杂的 v. 详尽地说明，阐明
+1 elapse v. 消逝，过去 n. 消逝
+1 elate v. 使高兴，使得意
+1 elegiac adj. 哀歌的，挽歌的 n. 哀歌，挽歌 elegy
+1 eligible adj. 合格的，有资格的
+1 elucidate v. 阐明，说明
+1 elude v. 逃避；搞不清，理解不了
+1 elusive adj. 难懂的，难以描述的；不易被抓获的
+1 emancipate v. 解放，释放
+1 embellish v. 装饰，美化
+1 embezzlement n. 贪污，盗用
+1 emblematic adj. 作为象征的 emblem n. 象征
+1 embroider v. 刺绣，镶边；装饰
+1 embryological adj. 胚胎学的 embryo n. 胚胎
+1 embryonic adj. 胚胎的；萌芽期的 embryo n. 胚胎
+1 empathy n. 同感，移情（作用）；全神贯注
+1 emphatic adj. 忠实的，强调的
+1 empirically adv. 凭经验地
+1 empiricism n. 经验主义 empiric n. 经验主义者
+1 enamored adj. 倾心的，着迷的 be enamored of… 珍爱，喜爱…
+1 encroach v. 侵占，蚕食
+1 endear v. 使受喜爱
+1 endemic adj. 地方性的
+1 endorse v. 赞同；背书
+1 endow v. 捐赠；赋予
+1 endure v. 忍受，忍耐
+1 enduring adj. 持久的；不朽的
+1 enervate v. 使虚弱，使无力
+1 engage v. 从事，参加；雇佣，聘用；使参与；引起…的注意；使订婚
+1 engender v. 产生，引起
+1 engrave v. 雕刻，铭刻；牢记，铭记
+1 enigma n. 谜一样的人或事物
+1 enormous adj. 极大的，巨大的
+1 enthral v. 迷惑
+1 entice v. 引诱
+1 entitle v. 使有权（做某事）
+1 entrenched adj. （权利、传统）确立的，牢固的
+1 enviable adj. 令人羡慕的 envy v./n. 羡慕嫉妒
+1 envision v. 想象，预想
+1 enzyme n. 酶，酶素
+1 ephemeral adj. 朝生暮死的；生命短暂的
+1 epic n. 叙事诗，史诗 adj. 史诗的，叙事诗的；英雄的；大规模的
+1 epidemic adj. 传染性的，流行性的
+1 episodic adj. 偶然发生的；分散性的 episode n. 片段
+1 epitome n. 典型；梗概
+1 equate v. 认为…相等或相仿
 0 equestrian adj. 骑马的；骑士阶层的 n. 骑师
 0 equitable adj. 公正的；合理的
 0 eschew v. 避开
