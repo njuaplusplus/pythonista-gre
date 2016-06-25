@@ -218,7 +218,7 @@
 1 debase v. 贬低
 1 debauch v. 使堕落，败坏 n. 堕落
 1 debilitate v. 使衰落
-1 deciduous adj. 非永久的；短暂的；脱落的；落叶的
+11 deciduous adj. 非永久的；短暂的；脱落的；落叶的
 1 decline v. 拒绝；变弱，变小 n. 消减
 1 decrepit adj. 衰老的，破旧的
 1 decry v. 责难；贬低 descry vt. 看见
@@ -716,7 +716,7 @@
 4 indulgent adj. 放纵的，纵容的
 0 inedible adj. 不能吃的
 1 inelastic adj. 无弹性的
-5 inert adj. 惰性的；呆滞的，迟缓的
+8 inert adj. 惰性的；呆滞的，迟缓的
 0 inexcusable adj. 不可原谅的
 2 inexorable adj. 不为所动的；无法改变的
 1 infect v. 传染；使感染；污染
@@ -926,7 +926,7 @@
 6 penchant n. 爱好，嗜好
 4 penetrating adj. （声音）响亮的，尖锐的；（气味）刺激的；（思想）敏锐的，有洞察力的
 9 penitent adj. 悔过的，忏悔的
-2 pensive adj. 沉思的；忧心忡忡的
+3 pensive adj. 沉思的；忧心忡忡的
 2 perception n. 感知，知觉；洞察力 percept （n. 感知；感知对象）
 1 perennial adj. 终年的，全年的；永久的，持久的
 1 perfervid adj. 过于热心的
@@ -1352,7 +1352,7 @@
 3 sobriety n. 节制；庄重
 1 solder v. 焊接，焊接在一起，焊合 soldier n. 战士
 2 solemn adj. 严肃的；庄严的，隆重的；黑色的 solemnity n. 庄严，肃穆
-2 solicit v. 恳求；教唆
+3 solicit v. 恳求；教唆
 1 solicitous adj. 热切的；挂念的 be solicitous of/for/about... 为…操心
 3 solicitude n. 关怀，牵挂
 2 soliloquy n. 自言自语；戏剧独白
@@ -1442,7 +1442,7 @@
 1 suffrage n. 选举权，投票权
 1 suffragist n. 参政权扩大论者；妇女政权论者
 4 sully v. 玷污，污染
-3 sultry adj. 闷热的；（人）风骚的
+4 sultry adj. 闷热的；（人）风骚的
 3 sumptuous adj. 豪华的，奢侈的
 1 sun-bronzed adj. 被太阳晒成古铜色的
 2 sunlit adj. 阳光照射的

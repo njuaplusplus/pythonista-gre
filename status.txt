@@ -2720,3 +2720,15 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 300
 2 duplicity n. 欺骗，口是心非
 2 culpable adj. 有罪的，该受谴责的
 ==================
+20160625 11:25:17
+Err: 0, recited: 7, total: 1695
+Shuffled: False, err_times_threshold: 0,  reciting_length: 10
+==================
+20160625 11:33:26
+Err: 4, recited: 16, total: 1695
+Shuffled: False, err_times_threshold: 0,  reciting_length: 16
+8 inert adj. 惰性的；呆滞的，迟缓的
+4 sultry adj. 闷热的；（人）风骚的
+3 pensive adj. 沉思的；忧心忡忡的
+3 solicit v. 恳求；教唆
+==================

@@ -56,8 +56,12 @@ class Recite (object):
 		return self.reciting_words[self.current_index]
 	
 	def record_error(self):
-		self.reciting_words[self.current_index].add_err_times()
-		self.err_words.append(self.reciting_words[self.current_index])
+		
+		cur_word = self.reciting_words[self.current_index]
+		cur_word.add_err_times()
+		self.reciting_words.append(cur_word)
+		if cur_word not in self.err_words:
+			self.err_words.append(self.reciting_words[self.current_index])
 		
 	def length(self):
 		return len(self.words)
