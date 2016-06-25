@@ -2677,3 +2677,46 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 100
 4 fetid adj. 有恶臭的
 8 keen adj. 锋利的，锐利的；敏锐的，灵敏的；热心的
 ==================
+20160624 09:31:05
+Err: 5, recited: 23, total: 1695
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+3 argumentative adj. 好争辩的，好争吵的
+2 blithe adj. 快乐的，无忧无虑的
+2 blighted adj. 枯萎的 blight v. 使枯萎
+2 capricious adj. 变化无常的，任性的
+3 attrition n. 摩擦，磨损
+==================
+20160625 11:08:37
+Err: 30, recited: 100, total: 1695
+Shuffled: False, err_times_threshold: 0,  reciting_length: 300
+3 tendentious adj. 有偏见的
+3 valorous adj. 勇敢的
+3 uncanny adj. 神秘的，离奇的
+6 taut adj. 绷紧的，拉紧的
+3 voluptuous adj. 撩人的；沉溺酒色的
+2 divert v. 转移，（使）转向；使娱乐
+4 turbulent adj. 混乱的；骚乱的
+3 stasis n. 停滞
+2 querulous adj. 抱怨的，爱发牢骚的
+7 refractory adj. 倔强的，难管理的；（病）难治的
+2 dilatory adj. 慢慢吞吞的，磨蹭的
+11 huddle v. 挤成一团 n. 一堆人（或物）
+3 slovenly adj. 不整洁的，邋遢的
+2 contrite adj. 悔罪的，痛悔的 contrition n. 悔罪，痛悔
+3 tortuous adj. 曲折的，拐弯抹角的；弯弯曲曲的
+2 dissonant adj. 不和谐的，不一致的
+2 trite adj. 陈腐的，陈词滥调的
+2 welter n. 混乱，杂乱无章
+2 endorse v. 赞同；背书
+2 curt adj. （言词、行为）简略而草率的
+2 edifice n. 宏伟的建筑（如宫殿、教堂等）
+2 egregious adj. 极端恶劣的
+4 spurn n. 拒绝，摈弃
+2 contagious adj. 传染的，有感染力的
+2 effete adj. 无生产力的；虚弱的
+4 verdant adj .葱郁的，翠绿的
+3 recondite adj. 深奥的，晦涩的
+3 stash v. 藏匿
+2 duplicity n. 欺骗，口是心非
+2 culpable adj. 有罪的，该受谴责的
+==================
