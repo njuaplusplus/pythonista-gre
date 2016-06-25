@@ -2732,3 +2732,38 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 16
 3 pensive adj. 沉思的；忧心忡忡的
 3 solicit v. 恳求；教唆
 ==================
+20160625 12:05:57
+Err: 31, recited: 137, total: 1695
+Shuffled: False, err_times_threshold: 0,  reciting_length: 137
+2 veracious adj. 诚实的
+12 grumble v. 嘟囔，抱怨，发牢骚
+3 unpretentious adj. 不炫耀的
+4 disposable adj. 一次性的；可自由使用的
+2 conflagration n. （建筑物或森林）大火
+5 strait n. 海峡 adj. 狭窄的 isthmus n. 地峡
+3 serrated adj. 锯齿状的 serrated knife/edge 锯齿状刀子/边缘
+2 withstand v. 反抗；经受
+5 scheme n. 阴谋；（作品等）体系，结构
+3 recourse n. 求助，依靠
+3 chastisement n. 惩罚
+6 plump adj. 丰满的 v. 使丰满，使变圆
+2 persist v. 坚持不懈，执意；坚持问，不停地说；长存
+4 tepid adj. 微温的；不热情的
+2 dormant adj. 冬眠的；静止的
+5 scramble v. 攀登；搅乱，使混杂；争夺
+5 reprimand v./n. 训诫，谴责
+3 dilapidated adj. 破旧的，毁坏的
+3 persevere v. 坚持不懈
+4 trickle v. 细细地流 n. 细流
+2 enthral v. 迷惑
+2 digressive adj. 离题的，枝节的 digressive remarks 离题的言论
+3 capricious adj. 变化无常的，任性的
+5 overwrought adj. 紧张过度的，兴奋过度的
+8 recuperate v. 恢复（健康、体力），复原
+2 stride v. 大步行走
+2 embezzlement n. 贪污，盗用
+3 wistful adj. 惆怅的，渴望的
+4 reclaim v. 纠正，改造；开垦（土地）
+4 scrappy adj. 碎片的；好斗的；坚毅的
+9 infertile adj. 贫瘠的，不结果实的
+==================
