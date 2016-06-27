@@ -33,3 +33,13 @@ vegetation n. 植被；植物，草木；呆板单调的生活
 class-ridden 充满阶级分化的
 plutocratic adj. 富豪的；财阀的；有钱有势的
 upheaval n. 剧变；隆起；举起
+carnivore n. 食肉动物
+herbivore n. 食草动物
+arousal n. 激励；觉醒
+converge vt. 使汇聚 vi. 聚集；靠拢；收敛
+marvelously adv. 令人惊讶地;不可思议地;妙极地
+adrenaline n. <生化>肾上腺素 <喻>刺激物；激励因素 一阵兴奋(或激动)
+norepinephrine n. 降肾上腺素,去甲肾上腺素
+trail n. 小径
+prey vi. 捕食；掠夺；折磨 n. 捕食；牺牲者；被捕食的动物
+endocrine adj. 内分泌(腺)的, 激素的
