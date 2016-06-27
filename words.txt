@@ -1693,3 +1693,126 @@
 1 xenophobic adj. 恐外的，恐惧外国人的
 1 yearn v. 盼望，渴望
 1 zenith n. 天顶；极点
+1 abase v. 降低…的地位，贬抑
+1 abash v. 使羞愧，使尴尬
+1 abdicate v. 退位；放弃
+1 abhorrent adj. 可恨的，讨厌的
+1 abject adj. 极可怜的；卑下的
+1 abjure v. 发誓放弃
+1 abnegate v. 否认，放弃
+1 abnegation n. 放弃；自我牺牲
+1 abominate v. 痛恨；延误
+1 abortive adj. 无结果的，失败的
+1 abound v. 大量存在；充满，富于
+1 aboveboard adj./adv. 光明正大的（地）
+1 abrogate v. 废除，废止
+1 abrupt adj. 突然的，意外的；唐突的
+1 abscond v. 潜逃，逃亡
+1 absolve v. 免除，赦免
+1 abstemious adj. 有节制的，节俭的
+1 abstention n. 戒除；弃权 abstain v. 禁绝，放弃
+1 abstentious adj. 有节制的
+1 abstinent adj. 饮食有度的，有戒指的，禁欲的
+1 acarpous adj. 不结果实的
+1 accessory adj. 附属的，次要的
+1 acclaim n./v. 欢呼，称赞 universal acclaim 普遍赞誉；广受好评
+1 acclimate v. （使）服水土；（使）适应
+1 accolade n. 推崇；赞扬
+1 accomplished adj. 完成了的；有技巧的
+1 accost v. 搭话
+1 accountability n. 有责任
+1 accrete v. 拙见增长；添加生长；连生
+1 acedia n. 无精打采的样子；懒惰
+1 acquiesce v. 勉强同意，默许
+1 acquisitive adj. 渴望得到的，贪婪的
+1 acquit v. 宣告无罪；脱卸义务和责任；还清（债务）
+1 acrid adj. 辛辣的，刻薄的
+1 acrobat n. 特技演员，杂技演员
+1 acuity n. （尤指思想或感官）敏锐
+1 acumen n. 敏锐，精明
+1 additive n. 添加剂
+1 addle v. 使腐坏；使混乱
+1 adduce v. 给予（理由）；举出（例证）
+1 adherent n. 拥护者，信徒
+1 adjourn v. （使）延期，（使）推迟；（使）体会
+1 adjudicate v. 充当裁判；判决
+1 adjunct n. 附加物，附件
+1 adroit adj. 熟练的，灵巧的
+1 adulterate v. 掺杂，掺假 adj. 掺杂的，掺假的
+1 advent n. 到来，来临
+1 adventitious adj. 偶然的
+1 advert v. 注意，留意；提及
+1 aerate v. 充气，让空气进入
+1 aerial adj. 空中的，空气的
+1 affected adj. 不自然的；假装的
+1 affiliate v. 时隶属于；追溯…的来源；联合 n. 成员，附属机构
+1 affiliation n. 联系，联合
+1 affix v. 黏上，贴上；（尤指在末尾）添上 n. 词缀
+1 aftermath n. 后果，余波
+1 agape adj./adv. （嘴）大张着的（地）
+1 agenda n. 议程
+1 aggregate v. 集合；合计
+1 aggrieve v. 使受委屈，使痛苦
+1 agnostic adj. 不可知论的 n. 不可知论者
+1 agog adj. 兴奋的，有强烈兴趣的 agog 可以作词根，意为“引导”，如： demagog n. 煽动者
+1 agreeable adj. 令人愉快的；欣然同意的
+1 ague n. 冷颤，发冷
+1 ail v. 生病
+1 airtight adj. 密闭的，不透气的
+1 albeit conj. 虽然，尽管
+1 aleatory adj. 侥幸的，偶然的
+1 allay v. 减轻，缓和
+1 allergic adj. 过敏的；对…讨厌的
+1 alleviate v. 减轻，缓和
+1 allowance n. 津贴，补助；承认，允许
+1 alluring adj. 吸引人的，迷人的 allure v. 引诱
+1 amalgamate v. 合并；混合 amalgam n. 混合物
+1 amass v. 积聚
+1 ambience n. 环境，气氛
+1 ambush n. 埋伏；伏击 v. 埋伏
+1 amity n. （人们或国家之间的）友好关系
+1 amnesia n. 健忘症
+1 amnesty n. 大赦，特赦
+1 ample adj. 富足的；充足的
+1 amuse v. 使愉快，逗某人笑
+1 analgesia n. 无痛觉，痛觉丧失
+1 ancillary adj. 辅助的 n. 助手
+1 anesthetic adj. 麻醉的；麻木的 n. 麻醉剂
+1 animadvert v. 苛责，非难
+1 animate adj. 活的，有生命的 v. 赋予生命
+1 animation n. 兴奋，活跃
+1 animus n. 敌意，憎恨
+1 anneal v. 使（金属、玻璃等）退火；使加强，使变硬
+1 annihilate v. 消灭
+1 annul v. 宣告无效；取消
+1 anonymity n. 无名，匿名
+1 antecedence n. 居先，先行
+1 anthem n. 圣歌；赞美诗；国歌
+1 antic adj. 古怪的
+1 anvil n. 铁砧
+1 aplomb n. 沉着，镇静
+1 apocryphal adj. 假冒的，虚假的
+1 apostate n. 背教者；变节者
+1 appeal v. 恳求；有吸引力；上诉
+1 appraise v. 评价，鉴定
+1 apprentice n. 学徒
+1 apron n. 围裙
+1 apt adj. 易于…的；恰当的
+1 aquiline adj. 鹰的，似鹰的
+1 arbitrate v. 仲裁，公断
+1 ardent adj. 热心的，热烈的
+1 aroma n. 芳香，香气
+1 arouse v. 唤醒；激发
+1 arraign v. 传讯；指责
+1 arrant adj. 完全的，彻底的；极坏的，臭名昭著的
+1 array v. 部署 n. 陈列；大批
+1 arson n. 纵火（罪）
+1 artifice n. 巧妙办法；诡计
+1 ashen adj. 灰色的，苍白的
+1 asinine adj. 愚笨的
+1 askance adv. 斜视地
+1 askew adj./adv. 歪斜的（地）
+1 aspersion n. 诽谤，中伤
+1 aspirant n. 有抱负者
+1 assault n. 突袭；猛袭
+1 assemble v. 集合，聚集；装配，组装
