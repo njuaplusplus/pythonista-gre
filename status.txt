@@ -2767,3 +2767,37 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 137
 4 scrappy adj. 碎片的；好斗的；坚毅的
 9 infertile adj. 贫瘠的，不结果实的
 ==================
+20160627 09:31:55
+Err: 30, recited: 136, total: 1695
+Shuffled: False, err_times_threshold: 0,  reciting_length: 136
+2 disparage v. 贬低，轻蔑
+7 quash v. 镇压；（依法）取消
+4 stately adj. 庄严的，堂皇的；宏伟的
+4 nurture v. 养育，教养 n. 养育；营养物
+4 particulate adj. 微粒的 n. 微粒
+2 damped adj. 潮湿的；减震的，压低（声音）的
+4 stocky adj. （人或动物）矮而结实的，粗壮的 stock n. 树桩
+3 entrenched adj. （权利、传统）确立的，牢固的
+4 overt adj. 公开的，非秘密的
+2 crumple v. 把…弄皱；起皱；破裂
+5 sobriety n. 节制；庄重
+2 prudent adj. 审慎的；精明的；节俭的，精打细算的
+4 supplant v. 排挤，取代
+2 deplore v. 悲悼，哀叹；谴责
+4 tenacious adj. 坚韧的，顽强的
+2 clutter v. 弄乱 n. 零乱
+9 inane adj. 无意义的，空洞的；愚蠢的
+2 trepidation n. 恐惧，惶恐
+3 ungainly adj. 笨拙的
+2 deride v. 嘲笑，愚弄
+7 palpable adj. 可触知的，可察觉的；明显的
+5 rival n. 竞争者，对手 v. 竞争，与…匹敌
+9 fret v. （使）烦躁，焦虑 n. 烦躁焦虑
+3 cordiality n. 诚恳，热诚
+2 encroach v. 侵占，蚕食
+2 domineer v. 压制
+2 depreciate v. 轻视；贬值
+5 squander v. 浪费，挥霍
+6 replete adj. 充满的，供应充足的
+2 discharge v. 排出，流出；释放；解雇；履行义务；放电
+==================
