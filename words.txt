@@ -1701,7 +1701,7 @@
 1 abjure v. 发誓放弃
 1 abnegate v. 否认，放弃
 1 abnegation n. 放弃；自我牺牲
-1 abominate v. 痛恨；延误
+1 abominate v. 痛恨；厌恶
 1 abortive adj. 无结果的，失败的
 1 abound v. 大量存在；充满，富于
 1 aboveboard adj./adv. 光明正大的（地）
@@ -1712,7 +1712,7 @@
 1 abstemious adj. 有节制的，节俭的
 1 abstention n. 戒除；弃权 abstain v. 禁绝，放弃
 1 abstentious adj. 有节制的
-1 abstinent adj. 饮食有度的，有戒指的，禁欲的
+1 abstinent adj. 饮食有度的，有节制的，禁欲的
 1 acarpous adj. 不结果实的
 1 accessory adj. 附属的，次要的
 1 acclaim n./v. 欢呼，称赞 universal acclaim 普遍赞誉；广受好评
@@ -1721,7 +1721,7 @@
 1 accomplished adj. 完成了的；有技巧的
 1 accost v. 搭话
 1 accountability n. 有责任
-1 accrete v. 拙见增长；添加生长；连生
+1 accrete v. 逐渐增长；添加生长；连生
 1 acedia n. 无精打采的样子；懒惰
 1 acquiesce v. 勉强同意，默许
 1 acquisitive adj. 渴望得到的，贪婪的
@@ -1734,7 +1734,7 @@
 1 addle v. 使腐坏；使混乱
 1 adduce v. 给予（理由）；举出（例证）
 1 adherent n. 拥护者，信徒
-1 adjourn v. （使）延期，（使）推迟；（使）体会
+1 adjourn v. （使）延期，（使）推迟；（使）休会
 1 adjudicate v. 充当裁判；判决
 1 adjunct n. 附加物，附件
 1 adroit adj. 熟练的，灵巧的
@@ -1745,7 +1745,7 @@
 1 aerate v. 充气，让空气进入
 1 aerial adj. 空中的，空气的
 1 affected adj. 不自然的；假装的
-1 affiliate v. 时隶属于；追溯…的来源；联合 n. 成员，附属机构
+1 affiliate v. 使隶属于；追溯…的来源；联合 n. 成员，附属机构
 1 affiliation n. 联系，联合
 1 affix v. 黏上，贴上；（尤指在末尾）添上 n. 词缀
 1 aftermath n. 后果，余波
