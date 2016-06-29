@@ -17,6 +17,7 @@ BUTTON_EXIT_NAME = 'button_exit'
 BUTTON_MENU_START_NAME = 'button_menu_start'
 BUTTON_MENU_EXIT_NAME = 'button_menu_exit'
 BUTTON_SPEAK_NANE = 'button_speak'
+BUTTON_REMOVE_NAME = 'button_remove'
 TEXTFIELD_ERR_TIMES_THRESHOLD = 'textfield_err_times_threshold'
 TEXTFIELD_MAX_RECITING = 'textfield_max_reciting'
 SWITCH_SHUFFLE = 'switch_shuffle'
@@ -93,6 +94,8 @@ def button_tapped(sender):
 		error_view.present(orientations=['portrait'], hide_title_bar=True)
 		error_view.wait_modal()
 		return
+	elif button_name == BUTTON_REMOVE_NAME:
+		sender.superview.recite.remove_familiar()
 	sender.superview[BUTTON_RIGHT_NAME].enabled = False
 	sender.superview[BUTTON_ERROR_NAME].enabled = False
 	word = sender.superview.recite.pickone()

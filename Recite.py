@@ -8,6 +8,7 @@ class Recite (object):
 		self.words = []
 		self.reciting_words = []
 		self.err_words = []
+		self.familiar_words = []
 		self.current_index = -1
 		self.shuffled = False
 		self.err_times_threshold = 0
@@ -34,6 +35,8 @@ class Recite (object):
 		try:
 			with open(filename, 'w') as data:
 				data.writelines([str(w) for w in self.words])
+			with open('familiar_words.txt', 'a') as data:
+				data.writelines([str(w) for w in self.familiar_words])
 		except IOError as err:
 			print('File error: ' + str(err))
 		try:
@@ -85,6 +88,9 @@ class Recite (object):
 		self.err_times_threshold = err_times_threshold
 		self.reciting_words = [w for w in self.reciting_words if w.err_times >= err_times_threshold]
 		
+	def remove_familiar(self):
+		self.familiar_words.append(self.current_word())
+		self.words.remove(self.current_word())
 if __name__ == '__main__':
 	recite = Recite('words.txt')
 	recite.save('output.txt')

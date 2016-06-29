@@ -2801,3 +2801,85 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 136
 6 replete adj. 充满的，供应充足的
 2 discharge v. 排出，流出；释放；解雇；履行义务；放电
 ==================
+20160629 08:43:05
+Err: 33, recited: 139, total: 1818
+Shuffled: False, err_times_threshold: 0,  reciting_length: 139
+2 circumstantial adj. 不重要的，偶然的；描述详细的
+2 claustrophobic adj. （患）幽闭恐怖症的，导致幽闭恐怖症的
+2 discredit v. 怀疑 n. 丧失名誉
+9 renounce v. 声明放弃；拒绝，否认
+3 topple v. 倾覆，推倒
+5 sanitary adj. （有关）卫生的，清洁的
+5 impunity n. 免受惩罚
+3 surrogate n. 代替品；代理人
+4 solicit v. 恳求；教唆
+7 narcotic n. 麻醉剂 adj. 麻醉的，催眠的
+2 convertible adj. 可转换的 n. 敞篷车
+2 distraught adj. 心神狂乱的，发狂的；心烦意乱的
+3 spectrum n. 光谱；防伪
+3 conscientious adj. 尽责的；小心谨慎的
+3 solicitous adj. 热切的；挂念的 be solicitous of/for/about... 为…操心
+5 indulgent adj. 放纵的，纵容的
+2 elapse v. 消逝，过去 n. 消逝
+2 devious adj. 不坦诚的；弯曲的，迂回的
+5 perfidious adj. 不忠的，背信弃义的
+3 defecate v. 澄清；净化
+5 supple adj. 柔软的，灵活的；柔顺的，顺从的
+3 residual n. 剩余，残余 adj. 残余的，剩余的
+5 vent v. 发泄（感情，尤指愤怒）；开孔 n. 孔，口
+4 slipshod adj. 马虎的，草率的
+2 ancillary adj. 辅助的 n. 助手
+3 stagnant adj. 停滞的 stagnate v. 停滞 stagnation n. 停滞
+6 pejorative adj. 轻视的，贬低的
+2 complacent adj. 自满的，随意的
+5 stodgy adj. 乏味的
+2 commingle v. 掺和，混合
+2 dissect v. 解剖；剖析
+2 thatch v. 以茅草覆盖 n. 茅草屋顶；茅草
+3 vicissitude n. 变迁，兴衰
+==================
+20160629 12:38:12
+Err: 0, recited: 0, total: 1818
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+==================
+20160629 12:42:21
+Err: 0, recited: 0, total: 1818
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+==================
+20160629 12:47:40
+Err: 0, recited: 0, total: 1818
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+==================
+20160629 12:52:58
+Err: 0, recited: 0, total: 1818
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+==================
+20160629 12:54:05
+Err: 0, recited: 0, total: 1818
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+==================
+20160629 12:55:00
+Err: 0, recited: 1, total: 1818
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+==================
+20160629 12:55:51
+Err: 0, recited: 0, total: 1818
+Shuffled: False, err_times_threshold: 0,  reciting_length: 100
+==================
+20160629 14:17:02
+Err: 3, recited: 9, total: 1818
+Shuffled: False, err_times_threshold: 0,  reciting_length: 103
+1 raisin n. 葡萄干
+2 voluntary adj. 自愿的，志愿的
+2 arson n. 纵火（罪）
+==================
+20160629 14:24:22
+Err: 6, recited: 15, total: 1817
+Shuffled: False, err_times_threshold: 0,  reciting_length: 106
+3 tantamount adj. 同等的，相当于
+3 overawe v. 威慑
+2 echo n. 回声；反响；共鸣 v. 回荡，回响；重复，模仿 an echo of… 对…共鸣
+3 intrepid adj. 勇敢的，刚毅的
+3 curt adj. （言词、行为）简略而草率的
+3 whittle v. 削（木头）；削减
+==================
