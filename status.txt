@@ -2883,3 +2883,118 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 106
 3 curt adj. （言词、行为）简略而草率的
 3 whittle v. 削（木头）；削减
 ==================
+20160701 10:19:19
+Err: 4, recited: 20, total: 1813
+Shuffled: False, err_times_threshold: 0,  reciting_length: 104
+6 impassive adj. 无动于衷的，冷漠的
+4 sarcastic adj. 讽刺的
+3 sentimentalize v. （使）感伤
+3 underhanded adj. 秘密的，狡诈的
+==================
+20160702 14:21:18
+Err: 23, recited: 53, total: 1809
+Shuffled: False, err_times_threshold: 0,  reciting_length: 123
+3 taunt n./v. 嘲笑，讥讽
+6 prudish adj. 过分守礼的，假道学的
+2 mural adj. 墙壁的 n. 壁画
+2 uncommunicative adj. 不爱说话的，拘谨的
+9 mundane adj. 献世的，世俗的；平凡的，普通的
+2 absolve v. 免除，赦免
+5 stagger v. 蹒跚，摇晃
+2 definitive adj. 明确的，有权威的；最终的
+2 dogmatist n. 独断家，独断论者 dogma n. 教条，信条，武断的意见
+3 veer v. 转向，改变（话题等）
+2 culminate v. 到达顶点；使到达最高点
+2 surrender v. 投降；放弃；归还
+4 preservative adj. 保护的；防腐的 n. 防腐剂 preserve（v. 保护；保存）
+10 grating adj. （声音）刺耳的；恼人的
+2 distinct adj. 清楚的，明显的
+3 elapse v. 消逝，过去 n. 消逝
+3 sentient adj. 有知觉的
+2 constitution n. 宪法；体质
+3 indolent adj. 懒惰的
+9 poise v. 使平衡 n. 泰然自若，沉着自信
+3 scour v. 冲刷；擦掉；四处搜索
+2 drab adj. 黄褐色的；单调的，乏味的
+2 annihilate v. 消灭
+==================
+20160704 15:53:19
+Err: 12, recited: 30, total: 1806
+Shuffled: False, err_times_threshold: 0,  reciting_length: 112
+5 torpid adj. 懒散的，迟钝的
+2 drone v. 嗡嗡地响；单调地说 n. 单调的低音
+2 cavil v. 挑毛病，吹毛求疵
+2 abrupt adj. 突然的，意外的；唐突的
+14 impertinent adj. 不切题的；无礼的，莽撞的
+8 parody n. 拙劣的模仿；滑稽模仿作品或表演
+6 profligacy n. 放荡；肆意挥霍
+4 valorous adj. 勇敢的
+2 dilate v. 使膨胀，使扩大
+2 regimental adj. 团的，团队的 regiment n. 团；大量
+2 demobilize v. 遣散，使复员
+5 judicious adj. 有判断力的；审慎的
+==================
+20160705 15:36:03
+Err: 30, recited: 142, total: 1783
+Shuffled: False, err_times_threshold: 0,  reciting_length: 142
+6 squander v. 浪费，挥霍
+2 dismember v. 肢解；分割
+2 communal adj. 全体共用的，共享的
+5 sycophant n. 马屁精
+4 anvil n. 铁砧
+2 entice v. 引诱
+4 buttress n. 拱墙，拱璧 v. 支持
+3 tout v. 招徕顾客；极力赞扬
+4 dilapidated adj. 破旧的，毁坏的
+3 tined adj. 尖端的 tine n. 叉尖，尖端
+5 crater n. 火山口；弹坑
+7 inure v. 使习惯于
+3 devour v. 狼吞虎咽地吃，吞食；贪婪地看（听、读等）
+2 deft adj. 灵巧的，熟练的
+10 inert adj. 惰性的；呆滞的，迟缓的
+4 untainted adj. 无污点的
+9 impugn v. 提出异议，对…表示怀疑
+3 inflexible adj. 坚定的，不屈不挠的；不可弯曲的
+10 renounce v. 声明放弃；拒绝，否认
+2 allowance n. 津贴，补助；承认，允许
+3 phlegmatic adj. 冷淡的，不动感情的
+3 definitive adj. 明确的，有权威的；最终的
+2 unidimensional adj. 一维的
+3 provisional adj. 暂时的，临时的
+8 noisome adj. 有恶臭的；令人作呕的，令人讨厌的
+3 voluble adj. 健谈的；易旋转的
+3 elude v. 逃避；搞不清，理解不了
+2 embroider v. 刺绣，镶边；装饰
+4 astute adj. 机敏的，精明的
+4 steadfast adj. 忠实的；不动的，不变的
+==================
+20160705 16:33:06
+Err: 26, recited: 132, total: 1770
+Shuffled: False, err_times_threshold: 0,  reciting_length: 132
+3 anneal v. 使（金属、玻璃等）退火；使加强，使变硬
+4 ague n. 冷颤，发冷
+4 censorious adj. 挑剔的
+2 vogue n. 时尚，流行
+2 adjourn v. （使）延期，（使）推迟；（使）休会
+2 embellish v. 装饰，美化
+3 emancipate v. 解放，释放
+5 prodigious adj. 巨大的；惊人的，奇异的
+13 pestilential adj. 引起瘟疫的，致命的；<口>极讨厌的
+2 epic n. 叙事诗，史诗 adj. 史诗的，叙事诗的；英雄的；大规模的
+1 inform v. 对…有影响；使活跃，使有生气；告诉，通知
+3 dossier n. 卷宗，档案
+2 drudgery n. 苦工，苦活 drudge v. 做苦工
+2 underscore v. 在…下面划线；强调
+2 spineless adj. 没骨气的，懦弱的；无脊椎的
+5 sultry adj. 闷热的；（人）风骚的
+2 reparation n. 赔偿，补偿
+2 reactionary adj. 极端保守的，反动的
+3 uncommunicative adj. 不爱说话的，拘谨的
+2 concomitant adj. 伴随的
+2 mythic adj. 神话的；虚构的
+2 transitoriness n. 暂时，短暂 transitory adj. 短暂的
+2 divisive adj. 引起分歧的，导致分裂的
+2 aerate v. 充气，让空气进入
+10 moratorium n. 延缓偿付；活动中止
+3 tribulation n. 苦难， 忧患
+==================

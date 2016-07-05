@@ -1,1 +1,48 @@
 2 pitcher n. 有柄水罐
+0 frivolous adj. 轻浮的
+1 hive n. 蜂房，蜂巢；热闹的场所
+2 institute v. 设立，创立（社团等）；制定（制度等） n. 学院，学会，协会
+3 presume v. 推测，假定；认定
+1 nonradioactive adj. 非放射性的
+1 munificent adj. 慷慨的
+0 fortify v. 加强，巩固
+3 fumigate v. 用烟熏消毒
+1 rage n. 盛怒 v. 狂怒，大发雷霆
+0 fecund adj. 肥沃的，多产的；创造力旺盛的
+1 pinpoint v. 准确地确定；使突出，引起注意 adj. 极精确的
+0 exposition n. 阐释；博览会
+2 roam v. 漫游，漫步
+1 spiritedness n. 有精神，活泼
+0 forested adj. 树木丛生的
+1 motif n. （文艺作品等的）主题，主旨
+1 taxing adj. 繁重的 tax v. 向…征税；使负重担
+1 misogyny n. 厌恶女人
+3 plot n. 情节；阴谋 v. 密谋，策划
+0 inexcusable adj. 不可原谅的
+0 impassable adj. 不能通行的
+3 formidable adj. 令人畏惧的；难以克服的
+1 undeserving adj. 不值得的
+0 flamboyant adj. 艳丽的，显眼的，炫耀的
+10 gluttonous adj. 贪吃的
+0 ferment v. 使发酵；（使）激动，（使）动乱 n. 发酵；骚动
+1 nonconformist adj. 不墨守成规的 n. 不墨守成规的人
+0 farce n. 闹剧，滑稽剧；可笑的行为，荒唐的事情
+1 publicize v. （公开）宣传，宣扬；引人注意
+1 obliterate v. 涂掉，擦掉
+0 formulaic adj. 公式的，刻板的
+1 floral adj. 花的，植物的
+1 hospitable adj. 热情好客的；易接受的
+0 prosaic adj. 散文（体）的；单调的，无趣的
+4 overbear v. 压倒；镇压；比…更重要，超过
+1 pivotal adj. 中枢的；关键的
+1 alleviate v. 减轻，缓和
+1 exorbitant adj. 过分的，过度的
+1 suffrage n. 选举权，投票权
+0 revere v. 尊敬
+1 untouched adj. 未触动过的，未改变的
+0 iconoclastic adj. 偶像破坏的，打破旧习的
+1 hypocritical adj. 虚伪的，伪善的
+2 graphic adj. 图表的；生动的
+1 vital adj. 极其重要的；充满活力的 vitality n. 活力，精力；生命力
+1 notorious adj. 臭名昭著的
+1 nonentity n. 无足轻重的人或事
