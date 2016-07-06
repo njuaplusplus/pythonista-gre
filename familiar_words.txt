@@ -46,3 +46,10 @@
 1 vital adj. 极其重要的；充满活力的 vitality n. 活力，精力；生命力
 1 notorious adj. 臭名昭著的
 1 nonentity n. 无足轻重的人或事
+0 iconoclasm n. 破坏偶像的理论，打破旧习
+1 benefactor n. 行善者，捐助者
+1 fortitude n. 坚毅，坚韧不拔
+2 persist v. 坚持不懈，执意；坚持问，不停地说；长存
+1 potshot n. 盲目射击；肆意抨击 v. 肆意抨击
+1 therapeutic adj.治疗的
+1 strip v. 剥去 n. 狭长的一片

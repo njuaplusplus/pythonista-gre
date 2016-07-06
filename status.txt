@@ -2998,3 +2998,51 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 132
 10 moratorium n. 延缓偿付；活动中止
 3 tribulation n. 苦难， 忧患
 ==================
+20160706 08:53:42
+Err: 39, recited: 151, total: 1763
+Shuffled: False, err_times_threshold: 0,  reciting_length: 151
+4 headstrong adj. 刚愎自用的
+3 trite adj. 陈腐的，陈词滥调的
+3 culpable adj. 有罪的，该受谴责的
+4 parable n. 寓言
+4 domesticated adj. 驯养的，家养的
+2 scale n. 鱼鳞；音阶；刻度；比例；数值范围 v. 攀登；测量
+3 debauch v. 使堕落，败坏 n. 堕落
+15 piercing adj. 冷的刺骨的；敏锐的
+3 stronghold n. 要塞；堡垒，根据地
+4 defecate v. 澄清；净化
+3 digressive adj. 离题的，枝节的 digressive remarks 离题的言论
+2 impromptu /ɪm’prɑmptu/ adj. 即兴的
+2 transmute v. 变化
+3 demobilize v. 遣散，使复员
+2 ambush n. 埋伏；伏击 v. 埋伏
+7 sully v. 玷污，污染
+2 understate v. 保守地说，轻描淡写地说 understated adj. 轻描淡写的，低调的
+9 gush v. 涌出，迸出；滔滔不绝地说 n. 涌出，迸发
+4 deplore v. 悲悼，哀叹；谴责
+9 inadvertent adj. 疏忽的；不经意的，无心的
+3 dilatory adj. 慢慢吞吞的，磨蹭的
+5 volatile adj. 反复无常的；易挥发的
+7 observant adj. 密切注意的，警惕的；遵守的，遵从的；敏锐的
+3 querulous adj. 抱怨的，爱发牢骚的
+2 subsist v. 生存下去；继续存在；维持生活
+2 stellar adj. 星的，星球的
+2 aquiline adj. 鹰的，似鹰的
+2 adherent n. 拥护者，信徒
+9 keen adj. 锋利的，锐利的；敏锐的，灵敏的；热心的
+2 conceive v. 想象，构想；怀孕
+6 restitution n. 归还；赔偿
+4 vitiate v. 削弱，损害
+3 advent n. 到来，来临
+2 confound v. 使迷惑，搞混
+3 derogatory adj. 不敬的，贬损的
+3 abscond v. 潜逃，逃亡
+2 anthem n. 圣歌；赞美诗；国歌
+3 assiduous adj. 勤勉的；专心的
+6 murky adj. 黑暗的，昏暗的；朦胧的 murk （n. 黑暗，昏暗）
+==================
+20160706 09:24:33
+Err: 1, recited: 1, total: 1763
+Shuffled: False, err_times_threshold: 0,  reciting_length: 101
+4 ascetic adj. 禁欲的 n. 苦行者 asceticism n. 禁欲主义
+==================
