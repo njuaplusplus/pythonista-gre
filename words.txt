@@ -1761,3 +1761,242 @@
 1 aspirant n. 有抱负者
 1 assault n. 突袭；猛袭
 1 assemble v. 集合，聚集；装配，组装
+1 assoil v. 赦免，释放，补偿
+1 atrocious adj. 残忍的，凶恶的
+1 attire v. 使穿衣；打扮 n. 盛装，服装
+1 augury n. 占卜术；预兆
+1 autocracy n. 独裁政府
+1 autocrat n. 独裁者
+1 aver v. 极力声明；断言；证实
+1 aversion n. 厌恶，反感 aversion toward sb./sth.
+1 avert v. 避免，防止；转移
+1 awry adj. 扭曲的，走样的
+1 badger n. 獾 v. 烦扰，纠缠不休
+1 badinage n. 玩笑，打趣
+1 bait n. 诱饵 v. 逗弄；激怒
+1 balderdash n. 胡言乱语，废话
+1 bale n. 大包，大捆；灾祸，不幸
+1 ballot n./v. 投票
+1 ballyhoo n. 喧闹，呐喊 v. 大肆宣传，大吹大擂
+1 bamboozle v. 欺骗，隐瞒
+1 bar v. 禁止，阻挡 n. 条，棒；酒吧
+1 bare v. 暴露 adj. 赤裸的
+1 barefaced adj. 厚颜无耻的
+1 barrister n. 出庭律师；律师
+1 barter v. 易货贸易
+1 bawl v. 大叫，大喊
+1 bazaar n. 集市，市场
+1 beacon n. 烽火；灯塔
+1 beam n. （房屋等的）大梁；光线
+1 bearing n. 关系，意义
+1 beatific adj. 幸福的，快乐的
+1 beckon v. 召唤，示意
+1 bedraggled adj. （衣服、头发等）弄湿的；凌乱不堪的
+1 befoul v. 弄脏，诽谤
+1 befuddle v. 使迷惑不解；使酒醉昏迷
+1 beget v. 产生，引起
+1 begrudge v. 吝啬，勉强给
+1 behold v. 注释，看见
+1 beholden adj. 蒙恩的；欠人情的
+1 behoove v. 理应，有必要
+1 belabor v. 过分冗长地说或做；痛打
+1 bellow v. 咆哮；吼叫
+1 berate v. 猛烈责骂
+1 berserk adj. 狂怒的，狂暴的
+1 beseech v. 恳求
+1 besmirch v. 诽谤
+1 besot v. 使沉醉，使糊涂
+1 betoken v. 预示，表示
+1 bicker v. 争吵，口角
+1 bid v. 命令；出价，投标
+1 bide v. 等待，逗留
+1 bifurcate v. 分为两支，分叉
+1 bigot n. （宗教、政治等的）顽固盲从者；偏执者
+1 bile n. 胆汁；愤怒
+1 bilk v. 躲债；骗取
+1 blackball v. 投票反对；排斥
+1 blanch v. 使变白；使（脸色）苍白
+1 blandishment n. 奉承，讨好 blandish v. 讨好
+1 blare v. 高声发出
+1 blase adj. 厌倦享乐的，玩厌了的
+1 blasphemy n. 亵渎（神明）
+1 blather v. 喋喋不休地胡说，唠叨
+1 bleak adj. 寒冷的；阴沉的；阴郁的，暗淡的
+1 blear v. 使模糊 adj. 模糊的
+1 bleary adj. 视线模糊的，朦胧的；精疲力尽的
+1 blemish v. 损害；玷污 n. 瑕疵，缺点
+1 bliss n. 狂喜，极乐；福气，天赐之福
+1 bloated adj. 肿胀的；傲慢的
+1 blockade v./n. 封锁
+1 blockage n. 障碍物
+1 blooming adj. 开着花的；旺盛的 bloom n. 花 v. 开花
+1 blossom n. 花 v. （植物）开花
+1 blunt adj. 钝的；直率的 v. 使迟钝
+1 bob v. 轻拍，轻扣；使上下快速摆动
+1 bode v. 预示
+1 boding n. 凶兆，前兆，预感 adj. 凶兆的，先兆的
+1 boggle v. 犹豫；退缩
+1 bombast n. 高调，夸大之辞 bombastic
+1 bondage n. 奴役，舒服
+1 bonhomie n. 好性情，和蔼
+1 bonny adj. 健美的，漂亮的
+1 boo v. 发出嘘声 int. （表示不满，轻蔑等）嘘
+1 boom n. 繁荣 v. 发出隆隆声
+1 boor n. 粗野之人；农民
+1 boreal adj. 北方的，北风的
+1 bouffant adj. 蓬松的；鼓胀的
+1 bough n. 大树枝
+1 bouncing adj. 活泼的；健康的
+1 bounteous adj. 慷慨的；丰富的
+1 bouquet n. 花束；芳香
+1 bovine adj. （似）牛的；迟钝的
+1 bowdlerize v. 删除，删改
+1 brace v. 支撑，加固 n. 支撑物
+1 bracelet n. 手镯，臂镯
+1 bracing adj. 令人振奋的
+1 brackish adj. 微咸的；难吃的
+1 brag v. 吹嘘
+1 braise v. 炖，蒸
+1 brat n. 孩子；顽童
+1 brattish adj. （指小孩）讨厌的，被宠坏的，无礼的
+1 bray v. 大声而刺耳地发出（叫唤或声音）
+1 brew v. 酿酒；沏茶，煮咖啡；酝酿，即将发生
+1 bride v. 贿赂
+1 bridle n. 马笼头 v. 抑制，控制
+1 brisk adj. 敏捷的，活泼的；清新健康的
+1 bristling adj. 竖立的
+1 brittle adj. 易碎的，脆弱的
+1 brochure n. 小册子，说明书
+1 bromide n. 庸俗的人；陈词滥调；镇静剂，安眠药
+1 browbeat v. 欺辱；吓唬
+1 browse v. 吃草；浏览 n. 嫩叶；嫩芽
+1 bruise v. 受伤，擦伤 cruise v. 乘船巡游
+1 bruit v. 散布（谣言） bring u it
+1 brusque adj. 唐突的，鲁莽的
+1 buck v. 反抗，抵制 n. 雄鹿；雄兔 <美俚> 元，钱
+1 bucolic adj. 乡村的；模样的 bucolic serenity 乡村的宁静
+1 buffet v. 反复敲打；连续打击
+1 buffoon n. 丑角；愚蠢的人
+1 bulge n./v. 凸起，膨胀
+1 bullion n. 金条，银条
+1 bumble v. 说话含糊；拙劣地做
+1 bump v. 碰撞 n. 碰撞声
+1 bumptious adj. 傲慢的，自夸的
+1 bungle v. 笨拙地做
+1 buoy n. 浮标；救生圈 v. 支持，鼓励
+1 burlesque n. 讽刺或滑稽的戏剧，滑稽剧
+1 burnish v. 擦亮，磨光
+1 burrow v. 挖掘，钻进，翻寻 n. 地洞
+1 bust n. 半身（雕）像
+1 bustle v. 奔忙，忙乱 n. 喧闹，熙熙攘攘
+1 butt v. 用头抵撞，顶撞 n. 粗大的一端；烟蒂 butt in 插嘴；插手
+1 buxom adj. 体态丰满的
+1 cadence n. 抑扬顿挫；节奏，韵律
+1 cadet n. 军校或警官学校的学生 army cadets 军校学员
+1 cadge v. 乞讨；占便宜 cadge from/off
+1 cajole v. （以甜言蜜语）哄骗
+1 calibrate v. 量…口径；校准 calibre n. 口径
+1 callow adj. （鸟）未生羽毛的；（人）未成熟的
+1 calumniate v. 诽谤，中伤
+1 cameo n. 刻有浮雕的宝石；生动刻画；（演员）出演
+1 camouflage v. 掩饰，伪装 n. 伪装
+1 canard n. 谣言
+1 canary n. 金丝雀；女歌星
+1 canon n. 经典；标准
+1 canonical adj. 符合规定的；经典的
+1 canopy n. 蚊帐；华盖
+1 canorous adj. 音调优美的，有旋律的
+1 canvass v. 细查；拉选票
+1 canyon n .峡谷 gorge n. 山谷，峡谷 gully n. 溪谷，冲沟 ravine n. 峡谷，溪谷 valley n. 山谷
+1 capacious adj. 容量大的，宽敞的 capacity n. 容量；能力
+1 caper n./v. 雀跃，跳跃
+1 caprice n. 奇思怪想，反复无常，任性
+1 capsule n. 荚膜，蒴果；胶囊
+1 captivate v. 迷住，迷惑
+1 careen v. （船）倾斜；使倾斜
+1 caress n. 爱抚，抚摸 v. 爱抚或抚摸
+1 careworn adj. 忧心忡忡的，饱经忧患的
+1 cargo n. （船、飞机等装载的）货物
+1 carouse n. 狂欢寻乐
+1 carp n. 鲤鱼 v. 吹毛求疵
+1 carpenter n. 木匠
+1 carrion n. 腐肉
+1 casual adj. 偶然的；非正式的，随便的 casual conversations 闲谈
+1 catalog n. 目录；系列
+1 catharsis n. 宣泄，净化
+1 catholic adj. 普遍的，广泛的；宽容的 天主教
+1 caucus n. 政党高层会议
+1 caudal adj. 尾部的，像尾部的
+1 caulk v. 填塞（缝隙）使不漏水
+1 cauterize v. （用腐蚀性物质或烙铁）灼烧（表皮组织）以消毒或止血
+1 cavalry n. 骑兵部队，装甲部队
+1 cavort v. 腾跃，欢跃
+1 celerity n. 快速，迅速
+1 cello n. 大提琴 violin n. 小提琴 viola n. 中提琴
+1 cement n. 水泥；粘合剂 v. 粘合，巩固
+1 centrifugal adj. 离心的 centripetal adj. 向心的
+1 cephalic adj. 头的，头部的
+1 chaffing adj. 玩笑的，嘲弄的 chaff v. 开玩笑
+1 chameleon n. 变色龙，蜥蜴；善变之人
+1 chandelier n. 枝形吊灯（烛台）
+1 chant n. 圣歌 v. 歌唱，吟诵
+1 char v. 烧焦；把…烧成炭
+1 charade n. 猜字谜游戏 v. 凭动作猜字谜
+1 charm n. 魅力；咒语，咒符 v. 吸引，迷住
+1 chase v. 雕镂；追逐
+1 chaste adj. 贞洁的；朴实的
+1 chasten v. （通过惩罚而使坏习惯等）改正；磨炼
+1 chauvinistic adj. 沙文主义的，盲目爱国的
+1 checkered adj. 多变的 checker n. 棋盘花格或棋子
+1 cheeky adj. 无礼的，厚颜无耻的
+1 cherubic adj. 天使的，无邪的，可爱的 cherub n. 小天使
+1 chic adj. 漂亮的，时髦的
+1 chicanery n. 欺骗，欺诈
+1 chide v. 斥责，责骂
+1 chimera n. 神话怪物；梦幻
+1 chipmunk n. 花栗鼠
+1 chipper adj. 爽朗的，活泼的
+1 chirp v. （鸟或虫）唧唧叫 bark 狗叫 howl 狼嚎 blat 牛羊叫 roar 狮虎吼
+1 chisel n. 凿子 v. 凿
+1 choleric adj. 易怒的，暴躁的 choler n. 胆汁；愤怒
+1 choosy adj. 挑三拣四的，挑剔的
+1 chortle v. 开心地笑，咯咯地笑 n. 得意的笑 chuckle 轻声笑 giggle 咯咯笑 grin 咧嘴笑 guffaw 哄笑 simper 傻笑 smirk 假笑
+1 chronic adj. 慢性的，长期的 chronic illness 慢性病
+1 chuck v. 丢弃，抛弃；解雇；辞职
+1 churl n. 粗鄙之人
+1 ciliate adj. 有纤毛的；有睫毛的
+1 cinder n. 余烬，煤渣 cinderella 灰姑娘
+1 clairvoyance n. 超人的洞察力 clairvoyant adj. 透视的；有洞察力的
+1 clammy adj. 湿冷的，发粘的
+1 clandestine adj. 偷偷摸摸的，秘密的
+1 clash v. 冲突，撞击
+1 clasp n. 钩子，扣子；紧握
+1 cleft n. 裂缝 adj. 劈开的 cleave v. 劈开
+1 clement adj. 仁慈的；温和的 clement weather 温和的气候
+1 clench v. 握紧；咬紧（牙关等）
+1 clinch v. 钉牢；彻底解决
+1 cling v. 紧紧抓住；坚持 cling to 紧握不妨；坚持
+1 clot n. 凝块 v. 使凝结成块
+1 cloy v. （吃甜食）生腻，吃腻
+1 coagulate v. 使凝结 coagulation n. 凝结
+1 coda n. 乐曲结尾部
+1 coddle v. 溺爱；悉心照料
+1 coeval adj. 同时代的
+1 coffer n. 保险柜
+1 cogitate v. 慎重思考，思索
+1 cohesion n. 内聚力；凝聚力 group cohesion 团队凝聚力
+1 collage n. 拼贴画 区别 college n. 学院
+1 collate v. 对照，核对
+1 collision n. 碰撞，冲突 collide v. 冲撞
+1 colloquy n. （非正式的）交谈，会谈
+1 collude v. 串通，共谋
+1 colt n. 小雄马；新手
+1 coma n. 昏迷 go into/be in a coma
+1 comatose adj. 昏迷的 coma n. 昏迷
+1 comedienne n. 喜剧女演员；滑稽人物 comedy n. 喜剧
+1 comely adj. 动人的，美丽的
+1 comestible n. 食物 adj. 可吃的
+1 comeuppance n. 应得的惩罚，因果报应
+1 commemorate v. 纪念（伟人，大事件等）；庆祝
+1 commence v. 开始，着手
+1 commencement n. 开始；毕业典礼 commence v. 开始
