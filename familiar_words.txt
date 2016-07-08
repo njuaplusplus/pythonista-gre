@@ -53,3 +53,19 @@
 1 potshot n. 盲目射击；肆意抨击 v. 肆意抨击
 1 therapeutic adj.治疗的
 1 strip v. 剥去 n. 狭长的一片
+2 particularity n. 独特性
+5 obscurity n. 费解；不出名
+2 hoard v./n. 贮藏，秘藏
+2 claustrophobic adj. （患）幽闭恐怖症的，导致幽闭恐怖症的
+1 expository adj. 说明的 （exposit v. 说明，解释）
+8 facetious adj. 滑稽的，好开玩笑的
+0 humble adj. 卑微的；谦虚的 v. 使卑微
+1 patronizing adj. 以恩惠态度对待的，要人领情的
+2 molten adj. 熔融的，熔化的 melt（v. 融化，熔化）
+3 flabby adj. (肌肉等)不结实的，松弛的；意志力薄弱的 flaggy (adj.枯萎的) floppy (adj. 松软的)
+0 eschew v. 避开
+1 sculptural adj. 雕刻的；雕刻般的
+1 pharmaceutical adj. 制药的，卖药的 pharmacy （n. 药房；药剂学）
+1 plumb n. 铅垂 adj. 垂直的 adv. 精确地 v. 深入了解；测量深度
+2 contrite adj. 悔罪的，痛悔的 contrition n. 悔罪，痛悔
+2 pesticide n. 杀虫剂

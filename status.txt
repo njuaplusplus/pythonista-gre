@@ -3046,3 +3046,56 @@ Err: 1, recited: 1, total: 1763
 Shuffled: False, err_times_threshold: 0,  reciting_length: 101
 4 ascetic adj. 禁欲的 n. 苦行者 asceticism n. 禁欲主义
 ==================
+20160708 11:24:26
+Err: 49, recited: 161, total: 2112
+Shuffled: False, err_times_threshold: 0,  reciting_length: 161
+6 ague n. 冷颤，发冷
+7 insolent adj. 粗野的，无礼的
+3 elusive adj. 难懂的，难以描述的；不易被抓获的
+2 boo v. 发出嘘声 int. （表示不满，轻蔑等）嘘
+6 rift n. 裂口，断裂；矛盾
+3 advert v. 注意，留意；提及
+3 drastic adj. 猛烈的，激烈的 a drastic change 剧烈的变化
+6 strait n. 海峡 adj. 狭窄的 isthmus n. 地峡
+2 camaraderie n. 同志之情，友情
+11 grating adj. （声音）刺耳的；恼人的
+3 saturnine adj. 忧郁的，阴沉的 Saturn n. 土星
+3 reprehensible adj. 应受谴责的
+2 satirize v. 讽刺
+4 ruthless adj. 无情的；残忍的
+2 downplay v. 贬低，不予重视
+6 mystic adj. 神秘的，谜样的，难解的 n. 神秘主义者
+3 bouffant adj. 蓬松的；鼓胀的
+2 accountability n. 有责任
+5 tactile adj. 有触觉的
+5 regale v. 款待，宴请；使…快乐
+2 cordial adj. 热诚的 n. 兴奋剂
+2 bruit v. 散布（谣言） bring u it
+10 poignant adj. 令人痛苦的，伤心的；尖锐的
+4 vicissitude n. 变迁，兴衰
+2 ballyhoo n. 喧闹，呐喊 v. 大肆宣传，大吹大擂
+6 sanitary adj. （有关）卫生的，清洁的
+4 unscented adj. 无气味的
+2 browbeat v. 欺辱；吓唬
+5 torpor n. 死气沉沉
+3 stumble v. 绊倒
+2 enervate v. 使虚弱，使无力
+3 egregious adj. 极端恶劣的
+4 curt adj. （言词、行为）简略而草率的
+4 crumple v. 把…弄皱；起皱；破裂
+2 vehement adj. 猛烈的，热烈的
+3 bungle v. 笨拙地做
+4 subdue v. 征服；压制；减轻
+4 substantive adj. 根本的；独立存在的
+3 annihilate v. 消灭
+4 tenuous adj. 纤细的；稀薄的；脆弱的，无力的
+2 cozy adj. 舒适的，惬意的；亲切友好的
+2 antic adj. 古怪的
+3 stringent adj. （规定）严格的，苛刻的；缺钱的
+3 cavil v. 挑毛病，吹毛求疵
+2 alluring adj. 吸引人的，迷人的 allure v. 引诱
+4 tribulation n. 苦难， 忧患
+2 caper n./v. 雀跃，跳跃
+8 gibe v. 嘲笑 n. 嘲笑
+3 complacent adj. 自满的，随意的
+==================

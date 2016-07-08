@@ -6,13 +6,13 @@
     "nodes" : [
       {
         "selected" : false,
-        "frame" : "{{26, 15}, {338, 358}}",
+        "frame" : "{{13, 16}, {355, 517}}",
         "class" : "TextView",
         "nodes" : [
 
         ],
         "attributes" : {
-          "flex" : "WH",
+          "flex" : "WHLRTB",
           "font_name" : "<System>",
           "editable" : false,
           "frame" : "{{90, 175}, {200, 200}}",
@@ -21,8 +21,8 @@
           "uuid" : "37CD649A-83EF-40C3-9AE4-FB814F7D738B",
           "alignment" : "left",
           "autocorrection_type" : "default",
-          "font_size" : 17,
-          "name" : "textview_error_list"
+          "name" : "textview_error_list",
+          "font_size" : 17
         }
       }
     ],
