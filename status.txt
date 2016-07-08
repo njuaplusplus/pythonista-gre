@@ -3099,3 +3099,46 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 161
 8 gibe v. 嘲笑 n. 嘲笑
 3 complacent adj. 自满的，随意的
 ==================
+20160708 14:42:06
+Err: 39, recited: 146, total: 2101
+Shuffled: False, err_times_threshold: 0,  reciting_length: 146
+4 soporific adj. 催眠的 n. 安眠药
+1 grandiloquence n. 豪言壮语
+3 undercut v. 削价（与竞争者）抢生意
+8 palpable adj. 可触知的，可察觉的；明显的
+3 resonant adj. （声音）洪亮的；回响的，共鸣的
+2 enormous adj. 极大的，巨大的
+12 garble v. 曲解，篡改
+3 thatch v. 以茅草覆盖 n. 茅草屋顶；茅草
+3 genus n. （动植物的）属，类
+2 congenial adj. 意气相投的；性情好的；适宜的
+2 resuscitate v. 使复活，使苏醒
+3 prudent adj. 审慎的；精明的；节俭的，精打细算的
+1 propensity n. 嗜好，习性
+2 rueful adj. 抱憾的；后悔的
+2 dismal adj. 沮丧的，阴沉的
+7 natty adj. 整洁的；敏捷的，灵巧的
+2 canny adj. 精明仔细的
+3 edifice n. 宏伟的建筑（如宫殿、教堂等）
+8 sully v. 玷污，污染
+3 cloy v. （吃甜食）生腻，吃腻
+3 segregate v. 分离，隔离
+3 cello n. 大提琴 violin n. 小提琴 viola n. 中提琴
+2 drollery n. 滑稽 droll adj. 滑稽的
+2 voyeur n. 窥淫癖者
+1 protest v./n. 抗议，反对
+5 remunerative adj. 报酬高的，有利润的
+2 abject adj. 极可怜的；卑下的
+4 adroit adj. 熟练的，灵巧的
+10 inadvertent adj. 疏忽的；不经意的，无心的
+3 unfettered adj. 自由的，不受约束的
+4 turmoil n. 混乱，骚乱
+2 acedia n. 无精打采的样子；懒惰
+2 corroborate v. 支持或证实；强化 corroboration
+8 pungent adj. 辛辣的，刺激的；尖锐的，尖刻的
+2 discipline n. 纪律；惩罚，处分 v. 训练，训导
+4 solicitous adj. 热切的；挂念的 be solicitous of/for/about... 为…操心
+3 preliminary adj. 预备的，初步的，开始的 n. 准备工作，初步行动
+2 brat n. 孩子；顽童
+2 consonance n. 一致，调和 consonant adj. 协调的，一致的
+==================
