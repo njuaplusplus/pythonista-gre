@@ -584,7 +584,6 @@
 9 hypnotic adj. 催眠的 n. 催眠药
 3 hypochondriac n. 忧郁症患者 adj. 忧郁症的
 1 hypocrisy n. 伪善，虚伪
-2 hysteria n. 歇斯底里症；过度兴奋
 3 iconographic adj. 肖像的，肖像学的；图解的
 0 ideological adj. 意识形态的，思想体系的；思想上的
 1 ideology n. 思想体系，思想意识
@@ -787,7 +786,6 @@
 1 notate v. 以符号表示
 4 notch n. V 字形切口，刻痕；等级，档次
 1 notoriety n. 臭名昭著；臭名昭著的人
-1 novelty n. 新奇；新奇的事物
 1 novice n. 新手
 5 nuance n. 细微差异
 8 nubile adj. 适婚的，性感的
@@ -1553,7 +1551,7 @@
 1 vehicle n. 交通工具，传播媒介
 3 veil n. 面纱；遮蔽物 v. 以面纱遮盖
 2 venal adj. 腐败的，贪赃枉法的
-1 venerable adj. 值得尊敬的，庄严的
+2 venerable adj. 值得尊敬的，庄严的
 1 venerate v. 崇敬，敬仰
 3 venial adj. （错误等）轻微的，可原谅的
 3 venomous adj. 有毒的
@@ -2123,7 +2121,7 @@
 1 defray v. 支付，支出
 1 defuse v. 拆除（爆破物的）引信，使除去危险性；平息
 1 dejected adj. 沮丧的，失望的，灰心的
-1 delectation n. 享受，愉快
+2 delectation n. 享受，愉快
 1 delicate adj. 娇弱的；雅致的，精美的 delicate and fragile 娇嫩而脆弱的
 1 delinquent adj. 怠忽职守的
 1 delirium n. 精神错乱
@@ -2210,7 +2208,7 @@
 1 dismantle v. 拆除
 1 disparity n. 不同，差异 the wide disparity between rich and poor 贫富悬殊
 1 dispatch v. 派遣；迅速处理；匆匆吃完 n. 迅速
-1 dispense v. 分配，分发
+2 dispense v. 分配，分发
 1 disport v. 玩耍，嬉戏
 1 dispose v. 使倾向于；处理 dispose of 除掉，清除
 1 disposed adj. 愿意的，想干的 dispose v. 使倾向于；处理

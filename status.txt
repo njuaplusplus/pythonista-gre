@@ -3142,3 +3142,10 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 146
 2 brat n. 孩子；顽童
 2 consonance n. 一致，调和 consonant adj. 协调的，一致的
 ==================
+20160709 11:39:02
+Err: 3, recited: 13, total: 2223
+Shuffled: False, err_times_threshold: 0,  reciting_length: 13
+2 dispense v. 分配，分发
+2 delectation n. 享受，愉快
+2 venerable adj. 值得尊敬的，庄严的
+==================
