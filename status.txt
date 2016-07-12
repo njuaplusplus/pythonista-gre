@@ -3149,3 +3149,89 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 13
 2 delectation n. 享受，愉快
 2 venerable adj. 值得尊敬的，庄严的
 ==================
+20160710 10:42:20
+Err: 40, recited: 152, total: 2212
+Shuffled: False, err_times_threshold: 0,  reciting_length: 152
+2 adjunct n. 附加物，附件
+10 penitent adj. 悔过的，忏悔的
+2 crepuscular adj. 朦胧的，微明的 crepuscle n. 黄昏；黎明；朦胧 等于 crepuscule
+7 restitution n. 归还；赔偿
+6 regale v. 款待，宴请；使…快乐
+4 compendium n. 简要，概略
+3 anesthetic adj. 麻醉的；麻木的 n. 麻醉剂
+3 sedimentary adj. 沉积的，沉淀性的 sedimentary rock 沉积岩
+7 jest n. 笑话 v. 开玩笑
+4 tantamount adj. 同等的，相当于
+2 desecrate v. 玷辱，亵渎
+2 crumb n. 糕饼屑，面包屑；少许，点滴
+4 tenacity n. 坚持，固执
+4 slovenly adj. 不整洁的，邋遢的
+4 philistine n. 庸俗的人，对文化艺术无知的人
+4 tread v. 踏，践踏；行走 n. 步态；车轮胎面
+3 sanctuary n. 圣地；庇护所，避难所；庇护
+2 contentious adj. 好争吵的；有争议的 a contentious issue
+3 fraught adj. 充满的
+2 butt v. 用头抵撞，顶撞 n. 粗大的一端；烟蒂 butt in 插嘴；插手
+2 bide v. 等待，逗留
+3 intrigue v. 密谋；引起…的兴趣
+2 condign adj. 罪有应得的；适宜的
+4 remorse n. 懊悔
+2 convene v. 集合；超级
+10 mordant adj. 讥讽的，尖酸的
+3 appropriate v. 拨款；盗用 adj. 恰当的
+4 acarpous adj. 不结果实的
+4 trite adj. 陈腐的，陈词滥调的
+2 askew adj./adv. 歪斜的（地）
+2 acquisitive adj. 渴望得到的，贪婪的
+2 arbitrate v. 仲裁，公断
+7 relegate v. 使降级，贬谪；交付，托付
+2 compassion n. 同情 compassionate adj. 有同情心的
+2 cultivated adj. 耕种的，栽培的；有教养的
+5 debauch v. 使堕落，败坏 n. 堕落
+3 dissect v. 解剖；剖析
+4 dismember v. 肢解；分割
+6 reciprocity n. 相互性；互惠
+3 demure adj. 严肃的，矜持的
+==================
+20160711 09:27:59
+Err: 38, recited: 90, total: 2207
+Shuffled: False, err_times_threshold: 0,  reciting_length: 138
+4 promptness n. 敏捷，迅速；机敏
+4 auspicious adj. 幸运的；吉兆的
+3 assuming adj. 傲慢的，自负的
+2 agog adj. 兴奋的，有强烈兴趣的 agog 可以作词根，意为“引导”，如： demagog n. 煽动者
+2 blockage n. 障碍物
+2 competing adj. 有竞争性的；不相上下的
+2 besmirch v. 诽谤
+4 solitary adj. 孤独的 n. 隐士
+2 bloated adj. 肿胀的；傲慢的
+2 demonstrative adj. 证明的，论证的；感情流露的
+2 embryonic adj. 胚胎的；萌芽期的 embryo n. 胚胎
+2 deflect v. 偏离，转向
+2 buffoon n. 丑角；愚蠢的人
+2 flaggy adj. 枯萎的；松软无力的
+3 drudgery n. 苦工，苦活 drudge v. 做苦工
+2 disabuse v. 打消（某人的）错误念头，使醒悟
+2 disfigure v. 损坏…的外形；使变丑
+3 renegade n. 叛教者，叛徒
+3 calamity n. 大灾难
+2 clammy adj. 湿冷的，发粘的
+3 gregarious adj. 群居的；爱社交的
+2 spongy adj. 像海绵的；不坚实的 spongy topsoil 松软的表土
+2 besot v. 使沉醉，使糊涂
+2 braise v. 炖，蒸
+5 retaliate v. 报复，反击
+2 clannish adj. 排他的，门户之见的
+4 venomous adj. 有毒的
+2 bovine adj. （似）牛的；迟钝的
+2 abominate v. 痛恨；厌恶
+4 unwieldy adj. 难控制的的；笨重的
+2 blear v. 使模糊 adj. 模糊的
+3 unwitting adj. 无意的，不知不觉的
+3 thwart v. 阻挠，使受挫折，挫败
+3 ballyhoo n. 喧闹，呐喊 v. 大肆宣传，大吹大擂
+2 enviable adj. 令人羡慕的 envy v./n. 羡慕嫉妒
+2 delicate adj. 娇弱的；雅致的，精美的 delicate and fragile 娇嫩而脆弱的
+3 precedent adj. 在先的，在前的 n. 先例，判例
+2 dampen v. 使潮湿；使沮丧 damp adj. 潮湿的
+==================
