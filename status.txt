@@ -3235,3 +3235,106 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 138
 3 precedent adj. 在先的，在前的 n. 先例，判例
 2 dampen v. 使潮湿；使沮丧 damp adj. 潮湿的
 ==================
+20160713 08:46:16
+Err: 45, recited: 124, total: 2203
+Shuffled: False, err_times_threshold: 0,  reciting_length: 149
+2 comestible n. 食物 adj. 可吃的
+2 cauterize v. （用腐蚀性物质或烙铁）灼烧（表皮组织）以消毒或止血
+4 stash v. 藏匿
+2 decline v. 拒绝；变弱，变小 n. 消减
+2 bonny adj. 健美的，漂亮的
+3 stint v. 节制，限量，节省 stint on sth. 吝惜…
+3 solemn adj. 严肃的；庄严的，隆重的；黑色的 solemnity n. 庄严，肃穆
+5 tenacious adj. 坚韧的，顽强的
+9 nomadic adj. 游牧的；流浪的
+2 crescendo n. （音乐）渐强；高潮
+4 stagnant adj. 停滞的 stagnate v. 停滞 stagnation n. 停滞
+4 shuffle v. 洗牌；拖步走；支吾
+2 array v. 部署 n. 陈列；大批
+2 devise v. 发明，设计；图谋；遗赠给
+2 contend v. 竞争，争夺；争论，争辩 contend with
+3 radiant adj. 发光的；容光焕发的
+19 furtive adj. 偷偷的，秘密的
+2 despoil v. 夺取，抢夺
+7 torpid adj. 懒散的，迟钝的
+3 specious adj. 似是而非的；华而不实的
+5 spiral adj. 螺旋形的；上升的 v. 螺旋式上升或下降 来自 spire n. 螺旋
+3 cadge v. 乞讨；占便宜 cadge from/off
+3 retribution n. 报应，惩罚
+4 tantalize v. 挑惹，挑逗 来自希腊神话人物 Tantalus
+2 dedication n. 奉献，献身 dedicate v. 奉献
+3 dilate v. 使膨胀，使扩大
+6 stodgy adj. 乏味的
+3 sanguine adj. 乐观的；红润的
+6 scramble v. 攀登；搅乱，使混杂；争夺
+3 pugnacious adj. 好斗的
+3 stalk v. 隐伏跟踪（猎物）n. 茎，秆
+3 sprawl v. 散乱地延伸；四肢摊开着坐、卧或倒下
+2 disaffect v. 使不满；使疏远
+2 dislocate v. 使脱臼；把…弄乱
+2 tint n. 色泽 v. 给…淡淡地着色；染
+1 impending adj. 即将发生的，逼近的
+10 gush v. 涌出，迸出；滔滔不绝地说 n. 涌出，迸发
+2 cadet n. 军校或警官学校的学生 army cadets 军校学员
+6 peculiar adj. 独特的；古怪的
+2 animate adj. 活的，有生命的 v. 赋予生命
+2 affiliate v. 使隶属于；追溯…的来源；联合 n. 成员，附属机构
+1 replenish v. 补充，把…再备足
+2 unencumbered adj. 无阻碍的
+2 allergic adj. 过敏的；对…讨厌的
+3 sparing adj. 节俭的 来自 spare v. 节约，腾出 不要和 sparring n. 拳击 搞混
+==================
+20160713 19:10:36
+Err: 20, recited: 77, total: 2199
+Shuffled: False, err_times_threshold: 0,  reciting_length: 77
+2 detergent n. 清洁剂
+2 deteriorate v. （使）变坏，恶化
+2 emblematic adj. 作为象征的 emblem n. 象征
+2 cyclone n. 气旋，飓风
+12 oblivious adj. 遗忘的，忘却的；疏忽的
+8 prudish adj. 过分守礼的，假道学的
+5 besot v. 使沉醉，使糊涂
+3 skinflint n. 吝啬鬼 skin a flint 爱财如命
+5 dossier n. 卷宗，档案
+3 auspices n. 支持，赞助
+4 rivet n. 铆钉 v. 吸引（注意力） be riveted to the spot/ground 呆若木鸡
+1 frenetic adj. 狂乱的，发狂的
+5 sterile adj. 贫瘠且无植被的；无细菌的
+2 veracity n. 真实；诚实
+3 rectify v. 改正，校正；提纯
+2 comatose adj. 昏迷的 coma n. 昏迷
+5 deplore v. 悲悼，哀叹；谴责
+2 drowsy adj. 昏昏欲睡的 drowse v. 打瞌睡
+2 cramp n. 铁箍，夹子 v. 把…箍紧  cramp one's style 束缚…的手脚，限制…的才华
+2 composure n. 镇静，沉着；自若
+==================
+20160713 22:55:57
+Err: 26, recited: 82, total: 2196
+Shuffled: False, err_times_threshold: 0,  reciting_length: 82
+2 self-procession n. 自行列队
+14 pilgrim n. 朝圣者；（在国外的）旅行者
+6 impunity n. 免受惩罚
+2 deprecate v. 反对；轻视 deprecation deprecatory
+2 docile adj. 驯服的。听话的
+6 verdant adj .葱郁的，翠绿的
+3 stout adj. 肥胖的；强壮的
+6 muddle n. 迷惑，困惑；混乱
+4 reticent adj. 沉默寡言的
+2 dapper adj. 整洁漂亮的；动作敏捷的
+4 permeate v. 扩散，弥漫；穿透
+2 charitable adj. 行善的；仁爱的
+2 belabor v. 过分冗长地说或做；痛打
+5 abrogate v. 废除，废止
+2 browse v. 吃草；浏览 n. 嫩叶；嫩芽
+2 breach v. 打破，突破；违背 n. 裂缝，缺口 break v. 打破
+4 segregate v. 分离，隔离
+4 besmirch v. 诽谤
+3 divulge v. 泄露，透露
+2 tributary n. 支流；进贡国 adj. 支流的；辅助的；进贡的
+5 particulate adj. 微粒的 n. 微粒
+2 compliment n./v. 恭维，称赞
+5 trickle v. 细细地流 n. 细流
+7 mollify v. 抚慰；缓和
+2 burlesque n. 讽刺或滑稽的戏剧，滑稽剧
+2 dank adj. 阴湿的，透水的
+==================

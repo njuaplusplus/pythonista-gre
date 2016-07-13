@@ -97,3 +97,14 @@
 1 cosy adj. 温暖而舒适的 cozy a cosy/cozy feeling 惬意的感觉
 1 haggle v. 讨价还价
 1 canonical adj. 符合规定的；经典的
+0 forestall v. 预先阻止，先发制人
+1 valve n. 活门，阀门
+1 offstage adj. 台后的，幕后的
+1 phenomenal adj. 显著的，非凡的 phenomenon （n. 现象；奇迹）
+1 ideology n. 思想体系，思想意识
+0 folklore n. 民间传说；民俗学
+2 flaw n. 瑕疵 v. 生裂缝；变得有缺陷
+1 heavenly adj. 天空的，天上的
+3 perishable adj. 易腐烂的，易变质的 n. 易腐烂的东西 perish v. （毁灭；腐烂）
+1 supernova n. 超新星
+1 unmitigated adj. 未缓和的，未减轻的
