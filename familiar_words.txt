@@ -108,3 +108,7 @@
 3 perishable adj. 易腐烂的，易变质的 n. 易腐烂的东西 perish v. （毁灭；腐烂）
 1 supernova n. 超新星
 1 unmitigated adj. 未缓和的，未减轻的
+1 ambivalent adj. （对人或物）有矛盾看法的
+1 anaerobic adj. 厌氧的 n. 厌氧微生物
+1 nonviable adj. 无法生存的，不能存活的
+1 superb adj. 上乘的，出色的

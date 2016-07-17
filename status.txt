@@ -3338,3 +3338,33 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 82
 2 burlesque n. 讽刺或滑稽的戏剧，滑稽剧
 2 dank adj. 阴湿的，透水的
 ==================
+20160714 08:26:16
+Err: 1, recited: 21, total: 2195
+Shuffled: False, err_times_threshold: 0,  reciting_length: 21
+3 archaic adj. 古老的
+==================
+20160714 09:07:46
+Err: 6, recited: 10, total: 2195
+Shuffled: False, err_times_threshold: 0,  reciting_length: 16
+2 accomplished adj. 完成了的；有技巧的
+2 chorale n. 赞美诗；合唱队
+4 serendipity n. 意外发现新奇事物的才能或现象
+2 desultory adj. 不连贯的；散漫的
+2 abound v. 大量存在；充满，富于
+4 instigate v. 怂恿，鼓动，煽动
+==================
+20160715 12:49:00
+Err: 11, recited: 42, total: 2192
+Shuffled: False, err_times_threshold: 0,  reciting_length: 42
+2 discombobulated adj. 扰乱的，打乱的
+2 deference n. 敬意，尊重 deference to 对…尊重
+2 circumspect adj. 慎重的
+2 collateral adj. 平行的；附属的；旁系的 n. 担保品
+5 soporific adj. 催眠的 n. 安眠药
+2 calumny n. 诽谤，中伤
+3 dissonant adj. 不和谐的，不一致的
+3 remorselessly adv. 冷酷地，无悔意地
+2 creep v. 匍匐前进；悄悄地移动，蹑手蹑脚地走
+2 carouse n. 狂欢寻乐
+4 repulse v./n. 击退；（粗暴无礼）回绝
+==================
