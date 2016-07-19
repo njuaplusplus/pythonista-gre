@@ -112,3 +112,13 @@
 1 anaerobic adj. 厌氧的 n. 厌氧微生物
 1 nonviable adj. 无法生存的，不能存活的
 1 superb adj. 上乘的，出色的
+5 irreverent adj. 不尊敬的
+1 fluctuate v. 波动；变动
+4 obsolescent adj. 逐渐荒废的 obsolescence （n. 废弃，陈旧）
+1 exasperation n. 激怒
+0 referent n. 指示对象
+2 recipient n. 接受者
+1 overshadow v. 使蒙上阴影；使黯然失色
+0 frail adj. 脆弱的；不坚实的
+1 hitherto adv. 到目前为止
+1 grieve v. 使某人极为悲伤

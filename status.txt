@@ -3368,3 +3368,65 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 42
 2 carouse n. 狂欢寻乐
 4 repulse v./n. 击退；（粗暴无礼）回绝
 ==================
+20160718 12:28:53
+Err: 15, recited: 52, total: 2191
+Shuffled: False, err_times_threshold: 0,  reciting_length: 52
+4 saturnine adj. 忧郁的，阴沉的 Saturn n. 土星
+7 sterile adj. 贫瘠且无植被的；无细菌的
+11 moratorium n. 延缓偿付；活动中止
+5 scruple n./v. 顾忌，迟疑
+2 ample adj. 富足的；充足的
+6 repugnant adj. 令人厌恶的
+2 bowdlerize v. 删除，删改
+3 ardent adj. 热心的，热烈的
+3 derivation n. 发展，起源；词源 derive v. 派生，导出
+2 contumacious adj. 违抗的，不服从的 contumacy n. 抗命；不服从
+2 coalesce v. 联合，合并
+2 uncharitable adj. 无慈悲心的
+3 diaphanous adj. （布）精致的；半透明的
+4 chicanery n. 欺骗，欺诈
+3 cryptic adj. 秘密的，神秘的
+==================
+20160718 19:05:39
+Err: 16, recited: 52, total: 2191
+Shuffled: False, err_times_threshold: 0,  reciting_length: 52
+2 singularity n. 独特；奇点 sigular adj. 单数的；非凡的
+4 retrospect n. 回顾 v. 回顾，回想
+2 bait n. 诱饵 v. 逗弄；激怒
+2 sinuous adj. 蜿蜒的，迂回的
+10 precipitous adj. 陡峭的
+3 desecrate v. 玷辱，亵渎
+6 ungainly adj. 笨拙的
+3 propriety n. 礼节；适当，得体
+6 thwart v. 阻挠，使受挫折，挫败
+7 peripatetic adj. 巡游的，流动的
+2 depraved adj. 堕落的，腐化的 deprave v. 使堕落
+4 satiated adj. 厌倦的；充分满足的
+2 corrugate v. 起波纹，起皱纹 corrugated adj. 起皱纹的
+3 somber adj. 忧郁的；阴暗的
+2 aroma n. 芳香，香气
+2 dither v. 慌张；犹豫不决 n. 紧张；慌乱；犹豫
+==================
+20160719 12:25:57
+Err: 19, recited: 74, total: 2182
+Shuffled: False, err_times_threshold: 0,  reciting_length: 74
+2 agnostic adj. 不可知论的 n. 不可知论者
+4 shunt v. 使（火车）转到另一轨道；改变（某物的）方向
+3 butt v. 用头抵撞，顶撞 n. 粗大的一端；烟蒂 butt in 插嘴；插手
+3 emblematic adj. 作为象征的 emblem n. 象征
+2 commemorate v. 纪念（伟人，大事件等）；庆祝
+4 bale n. 大包，大捆；灾祸，不幸
+2 apocryphal adj. 假冒的，虚假的
+3 bilk v. 躲债；骗取
+3 concomitant adj. 伴随的
+2 discretionary adj. 自由决定的
+2 dividend n. 红利，股利
+2 callow adj. （鸟）未生羽毛的；（人）未成熟的
+7 sanitary adj. （有关）卫生的，清洁的
+7 profligacy n. 放荡；肆意挥霍
+16 piercing adj. 冷的刺骨的；敏锐的
+2 cutlery n. 餐具
+2 defuse v. 拆除（爆破物的）引信，使除去危险性；平息
+3 willful adj. 任性的；故意的
+3 blear v. 使模糊 adj. 模糊的
+==================
