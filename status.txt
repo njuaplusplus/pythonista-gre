@@ -3430,3 +3430,77 @@ Shuffled: False, err_times_threshold: 0,  reciting_length: 74
 3 willful adj. 任性的；故意的
 3 blear v. 使模糊 adj. 模糊的
 ==================
+20160720 09:21:24
+Err: 25, recited: 84, total: 2174
+Shuffled: False, err_times_threshold: 0,  reciting_length: 84
+2 bullion n. 金条，银条
+5 sanguine adj. 乐观的；红润的
+2 callous adj. 结硬块的；无情的 callus n. 老茧
+6 spiral adj. 螺旋形的；上升的 v. 螺旋式上升或下降 来自 spire n. 螺旋
+6 reciprocation n. 互换；报答；往复运动
+11 perpetrate v. 犯罪；负责
+3 clutter v. 弄乱 n. 零乱
+4 terrestrial adj. 地球的；陆地的
+4 stipulate v. 要求以…为条件；约定，规定
+2 solder v. 焊接，焊接在一起，焊合 soldier n. 战士
+4 calumny n. 诽谤，中伤
+2 contemplation n. 注视；凝视；意图；期望
+6 besot v. 使沉醉，使糊涂
+4 pugnacious adj. 好斗的
+2 chronic adj. 慢性的，长期的 chronic illness 慢性病
+2 composed adj. 镇定的，沉着的；由…组成的 be composed of sth.
+2 brace v. 支撑，加固 n. 支撑物
+3 chandelier n. 枝形吊灯（烛台）
+4 instructive adj. 传授知识的，教育的；有益的
+3 conjure v. 召唤，想起；变魔术 conjure for 召唤
+5 diaphanous adj. （布）精致的；半透明的
+2 sabotage n. 阴谋破坏，颠覆活动 an act of military sabotage 军事破坏活动
+5 bouffant adj. 蓬松的；鼓胀的
+2 dalliance n. 虚度光阴；调情 dally v. 闲荡，嬉戏
+2 amity n. （人们或国家之间的）友好关系
+==================
+20160722 13:10:25
+Err: 8, recited: 38, total: 2169
+Shuffled: False, err_times_threshold: 0,  reciting_length: 38
+2 sculpt v. 雕刻；造型
+2 animation n. 兴奋，活跃
+2 condole v. 同情，哀悼
+5 dilapidated adj. 破旧的，毁坏的
+5 flagging adj. 下垂的；衰弱的
+4 reverberate v. 发出回声，回响
+2 dereliction n. 遗弃；玩忽职守 derelict adj. 遗弃的
+2 clement adj. 仁慈的；温和的 clement weather 温和的气候
+==================
+20160725 12:52:42
+Err: 15, recited: 67, total: 2156
+Shuffled: False, err_times_threshold: 0,  reciting_length: 67
+4 ascent n. 上升，攀登；上坡路；提高，提升
+3 asunder adj./adv. 分离的（地）；化为碎片的（地）
+6 ascetic adj. 禁欲的 n. 苦行者 asceticism n. 禁欲主义
+2 balm n. 香油，药膏；镇痛剂，安慰物 balmy adj. 芳香的；（空气）温和的；止痛的
+5 astute adj. 机敏的，精明的
+2 ascribe v. 归因于，归咎于
+2 balk n. 梁木，大梁 v. 妨碍；畏缩不前
+3 attest v. 证实，证明 attest to sth.
+2 atrophy n. 萎缩，衰退
+2 apropos adj./adv. 适当的（地）；有关
+4 attrition n. 摩擦，磨损
+2 assail v. 质问；攻击
+4 assiduous adj. 勤勉的；专心的
+4 argumentative adj. 好争辩的，好争吵的
+6 auspicious adj. 幸运的；吉兆的
+==================
+20160728 17:46:33
+Err: 10, recited: 31, total: 2153
+Shuffled: False, err_times_threshold: 0,  reciting_length: 31
+2 acuity n. （尤指思想或感官）敏锐
+2 appraise v. 评价，鉴定
+4 chandelier n. 枝形吊灯（烛台）
+9 recuperate v. 恢复（健康、体力），复原
+7 obscure adj. 难以理解的，含糊的；不清楚的，模糊的 v. 使变模糊；隐藏
+1 impersonate v. 模仿；扮演
+2 chameleon n. 变色龙，蜥蜴；善变之人
+3 snobbery n. 势利
+3 emphatic adj. 忠实的，强调的
+12 grating adj. （声音）刺耳的；恼人的
+==================

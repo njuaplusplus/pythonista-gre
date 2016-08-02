@@ -122,3 +122,32 @@
 0 frail adj. 脆弱的；不坚实的
 1 hitherto adv. 到目前为止
 1 grieve v. 使某人极为悲伤
+1 presuppose vt. 预先假定；以…为先决条件
+1 idyllic adj. 田园诗的
+1 armored adj. 披甲的，装甲的 an armored car 装甲车 armor n. 装甲 v. 为…装甲
+2 affective adj. 感情的，表达感情的
+0 equestrian adj. 骑马的；骑士阶层的 n. 骑师
+0 exhilarate v. 使兴奋；使振作
+1 potted adj. 盆栽的；瓶装的，罐装的，壶装的
+5 forfeit v. 丧失，被罚没收 n. 丧失的东西
+1 particular n. 细节，详情
+5 introvert n. 性格内向的人
+4 sagacious adj. 聪明的，睿智的 （sage adj. 智慧的 n. 智者）
+1 acrobat n. 特技演员，杂技演员
+1 stimulus n. 刺激物，激励
+3 arduous adj. 费力的，艰难的 arduous march 艰难行军
+1 arbiter n. 权威人士，泰斗
+1 antidote n. 解药
+1 adversary n. 对手，敌手 adj. 对手的，敌对的 adverse adj. 有害的，不利的；敌对的，相反的 adversity n. 逆境，不幸
+1 allegory n. 寓言
+2 aspiration n. 抱负，渴望 aspiring adj. 有抱负的，有理想的 aspire v. 渴望成就…
+1 base adj. 卑鄙的 n. 基础 v. 以…为基础
+1 apprise v. 通知，告知
+1 belie v. 掩饰；证明为假
+4 antipathy n. 反感，厌恶
+1 amateur n. 业余爱好者
+1 allegiance n. 忠诚，拥护
+1 banal adj. 乏味的，陈腐的
+1 egalitarian adj. 主张人人平等的 equalitarian adj. 平等主义的
+1 endear v. 使受喜爱
+1 construe v. 解释；翻译
