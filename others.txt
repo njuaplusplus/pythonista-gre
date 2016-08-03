@@ -91,3 +91,56 @@ rigidity n. [物] 硬度，[力] 刚性；严格，刻板；僵化；坚硬
 recalcitrant adj. 反抗的；反对的；顽强的 n. 顽抗者；不服从的人
 encompass vt. 围绕;包围
 annul vt. 取消；废除；宣告无效
+sober adj. 冷静的，清醒的；未醉的 vt. 使严肃；使醒酒，使清醒
+sordid adj. 肮脏的；卑鄙的；利欲熏心的；色彩暗淡的
+weary adj. 疲倦的；厌烦的；令人厌烦的 vi. 疲倦；厌烦 vt. 使疲倦；使厌烦 be weary of
+rueful adj. 后悔的, 悔恨的
+solicitous adj. 热切期望的；热心的；挂念的
+marvelous adj. 了不起的；非凡的；令人惊异的；不平常的
+illuminate vt. 阐明，说明；照亮；
+delicate adj. 微妙的；易碎的；清淡可口的；柔和的；精美的，雅致的；纤弱的
+reconnaissance n. (对某地区的)侦察或观测(尤指为军事目的);(执行侦察任务的)巡逻队、飞行队等
+bibliographer n. 书志学家,书目提要编著人
+ark n. 方舟；约柜；
+arcane adj. 神秘的；秘传的；冷门的
+stiffer adj. 呆板的；坚硬的；严厉的；拘谨的
+conviction n. 定罪；确信；证明有罪；确信，坚定的信仰
+indispensable adj. 不可缺少的 n. 不可缺少的人或物
+pragmatic adj. 实际的；实用主义的
+posit vt. 安置；假定 n. 假设；设想
+perfumed adj. 芳香的；香味的
+gardenia n. 栀子花
+hydrogen n. [化学] 氢
+abiding adj. 持久的，永久的；不变的 v. 遵守；容忍；继续存在（abide的现在分词）
+taciturnity n. 沉默寡言 silence 的高级版
+transitoriness n. 短暂
+luxuriant adj. 繁茂的；丰富的；奢华的；肥沃的
+collusion n. 勾结；共谋
+melancholy n. 忧郁, 悲哀 adj. 忧郁的, 悲伤的 sorrow
+contend vi. 竞争；斗争；奋斗；争论 vt. 主张；为...斗争
+escalate vt. & vi. (使)逐步升级; (使)逐步扩大
+riot n. 暴乱, 骚乱 vi. 暴动, 闹事
+acquit vt. 宣判…无罪
+loot n. 掠夺品；战利品；抢劫 vt. 抢劫，洗劫；强夺 vi. 洗劫，掠夺；抢劫
+arson n. 纵火(罪)
+assault n. 攻击；袭击 vt. 袭击；攻击 vi. 袭击；动武
+cripple vt. 使跛, 受伤致残 严重削弱, 使陷于瘫痪
+visionary adj. 有眼光的, 有远见的 空想的, 幻想的, 不切实际的 n. 有幻觉的人 好幻想的人;空想家 有远见卓识者
+electorate n. 全体选民
+quell vt. 镇压；减轻；平息；消除
+entrench vt. 确立，牢固
+plunder vt./n. 掠夺
+manumit vt. 解放；释放 emancipate
+plantation n. 种植园
+marital adj. 婚姻的；夫妇间的
+furnish vt. 提供；供应；装备 furnish...with...
+heritage n. 遗产；传统；继承物；继承权
+exogamous adj. 异族结婚的，异族通婚的
+endogamy n. 同部族婚姻；同组结婚；同族结婚；
+monogamy n. 一夫一妻制；
+communal adj. 公共的；公社的
+compatriot n. 同胞；同国人
+pasteurization n. 加热杀菌(法);巴斯德氏杀菌法
+provoke v. 引起；挑衅
+flout v. 蔑视
+deterrent n. 威慑物 nuclear deterrent 核威慑
