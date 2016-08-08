@@ -20,3 +20,12 @@ opacity = obscurity n. 费解，晦涩难懂
 scent = fragrance(常褒义)  n. 香味
 fundamental = essential
 transitory = ephemeral adj. 短暂的
+insincere = hypocritical 不诚恳的；虚伪的
+irrelevant = extraneous 无关的
+debacle = fiasco 惨败
+imitate = simulate = mimic 模仿
+narrow = circumscribed = limited
+lethal = deadly = fatal 致命的
+grudging = reluctant adj. 不情愿的
+inexhaustible = copious
+reconcile = resolve
