@@ -42,3 +42,4 @@ disgrace = humiliate vt. 羞辱
 discomfited = embarrassed adj. 尴尬的
 neat = tidy adj. 整齐的
 hodgepodge = welter n. 混乱；大杂烩
+impasse = predicament = dilemma n. 绝境, 僵局, 停顿
